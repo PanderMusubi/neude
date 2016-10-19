@@ -1,18 +1,20 @@
 Neude
 =====
 
-
 **UNDER CONSTRUCTION**
+
+Digitisation and design of Neude, a typeface in style of Amsterdame School
+
+![sample Neude](images/sample-neude.png?raw=true)
 
 
 Introduction
 ------------
 
+TODO
+
 [voordekunst](https://voordekunst.nl/projecten/4858-digitalisering-en-ontwerp-font-neude-1)
 
-
-
-![sample Neude](images/sample-neude.png?raw=true)
 
 Specimen
 --------
@@ -92,3 +94,5 @@ Thanks
 [Stichting z25.org](http://z25.org)
 
 [![logo ](images/logo-z25.png?raw=true)](http://z25.org)
+
+If we forgot to name a person or organisation here, please let us know.
