@@ -25,13 +25,13 @@ Download
 
 **BETA VERSION!**
 
-Download the OTF file [Neude-beta.otf](Neude-beta.otf)
+Download the OTF file [Neude-beta.otf](https://github.com/z25/neude/blob/master/Neude_beta.otf?raw=true)
 
-[![OTF](images/application-x-font-otf.png?raw=true)](Neude-beta.otf)
+[![OTF](images/application-x-font-otf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude_beta.otf?raw=true)
 
-Download the TTF file [Neude-beta.ttf](Neude-beta.ttf)
+Download the TTF file [Neude-beta.ttf](https://github.com/z25/neude/blob/master/Neude_beta.otf?raw=true)
 
-[![TTF](images/application-x-font-ttf.png?raw=true)](Neude-beta.ttf)
+[![TTF](images/application-x-font-ttf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude_beta.ttf?raw=true)
 
 Download the WOFF file TODO
 
