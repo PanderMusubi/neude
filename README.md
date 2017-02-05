@@ -14,12 +14,6 @@ TODO
 [voordekunst](https://voordekunst.nl/projecten/4858-digitalisering-en-ontwerp-font-neude-1)
 
 
-Specimen
---------
-
-TODO
-
-
 Download
 --------
 
@@ -34,6 +28,12 @@ Download the TTF file [Neude-beta.ttf](https://github.com/z25/neude/blob/master/
 [![TTF](images/application-x-font-ttf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude_beta.ttf?raw=true)
 
 Download the WOFF file TODO
+
+
+Specimen
+--------
+
+TODO
 
 
 Building
