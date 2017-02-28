@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="2790_➐.svg">
+   sodipodi:docname="0047_G_ver.svg">
   <defs
      id="defs8" />
   <sodipodi:namedview
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1031"
      id="namedview6"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -36,9 +36,9 @@
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.791"
-     inkscape:cx="71.428576"
-     inkscape:cy="500"
+     inkscape:zoom="0.73095106"
+     inkscape:cx="447.81359"
+     inkscape:cy="541.14221"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -108,8 +108,8 @@
   </metadata>
   <path
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 362.49609,140 C 194.32661,140.00169 57.99942,269.83878 58,430 57.99942,590.16122 194.32661,719.99831 362.49609,720 530.66862,720.00242 667.00058,590.16413 667,430 667.00058,269.83587 530.66862,139.99758 362.49609,140 Z M 159.5,236.66602 l 406,0 -67.66602,386.66796 -270.66796,0 58,-331.42968 -125.66602,0 z"
-     id="path3201-9-1-3"
+     d="M 220.40039,140 C 130.70947,139.99969 58.000401,251.28832 58,388.57031 l 0,82.85742 C 57.99963,608.71026 148.88593,719.99999 261,720 l 406,0 0,-303.81055 -156.30859,0 0,82.85743 C 497.48373,516.44419 481.38077,526.6657 464,526.66602 l 0,-303.8086 c 17.38077,3.2e-4 33.48373,10.22183 46.69141,27.61914 l 128.95312,0 C 610.51096,183.86312 560.90437,139.99981 504.59961,140 Z"
+     id="rect3171-0-4"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssccccccc" />
+     sodipodi:nodetypes="ssscccccccccss" />
 </svg>
