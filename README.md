@@ -158,3 +158,15 @@ If we have forgotten to name a person or organisation here, please let us know.
 
 
 TODO http://neude.z25.org
+
+
+Support
+-------
+
+Plesae, support the futher development of font Neude by making a donation to Stichting z25.org via one of the funding methods below.
+
+[http://patreon.com/z25org](http://patreon.com/z25org)
+
+[http://paypal.com](http://paypal.com)
+
+[http://bountysource.com/people/48717-stichting-z25-org](http://bountysource.com/people/48717-stichting-z25-org)
