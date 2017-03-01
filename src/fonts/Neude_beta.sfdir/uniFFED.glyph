@@ -1,0 +1,18 @@
+StartChar: uniFFED
+Encoding: 65517 65517 114
+Width: 725
+VWidth: 60
+Flags: W
+HStem: 82.8574 414.285<159.5 565.5>
+VStem: 159.5 406<82.8574 497.143>
+LayerCount: 2
+Fore
+SplineSet
+159.5 497.142578125 m 1
+ 565.5 497.142578125 l 1
+ 565.5 82.857421875 l 1
+ 159.5 82.857421875 l 1
+ 159.5 497.142578125 l 1
+EndSplineSet
+Validated: 1
+EndChar

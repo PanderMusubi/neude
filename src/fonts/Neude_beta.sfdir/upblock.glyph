@@ -1,0 +1,17 @@
+StartChar: upblock
+Encoding: 9600 9600 64
+Width: 725
+VWidth: 60
+Flags: W
+HStem: 290 430<0 725>
+LayerCount: 2
+Fore
+SplineSet
+725 720 m 1
+ 725 290 l 1
+ 0 290 l 1
+ 0 720 l 1
+ 725 720 l 1
+EndSplineSet
+Validated: 1
+EndChar

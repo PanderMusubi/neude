@@ -1,0 +1,12 @@
+StartChar: umacron
+Encoding: 363 363 195
+Width: 725
+VWidth: 0
+Flags: W
+HStem: 560 20G<58 464 58 464 545.201 667 545.201 667> 621.429 82.8574<240.699 484.301>
+VStem: 58 406<200.515 580> 240.699 243.602<621.429 704.286> 545.201 121.799<232.506 580>
+LayerCount: 2
+Fore
+Refer: 194 362 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

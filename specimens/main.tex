@@ -16,6 +16,7 @@
 \frenchspacing
 \usepackage{polyglossia}\setdefaultlanguage{dutch}
 \usepackage{multicol}
+\usepackage{xcolor}
 \usepackage{hyperref}
 \hypersetup{%
     pdftitle={De Raaf},
@@ -28,7 +29,7 @@
 
 \begin{multicols}{2}
 \strut\\
-\hspace{-16mm}{\HUGE NEUDE}
+\hspace{-16mm}{\fontsize{42}{42}\selectfont NEUDE}\\
 
 %TODO alternatief font voor commentaar, letter uit die tijd!
 % gebruik van rode kleur
@@ -43,7 +44,8 @@
 %AZIE
 %AUSTRALIE
 
-\noindent{\huge~\\
+\noindent{\fontspec{URW Gothic L}17pt}\\
+{\huge
 A~A~E~A~A\\
 U~M~U~F~Z\\
 S~E~R~R~I\\
@@ -54,87 +56,91 @@ L~A\\
 I\\
 E\\}
 
-% 5pt
+\noindent{\fontspec{URW Gothic L}5pt}\\
 {\miniscule
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 6pt
+\noindent{\fontspec{URW Gothic L}6pt}\\
 {\tiny
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 7pt
+\noindent{\fontspec{URW Gothic L}7pt}\\
 {\scriptsize
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 8pt
+\noindent{\fontspec{URW Gothic L}8pt}\\
 {\footnotesize
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 9pt
+\noindent{\fontspec{URW Gothic L}9pt}\\
 {\small
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 10pt
+\noindent{\fontspec{URW Gothic L}10pt}\\
 {\normalsize
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 11pt
+\noindent{\fontspec{URW Gothic L}11pt}\\
 {\large
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 12pt
+\noindent{\fontspec{URW Gothic L}12pt}\\
 {\Large
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 14pt
+\noindent{\fontspec{URW Gothic L}14pt}\\
 {\LARGE
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 17pt
+\noindent{\fontspec{URW Gothic L}17pt}\\
 {\huge
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 20pt
+\noindent{\fontspec{URW Gothic L}20pt}\\
 {\Huge
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
 
-% 25pt
+\noindent{\fontspec{URW Gothic L}25pt}\\
 {\HUGE
-\noindent ABCDEFGHI\\
+ABCDEFGHI\\
 JKLMNOPQR\\
 STUVWXYĲZ\\}
-
-\noindent ASDF\\
-{\addfontfeature{Color=FF2020}ASDF}\\
 
 \noindent ASDF\\
 {\addfontfeature{FakeSlant=0.2}ASDF}\\
 {\addfontfeature{FakeSlant=0.4}ASDF}\\
 
-\noindent{\normalsize Opgemaakt in Neude door S. van Geloven.}
+\noindent\fcolorbox{black}{white}{\begin{minipage}{.47\hsize}\Huge NEUDE\\
+{\addfontfeature{Color=f44335}NEUDE}\end{minipage}}
+\hfill
+\fcolorbox{black}{black}{\begin{minipage}{.47\hsize}\Huge {\color{white}NEUDE}\\
+{\addfontfeature{Color=ffeb38}NEUDE}\end{minipage}}
+
 
 \end{multicols}
+
+\noindent{\fontspec{URW Gothic L}ⓒ 2106, Stichting z25.org, Open Font License (OFL), http://neude.z25.org}
 
 \end{document}
