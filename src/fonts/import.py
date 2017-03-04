@@ -25,7 +25,8 @@ for svgfile in svgfiles:
         continue
 #    print('DEBUG: svg', svgfile)
     try:
-        uni = int(svgfile.split('_')[0], 16)
+        src = svgfile.split('_')[0]
+        uni = int(src, 16)
     except:
         print('ERROR: Invalid glyph unicode value in file name: %s'%(svgfile.split('_')[0]))
         exit(1)
@@ -39,7 +40,8 @@ for svgfile in svgfiles:
         if font:
             glyph = font.createChar(uni, gname)
             glyph.clear()
-            glyph.importOutlines(path.join(glyphDir, svgfile))
+            if src != '0020':#TODO test
+                glyph.importOutlines(path.join(glyphDir, svgfile))
             glyph.width = 725 #TODO how to set this globally?
         else:
             # Test run from outside of Fontforge
@@ -89,7 +91,6 @@ with open('/home/sander/workspace/neude/src/fonts/refs.tsv', 'r') as refs:
                                 glyph.addReference(ref_gname, (-1.0, 0.0, 0.0, 1.0, 725.0, 0.0))
                             else:
                                 print('ERROR: Unknown operation')
-                                pass
                             glyph.width = 725 #TODO how to set this globally?
                     else:
                         print('WARNING: Destination %s (U%s) %s has unavailable reference %s (U%s) %s, skipping, please reorder reference file or add SVG sources'%(dst_uni, dst, dst_gname, ref_uni, ref, ref_gname))
