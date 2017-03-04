@@ -70,339 +70,351 @@
     <GlyphID id="64" name="y"/>
     <GlyphID id="65" name="z"/>
     <GlyphID id="66" name="bar"/>
-    <GlyphID id="67" name="exclamdown"/>
-    <GlyphID id="68" name="yen"/>
-    <GlyphID id="69" name="brokenbar"/>
-    <GlyphID id="70" name="dieresis"/>
-    <GlyphID id="71" name="macron"/>
-    <GlyphID id="72" name="acute"/>
-    <GlyphID id="73" name="Adieresis"/>
-    <GlyphID id="74" name="Edieresis"/>
-    <GlyphID id="75" name="Idieresis"/>
-    <GlyphID id="76" name="Odieresis"/>
-    <GlyphID id="77" name="Udieresis"/>
-    <GlyphID id="78" name="adieresis"/>
-    <GlyphID id="79" name="edieresis"/>
-    <GlyphID id="80" name="idieresis"/>
-    <GlyphID id="81" name="odieresis"/>
-    <GlyphID id="82" name="udieresis"/>
-    <GlyphID id="83" name="ydieresis"/>
-    <GlyphID id="84" name="Amacron"/>
-    <GlyphID id="85" name="amacron"/>
-    <GlyphID id="86" name="Cacute"/>
-    <GlyphID id="87" name="cacute"/>
-    <GlyphID id="88" name="Ccircumflex"/>
-    <GlyphID id="89" name="ccircumflex"/>
-    <GlyphID id="90" name="Cdotaccent"/>
-    <GlyphID id="91" name="cdotaccent"/>
-    <GlyphID id="92" name="Ccaron"/>
-    <GlyphID id="93" name="ccaron"/>
-    <GlyphID id="94" name="Dcaron"/>
-    <GlyphID id="95" name="Emacron"/>
-    <GlyphID id="96" name="emacron"/>
-    <GlyphID id="97" name="Edotaccent"/>
-    <GlyphID id="98" name="edotaccent"/>
-    <GlyphID id="99" name="Ecaron"/>
-    <GlyphID id="100" name="ecaron"/>
-    <GlyphID id="101" name="Gcircumflex"/>
-    <GlyphID id="102" name="gcircumflex"/>
-    <GlyphID id="103" name="Gdotaccent"/>
-    <GlyphID id="104" name="gdotaccent"/>
-    <GlyphID id="105" name="Imacron"/>
-    <GlyphID id="106" name="imacron"/>
-    <GlyphID id="107" name="Idotaccent"/>
-    <GlyphID id="108" name="IJ"/>
-    <GlyphID id="109" name="ij"/>
-    <GlyphID id="110" name="kgreenlandic"/>
-    <GlyphID id="111" name="Omacron"/>
-    <GlyphID id="112" name="omacron"/>
-    <GlyphID id="113" name="Umacron"/>
-    <GlyphID id="114" name="umacron"/>
-    <GlyphID id="115" name="Ydieresis"/>
-    <GlyphID id="116" name="Zdotaccent"/>
-    <GlyphID id="117" name="zdotaccent"/>
-    <GlyphID id="118" name="gravecomb"/>
-    <GlyphID id="119" name="acutecomb"/>
-    <GlyphID id="120" name="uni0302"/>
-    <GlyphID id="121" name="uni0304"/>
-    <GlyphID id="122" name="uni0307"/>
-    <GlyphID id="123" name="uni0308"/>
-    <GlyphID id="124" name="uni030B"/>
-    <GlyphID id="125" name="uni030C"/>
-    <GlyphID id="126" name="uni030F"/>
-    <GlyphID id="127" name="uni0316"/>
-    <GlyphID id="128" name="uni0317"/>
-    <GlyphID id="129" name="dotbelowcomb"/>
-    <GlyphID id="130" name="uni0324"/>
-    <GlyphID id="131" name="uni032C"/>
-    <GlyphID id="132" name="uni032D"/>
-    <GlyphID id="133" name="uni0331"/>
-    <GlyphID id="134" name="uni16C9"/>
-    <GlyphID id="135" name="uni16CA"/>
-    <GlyphID id="136" name="uni1E02"/>
-    <GlyphID id="137" name="uni1E03"/>
-    <GlyphID id="138" name="uni1E04"/>
-    <GlyphID id="139" name="uni1E05"/>
-    <GlyphID id="140" name="uni1E06"/>
-    <GlyphID id="141" name="uni1E07"/>
-    <GlyphID id="142" name="uni1E0A"/>
-    <GlyphID id="143" name="uni1E0B"/>
-    <GlyphID id="144" name="uni1E0C"/>
-    <GlyphID id="145" name="uni1E0D"/>
-    <GlyphID id="146" name="uni1E0E"/>
-    <GlyphID id="147" name="uni1E0F"/>
-    <GlyphID id="148" name="uni1E1E"/>
-    <GlyphID id="149" name="uni1E1F"/>
-    <GlyphID id="150" name="uni1E20"/>
-    <GlyphID id="151" name="uni1E21"/>
-    <GlyphID id="152" name="uni1E22"/>
-    <GlyphID id="153" name="uni1E23"/>
-    <GlyphID id="154" name="uni1E24"/>
-    <GlyphID id="155" name="uni1E25"/>
-    <GlyphID id="156" name="uni1E26"/>
-    <GlyphID id="157" name="uni1E27"/>
-    <GlyphID id="158" name="uni1E32"/>
-    <GlyphID id="159" name="uni1E33"/>
-    <GlyphID id="160" name="uni1E34"/>
-    <GlyphID id="161" name="uni1E35"/>
-    <GlyphID id="162" name="uni1E36"/>
-    <GlyphID id="163" name="uni1E37"/>
-    <GlyphID id="164" name="uni1E38"/>
-    <GlyphID id="165" name="uni1E39"/>
-    <GlyphID id="166" name="uni1E3A"/>
-    <GlyphID id="167" name="uni1E3B"/>
-    <GlyphID id="168" name="uni1E40"/>
-    <GlyphID id="169" name="uni1E41"/>
-    <GlyphID id="170" name="uni1E42"/>
-    <GlyphID id="171" name="uni1E43"/>
-    <GlyphID id="172" name="uni1E44"/>
-    <GlyphID id="173" name="uni1E45"/>
-    <GlyphID id="174" name="uni1E46"/>
-    <GlyphID id="175" name="uni1E47"/>
-    <GlyphID id="176" name="uni1E48"/>
-    <GlyphID id="177" name="uni1E49"/>
-    <GlyphID id="178" name="uni1E56"/>
-    <GlyphID id="179" name="uni1E57"/>
-    <GlyphID id="180" name="uni1E58"/>
-    <GlyphID id="181" name="uni1E59"/>
-    <GlyphID id="182" name="uni1E5A"/>
-    <GlyphID id="183" name="uni1E5B"/>
-    <GlyphID id="184" name="uni1E5C"/>
-    <GlyphID id="185" name="uni1E5D"/>
-    <GlyphID id="186" name="uni1E5E"/>
-    <GlyphID id="187" name="uni1E5F"/>
-    <GlyphID id="188" name="uni1E60"/>
-    <GlyphID id="189" name="uni1E61"/>
-    <GlyphID id="190" name="uni1E62"/>
-    <GlyphID id="191" name="uni1E63"/>
-    <GlyphID id="192" name="uni1E68"/>
-    <GlyphID id="193" name="uni1E69"/>
-    <GlyphID id="194" name="uni1E6A"/>
-    <GlyphID id="195" name="uni1E6B"/>
-    <GlyphID id="196" name="uni1E6C"/>
-    <GlyphID id="197" name="uni1E6D"/>
-    <GlyphID id="198" name="uni1E6E"/>
-    <GlyphID id="199" name="uni1E6F"/>
-    <GlyphID id="200" name="uni1E72"/>
-    <GlyphID id="201" name="uni1E73"/>
-    <GlyphID id="202" name="uni1E7E"/>
-    <GlyphID id="203" name="uni1E7F"/>
-    <GlyphID id="204" name="Wdieresis"/>
-    <GlyphID id="205" name="wdieresis"/>
-    <GlyphID id="206" name="uni1E86"/>
-    <GlyphID id="207" name="uni1E87"/>
-    <GlyphID id="208" name="uni1E88"/>
-    <GlyphID id="209" name="uni1E89"/>
-    <GlyphID id="210" name="uni1E8A"/>
-    <GlyphID id="211" name="uni1E8B"/>
-    <GlyphID id="212" name="uni1E8C"/>
-    <GlyphID id="213" name="uni1E8D"/>
-    <GlyphID id="214" name="uni1E8E"/>
-    <GlyphID id="215" name="uni1E8F"/>
-    <GlyphID id="216" name="uni1E92"/>
-    <GlyphID id="217" name="uni1E93"/>
-    <GlyphID id="218" name="uni1E94"/>
-    <GlyphID id="219" name="uni1E95"/>
-    <GlyphID id="220" name="uni1E96"/>
-    <GlyphID id="221" name="uni1E97"/>
-    <GlyphID id="222" name="uni1EA0"/>
-    <GlyphID id="223" name="uni1EA1"/>
-    <GlyphID id="224" name="uni1EB8"/>
-    <GlyphID id="225" name="uni1EB9"/>
-    <GlyphID id="226" name="uni1ECA"/>
-    <GlyphID id="227" name="uni1ECB"/>
-    <GlyphID id="228" name="uni1ECC"/>
-    <GlyphID id="229" name="uni1ECD"/>
-    <GlyphID id="230" name="uni1EE4"/>
-    <GlyphID id="231" name="uni1EE5"/>
-    <GlyphID id="232" name="uni1EF4"/>
-    <GlyphID id="233" name="uni1EF5"/>
-    <GlyphID id="234" name="uni2016"/>
-    <GlyphID id="235" name="underscoredbl"/>
-    <GlyphID id="236" name="twodotenleader"/>
-    <GlyphID id="237" name="ellipsis"/>
-    <GlyphID id="238" name="exclamdbl"/>
-    <GlyphID id="239" name="uni203E"/>
-    <GlyphID id="240" name="uni2160"/>
-    <GlyphID id="241" name="uni2164"/>
-    <GlyphID id="242" name="uni2169"/>
-    <GlyphID id="243" name="uni216C"/>
-    <GlyphID id="244" name="uni216D"/>
-    <GlyphID id="245" name="uni216E"/>
-    <GlyphID id="246" name="uni216F"/>
-    <GlyphID id="247" name="uni2170"/>
-    <GlyphID id="248" name="uni2174"/>
-    <GlyphID id="249" name="uni2179"/>
-    <GlyphID id="250" name="uni217C"/>
-    <GlyphID id="251" name="uni217D"/>
-    <GlyphID id="252" name="uni217E"/>
-    <GlyphID id="253" name="uni217F"/>
-    <GlyphID id="254" name="uni2183"/>
-    <GlyphID id="255" name="uni2184"/>
-    <GlyphID id="256" name="uni2423"/>
-    <GlyphID id="257" name="upblock"/>
-    <GlyphID id="258" name="uni2581"/>
-    <GlyphID id="259" name="uni2582"/>
-    <GlyphID id="260" name="uni2583"/>
-    <GlyphID id="261" name="dnblock"/>
-    <GlyphID id="262" name="uni2585"/>
-    <GlyphID id="263" name="uni2586"/>
-    <GlyphID id="264" name="uni2587"/>
-    <GlyphID id="265" name="block"/>
-    <GlyphID id="266" name="uni2589"/>
-    <GlyphID id="267" name="uni258A"/>
-    <GlyphID id="268" name="uni258B"/>
-    <GlyphID id="269" name="lfblock"/>
-    <GlyphID id="270" name="uni258D"/>
-    <GlyphID id="271" name="uni258E"/>
-    <GlyphID id="272" name="uni258F"/>
-    <GlyphID id="273" name="rtblock"/>
-    <GlyphID id="274" name="ltshade"/>
-    <GlyphID id="275" name="shade"/>
-    <GlyphID id="276" name="dkshade"/>
-    <GlyphID id="277" name="uni2594"/>
-    <GlyphID id="278" name="uni2595"/>
-    <GlyphID id="279" name="uni2596"/>
-    <GlyphID id="280" name="uni259A"/>
-    <GlyphID id="281" name="uni259B"/>
-    <GlyphID id="282" name="uni259C"/>
-    <GlyphID id="283" name="uni259D"/>
-    <GlyphID id="284" name="uni259E"/>
-    <GlyphID id="285" name="uni259F"/>
-    <GlyphID id="286" name="filledbox"/>
-    <GlyphID id="287" name="uni2610"/>
-    <GlyphID id="288" name="uni2616"/>
-    <GlyphID id="289" name="uni2617"/>
-    <GlyphID id="290" name="uni2630"/>
-    <GlyphID id="291" name="uni2631"/>
-    <GlyphID id="292" name="uni2632"/>
-    <GlyphID id="293" name="uni2633"/>
-    <GlyphID id="294" name="uni2634"/>
-    <GlyphID id="295" name="uni2635"/>
-    <GlyphID id="296" name="uni2636"/>
-    <GlyphID id="297" name="uni2637"/>
-    <GlyphID id="298" name="uni268C"/>
-    <GlyphID id="299" name="uni268D"/>
-    <GlyphID id="300" name="uni268E"/>
-    <GlyphID id="301" name="uni268F"/>
-    <GlyphID id="302" name="uni2690"/>
-    <GlyphID id="303" name="uni2691"/>
-    <GlyphID id="304" name="uni26EB"/>
-    <GlyphID id="305" name="uni26F0"/>
-    <GlyphID id="306" name="uni26F6"/>
-    <GlyphID id="307" name="uni26FF"/>
-    <GlyphID id="308" name="uni2719"/>
-    <GlyphID id="309" name="uni271A"/>
-    <GlyphID id="310" name="uni271B"/>
-    <GlyphID id="311" name="uni271C"/>
-    <GlyphID id="312" name="uni271D"/>
-    <GlyphID id="313" name="uni271F"/>
-    <GlyphID id="314" name="uni2779"/>
-    <GlyphID id="315" name="uni277C"/>
-    <GlyphID id="316" name="uni278D"/>
-    <GlyphID id="317" name="uni2790"/>
-    <GlyphID id="318" name="uni29E9"/>
-    <GlyphID id="319" name="uniFF01"/>
-    <GlyphID id="320" name="uniFF02"/>
-    <GlyphID id="321" name="uniFF07"/>
-    <GlyphID id="322" name="uniFF0B"/>
-    <GlyphID id="323" name="uniFF0D"/>
-    <GlyphID id="324" name="uniFF0E"/>
-    <GlyphID id="325" name="uniFF11"/>
-    <GlyphID id="326" name="uniFF14"/>
-    <GlyphID id="327" name="uniFF17"/>
-    <GlyphID id="328" name="uniFF1A"/>
-    <GlyphID id="329" name="uniFF1D"/>
-    <GlyphID id="330" name="uniFF21"/>
-    <GlyphID id="331" name="uniFF22"/>
-    <GlyphID id="332" name="uniFF23"/>
-    <GlyphID id="333" name="uniFF24"/>
-    <GlyphID id="334" name="uniFF25"/>
-    <GlyphID id="335" name="uniFF26"/>
-    <GlyphID id="336" name="uniFF27"/>
-    <GlyphID id="337" name="uniFF28"/>
-    <GlyphID id="338" name="uniFF29"/>
-    <GlyphID id="339" name="uniFF2A"/>
-    <GlyphID id="340" name="uniFF2B"/>
-    <GlyphID id="341" name="uniFF2C"/>
-    <GlyphID id="342" name="uniFF2D"/>
-    <GlyphID id="343" name="uniFF2E"/>
-    <GlyphID id="344" name="uniFF2F"/>
-    <GlyphID id="345" name="uniFF30"/>
-    <GlyphID id="346" name="uniFF31"/>
-    <GlyphID id="347" name="uniFF32"/>
-    <GlyphID id="348" name="uniFF34"/>
-    <GlyphID id="349" name="uniFF35"/>
-    <GlyphID id="350" name="uniFF36"/>
-    <GlyphID id="351" name="uniFF37"/>
-    <GlyphID id="352" name="uniFF38"/>
-    <GlyphID id="353" name="uniFF39"/>
-    <GlyphID id="354" name="uniFF3A"/>
-    <GlyphID id="355" name="uniFF3E"/>
-    <GlyphID id="356" name="uniFF3F"/>
-    <GlyphID id="357" name="uniFF40"/>
-    <GlyphID id="358" name="uniFF41"/>
-    <GlyphID id="359" name="uniFF42"/>
-    <GlyphID id="360" name="uniFF43"/>
-    <GlyphID id="361" name="uniFF44"/>
-    <GlyphID id="362" name="uniFF45"/>
-    <GlyphID id="363" name="uniFF46"/>
-    <GlyphID id="364" name="uniFF47"/>
-    <GlyphID id="365" name="uniFF48"/>
-    <GlyphID id="366" name="uniFF49"/>
-    <GlyphID id="367" name="uniFF4A"/>
-    <GlyphID id="368" name="uniFF4B"/>
-    <GlyphID id="369" name="uniFF4C"/>
-    <GlyphID id="370" name="uniFF4D"/>
-    <GlyphID id="371" name="uniFF4E"/>
-    <GlyphID id="372" name="uniFF4F"/>
-    <GlyphID id="373" name="uniFF50"/>
-    <GlyphID id="374" name="uniFF51"/>
-    <GlyphID id="375" name="uniFF52"/>
-    <GlyphID id="376" name="uniFF54"/>
-    <GlyphID id="377" name="uniFF55"/>
-    <GlyphID id="378" name="uniFF56"/>
-    <GlyphID id="379" name="uniFF57"/>
-    <GlyphID id="380" name="uniFF58"/>
-    <GlyphID id="381" name="uniFF59"/>
-    <GlyphID id="382" name="uniFF5A"/>
-    <GlyphID id="383" name="uniFF5C"/>
-    <GlyphID id="384" name="uniFFE4"/>
-    <GlyphID id="385" name="uniFFE5"/>
-    <GlyphID id="386" name="uniFFED"/>
-    <GlyphID id="387" name="u1F4EF"/>
+    <GlyphID id="67" name="uni00A0"/>
+    <GlyphID id="68" name="exclamdown"/>
+    <GlyphID id="69" name="yen"/>
+    <GlyphID id="70" name="brokenbar"/>
+    <GlyphID id="71" name="dieresis"/>
+    <GlyphID id="72" name="macron"/>
+    <GlyphID id="73" name="acute"/>
+    <GlyphID id="74" name="Adieresis"/>
+    <GlyphID id="75" name="Edieresis"/>
+    <GlyphID id="76" name="Idieresis"/>
+    <GlyphID id="77" name="Odieresis"/>
+    <GlyphID id="78" name="Udieresis"/>
+    <GlyphID id="79" name="adieresis"/>
+    <GlyphID id="80" name="edieresis"/>
+    <GlyphID id="81" name="idieresis"/>
+    <GlyphID id="82" name="odieresis"/>
+    <GlyphID id="83" name="udieresis"/>
+    <GlyphID id="84" name="ydieresis"/>
+    <GlyphID id="85" name="Amacron"/>
+    <GlyphID id="86" name="amacron"/>
+    <GlyphID id="87" name="Cacute"/>
+    <GlyphID id="88" name="cacute"/>
+    <GlyphID id="89" name="Ccircumflex"/>
+    <GlyphID id="90" name="ccircumflex"/>
+    <GlyphID id="91" name="Cdotaccent"/>
+    <GlyphID id="92" name="cdotaccent"/>
+    <GlyphID id="93" name="Ccaron"/>
+    <GlyphID id="94" name="ccaron"/>
+    <GlyphID id="95" name="Dcaron"/>
+    <GlyphID id="96" name="Emacron"/>
+    <GlyphID id="97" name="emacron"/>
+    <GlyphID id="98" name="Edotaccent"/>
+    <GlyphID id="99" name="edotaccent"/>
+    <GlyphID id="100" name="Ecaron"/>
+    <GlyphID id="101" name="ecaron"/>
+    <GlyphID id="102" name="Gcircumflex"/>
+    <GlyphID id="103" name="gcircumflex"/>
+    <GlyphID id="104" name="Gdotaccent"/>
+    <GlyphID id="105" name="gdotaccent"/>
+    <GlyphID id="106" name="Imacron"/>
+    <GlyphID id="107" name="imacron"/>
+    <GlyphID id="108" name="Idotaccent"/>
+    <GlyphID id="109" name="IJ"/>
+    <GlyphID id="110" name="ij"/>
+    <GlyphID id="111" name="kgreenlandic"/>
+    <GlyphID id="112" name="Omacron"/>
+    <GlyphID id="113" name="omacron"/>
+    <GlyphID id="114" name="Umacron"/>
+    <GlyphID id="115" name="umacron"/>
+    <GlyphID id="116" name="Ydieresis"/>
+    <GlyphID id="117" name="Zdotaccent"/>
+    <GlyphID id="118" name="zdotaccent"/>
+    <GlyphID id="119" name="gravecomb"/>
+    <GlyphID id="120" name="acutecomb"/>
+    <GlyphID id="121" name="uni0302"/>
+    <GlyphID id="122" name="uni0304"/>
+    <GlyphID id="123" name="uni0307"/>
+    <GlyphID id="124" name="uni0308"/>
+    <GlyphID id="125" name="uni030B"/>
+    <GlyphID id="126" name="uni030C"/>
+    <GlyphID id="127" name="uni030F"/>
+    <GlyphID id="128" name="uni0316"/>
+    <GlyphID id="129" name="uni0317"/>
+    <GlyphID id="130" name="dotbelowcomb"/>
+    <GlyphID id="131" name="uni0324"/>
+    <GlyphID id="132" name="uni032C"/>
+    <GlyphID id="133" name="uni032D"/>
+    <GlyphID id="134" name="uni0331"/>
+    <GlyphID id="135" name="uni16C9"/>
+    <GlyphID id="136" name="uni16CA"/>
+    <GlyphID id="137" name="uni1E02"/>
+    <GlyphID id="138" name="uni1E03"/>
+    <GlyphID id="139" name="uni1E04"/>
+    <GlyphID id="140" name="uni1E05"/>
+    <GlyphID id="141" name="uni1E06"/>
+    <GlyphID id="142" name="uni1E07"/>
+    <GlyphID id="143" name="uni1E0A"/>
+    <GlyphID id="144" name="uni1E0B"/>
+    <GlyphID id="145" name="uni1E0C"/>
+    <GlyphID id="146" name="uni1E0D"/>
+    <GlyphID id="147" name="uni1E0E"/>
+    <GlyphID id="148" name="uni1E0F"/>
+    <GlyphID id="149" name="uni1E1E"/>
+    <GlyphID id="150" name="uni1E1F"/>
+    <GlyphID id="151" name="uni1E20"/>
+    <GlyphID id="152" name="uni1E21"/>
+    <GlyphID id="153" name="uni1E22"/>
+    <GlyphID id="154" name="uni1E23"/>
+    <GlyphID id="155" name="uni1E24"/>
+    <GlyphID id="156" name="uni1E25"/>
+    <GlyphID id="157" name="uni1E26"/>
+    <GlyphID id="158" name="uni1E27"/>
+    <GlyphID id="159" name="uni1E32"/>
+    <GlyphID id="160" name="uni1E33"/>
+    <GlyphID id="161" name="uni1E34"/>
+    <GlyphID id="162" name="uni1E35"/>
+    <GlyphID id="163" name="uni1E36"/>
+    <GlyphID id="164" name="uni1E37"/>
+    <GlyphID id="165" name="uni1E38"/>
+    <GlyphID id="166" name="uni1E39"/>
+    <GlyphID id="167" name="uni1E3A"/>
+    <GlyphID id="168" name="uni1E3B"/>
+    <GlyphID id="169" name="uni1E40"/>
+    <GlyphID id="170" name="uni1E41"/>
+    <GlyphID id="171" name="uni1E42"/>
+    <GlyphID id="172" name="uni1E43"/>
+    <GlyphID id="173" name="uni1E44"/>
+    <GlyphID id="174" name="uni1E45"/>
+    <GlyphID id="175" name="uni1E46"/>
+    <GlyphID id="176" name="uni1E47"/>
+    <GlyphID id="177" name="uni1E48"/>
+    <GlyphID id="178" name="uni1E49"/>
+    <GlyphID id="179" name="uni1E56"/>
+    <GlyphID id="180" name="uni1E57"/>
+    <GlyphID id="181" name="uni1E58"/>
+    <GlyphID id="182" name="uni1E59"/>
+    <GlyphID id="183" name="uni1E5A"/>
+    <GlyphID id="184" name="uni1E5B"/>
+    <GlyphID id="185" name="uni1E5C"/>
+    <GlyphID id="186" name="uni1E5D"/>
+    <GlyphID id="187" name="uni1E5E"/>
+    <GlyphID id="188" name="uni1E5F"/>
+    <GlyphID id="189" name="uni1E60"/>
+    <GlyphID id="190" name="uni1E61"/>
+    <GlyphID id="191" name="uni1E62"/>
+    <GlyphID id="192" name="uni1E63"/>
+    <GlyphID id="193" name="uni1E68"/>
+    <GlyphID id="194" name="uni1E69"/>
+    <GlyphID id="195" name="uni1E6A"/>
+    <GlyphID id="196" name="uni1E6B"/>
+    <GlyphID id="197" name="uni1E6C"/>
+    <GlyphID id="198" name="uni1E6D"/>
+    <GlyphID id="199" name="uni1E6E"/>
+    <GlyphID id="200" name="uni1E6F"/>
+    <GlyphID id="201" name="uni1E72"/>
+    <GlyphID id="202" name="uni1E73"/>
+    <GlyphID id="203" name="uni1E7E"/>
+    <GlyphID id="204" name="uni1E7F"/>
+    <GlyphID id="205" name="Wdieresis"/>
+    <GlyphID id="206" name="wdieresis"/>
+    <GlyphID id="207" name="uni1E86"/>
+    <GlyphID id="208" name="uni1E87"/>
+    <GlyphID id="209" name="uni1E88"/>
+    <GlyphID id="210" name="uni1E89"/>
+    <GlyphID id="211" name="uni1E8A"/>
+    <GlyphID id="212" name="uni1E8B"/>
+    <GlyphID id="213" name="uni1E8C"/>
+    <GlyphID id="214" name="uni1E8D"/>
+    <GlyphID id="215" name="uni1E8E"/>
+    <GlyphID id="216" name="uni1E8F"/>
+    <GlyphID id="217" name="uni1E92"/>
+    <GlyphID id="218" name="uni1E93"/>
+    <GlyphID id="219" name="uni1E94"/>
+    <GlyphID id="220" name="uni1E95"/>
+    <GlyphID id="221" name="uni1E96"/>
+    <GlyphID id="222" name="uni1E97"/>
+    <GlyphID id="223" name="uni1EA0"/>
+    <GlyphID id="224" name="uni1EA1"/>
+    <GlyphID id="225" name="uni1EB8"/>
+    <GlyphID id="226" name="uni1EB9"/>
+    <GlyphID id="227" name="uni1ECA"/>
+    <GlyphID id="228" name="uni1ECB"/>
+    <GlyphID id="229" name="uni1ECC"/>
+    <GlyphID id="230" name="uni1ECD"/>
+    <GlyphID id="231" name="uni1EE4"/>
+    <GlyphID id="232" name="uni1EE5"/>
+    <GlyphID id="233" name="uni1EF4"/>
+    <GlyphID id="234" name="uni1EF5"/>
+    <GlyphID id="235" name="uni2000"/>
+    <GlyphID id="236" name="uni2001"/>
+    <GlyphID id="237" name="uni2002"/>
+    <GlyphID id="238" name="uni2003"/>
+    <GlyphID id="239" name="uni2004"/>
+    <GlyphID id="240" name="uni2005"/>
+    <GlyphID id="241" name="uni2006"/>
+    <GlyphID id="242" name="uni2007"/>
+    <GlyphID id="243" name="uni2008"/>
+    <GlyphID id="244" name="uni2009"/>
+    <GlyphID id="245" name="uni200A"/>
+    <GlyphID id="246" name="uni2016"/>
+    <GlyphID id="247" name="underscoredbl"/>
+    <GlyphID id="248" name="twodotenleader"/>
+    <GlyphID id="249" name="ellipsis"/>
+    <GlyphID id="250" name="exclamdbl"/>
+    <GlyphID id="251" name="uni203E"/>
+    <GlyphID id="252" name="uni2160"/>
+    <GlyphID id="253" name="uni2164"/>
+    <GlyphID id="254" name="uni2169"/>
+    <GlyphID id="255" name="uni216C"/>
+    <GlyphID id="256" name="uni216D"/>
+    <GlyphID id="257" name="uni216E"/>
+    <GlyphID id="258" name="uni216F"/>
+    <GlyphID id="259" name="uni2170"/>
+    <GlyphID id="260" name="uni2174"/>
+    <GlyphID id="261" name="uni2179"/>
+    <GlyphID id="262" name="uni217C"/>
+    <GlyphID id="263" name="uni217D"/>
+    <GlyphID id="264" name="uni217E"/>
+    <GlyphID id="265" name="uni217F"/>
+    <GlyphID id="266" name="uni2183"/>
+    <GlyphID id="267" name="uni2184"/>
+    <GlyphID id="268" name="uni2423"/>
+    <GlyphID id="269" name="upblock"/>
+    <GlyphID id="270" name="uni2581"/>
+    <GlyphID id="271" name="uni2582"/>
+    <GlyphID id="272" name="uni2583"/>
+    <GlyphID id="273" name="dnblock"/>
+    <GlyphID id="274" name="uni2585"/>
+    <GlyphID id="275" name="uni2586"/>
+    <GlyphID id="276" name="uni2587"/>
+    <GlyphID id="277" name="block"/>
+    <GlyphID id="278" name="uni2589"/>
+    <GlyphID id="279" name="uni258A"/>
+    <GlyphID id="280" name="uni258B"/>
+    <GlyphID id="281" name="lfblock"/>
+    <GlyphID id="282" name="uni258D"/>
+    <GlyphID id="283" name="uni258E"/>
+    <GlyphID id="284" name="uni258F"/>
+    <GlyphID id="285" name="rtblock"/>
+    <GlyphID id="286" name="ltshade"/>
+    <GlyphID id="287" name="shade"/>
+    <GlyphID id="288" name="dkshade"/>
+    <GlyphID id="289" name="uni2594"/>
+    <GlyphID id="290" name="uni2595"/>
+    <GlyphID id="291" name="uni2596"/>
+    <GlyphID id="292" name="uni259A"/>
+    <GlyphID id="293" name="uni259B"/>
+    <GlyphID id="294" name="uni259C"/>
+    <GlyphID id="295" name="uni259D"/>
+    <GlyphID id="296" name="uni259E"/>
+    <GlyphID id="297" name="uni259F"/>
+    <GlyphID id="298" name="filledbox"/>
+    <GlyphID id="299" name="uni2610"/>
+    <GlyphID id="300" name="uni2616"/>
+    <GlyphID id="301" name="uni2617"/>
+    <GlyphID id="302" name="uni2630"/>
+    <GlyphID id="303" name="uni2631"/>
+    <GlyphID id="304" name="uni2632"/>
+    <GlyphID id="305" name="uni2633"/>
+    <GlyphID id="306" name="uni2634"/>
+    <GlyphID id="307" name="uni2635"/>
+    <GlyphID id="308" name="uni2636"/>
+    <GlyphID id="309" name="uni2637"/>
+    <GlyphID id="310" name="uni268C"/>
+    <GlyphID id="311" name="uni268D"/>
+    <GlyphID id="312" name="uni268E"/>
+    <GlyphID id="313" name="uni268F"/>
+    <GlyphID id="314" name="uni2690"/>
+    <GlyphID id="315" name="uni2691"/>
+    <GlyphID id="316" name="uni26EB"/>
+    <GlyphID id="317" name="uni26F0"/>
+    <GlyphID id="318" name="uni26F6"/>
+    <GlyphID id="319" name="uni26FF"/>
+    <GlyphID id="320" name="uni2719"/>
+    <GlyphID id="321" name="uni271A"/>
+    <GlyphID id="322" name="uni271B"/>
+    <GlyphID id="323" name="uni271C"/>
+    <GlyphID id="324" name="uni271D"/>
+    <GlyphID id="325" name="uni271F"/>
+    <GlyphID id="326" name="uni2779"/>
+    <GlyphID id="327" name="uni277C"/>
+    <GlyphID id="328" name="uni278D"/>
+    <GlyphID id="329" name="uni2790"/>
+    <GlyphID id="330" name="uni29E9"/>
+    <GlyphID id="331" name="uniFF01"/>
+    <GlyphID id="332" name="uniFF02"/>
+    <GlyphID id="333" name="uniFF07"/>
+    <GlyphID id="334" name="uniFF0B"/>
+    <GlyphID id="335" name="uniFF0D"/>
+    <GlyphID id="336" name="uniFF0E"/>
+    <GlyphID id="337" name="uniFF11"/>
+    <GlyphID id="338" name="uniFF14"/>
+    <GlyphID id="339" name="uniFF17"/>
+    <GlyphID id="340" name="uniFF1A"/>
+    <GlyphID id="341" name="uniFF1D"/>
+    <GlyphID id="342" name="uniFF21"/>
+    <GlyphID id="343" name="uniFF22"/>
+    <GlyphID id="344" name="uniFF23"/>
+    <GlyphID id="345" name="uniFF24"/>
+    <GlyphID id="346" name="uniFF25"/>
+    <GlyphID id="347" name="uniFF26"/>
+    <GlyphID id="348" name="uniFF27"/>
+    <GlyphID id="349" name="uniFF28"/>
+    <GlyphID id="350" name="uniFF29"/>
+    <GlyphID id="351" name="uniFF2A"/>
+    <GlyphID id="352" name="uniFF2B"/>
+    <GlyphID id="353" name="uniFF2C"/>
+    <GlyphID id="354" name="uniFF2D"/>
+    <GlyphID id="355" name="uniFF2E"/>
+    <GlyphID id="356" name="uniFF2F"/>
+    <GlyphID id="357" name="uniFF30"/>
+    <GlyphID id="358" name="uniFF31"/>
+    <GlyphID id="359" name="uniFF32"/>
+    <GlyphID id="360" name="uniFF34"/>
+    <GlyphID id="361" name="uniFF35"/>
+    <GlyphID id="362" name="uniFF36"/>
+    <GlyphID id="363" name="uniFF37"/>
+    <GlyphID id="364" name="uniFF38"/>
+    <GlyphID id="365" name="uniFF39"/>
+    <GlyphID id="366" name="uniFF3A"/>
+    <GlyphID id="367" name="uniFF3E"/>
+    <GlyphID id="368" name="uniFF3F"/>
+    <GlyphID id="369" name="uniFF40"/>
+    <GlyphID id="370" name="uniFF41"/>
+    <GlyphID id="371" name="uniFF42"/>
+    <GlyphID id="372" name="uniFF43"/>
+    <GlyphID id="373" name="uniFF44"/>
+    <GlyphID id="374" name="uniFF45"/>
+    <GlyphID id="375" name="uniFF46"/>
+    <GlyphID id="376" name="uniFF47"/>
+    <GlyphID id="377" name="uniFF48"/>
+    <GlyphID id="378" name="uniFF49"/>
+    <GlyphID id="379" name="uniFF4A"/>
+    <GlyphID id="380" name="uniFF4B"/>
+    <GlyphID id="381" name="uniFF4C"/>
+    <GlyphID id="382" name="uniFF4D"/>
+    <GlyphID id="383" name="uniFF4E"/>
+    <GlyphID id="384" name="uniFF4F"/>
+    <GlyphID id="385" name="uniFF50"/>
+    <GlyphID id="386" name="uniFF51"/>
+    <GlyphID id="387" name="uniFF52"/>
+    <GlyphID id="388" name="uniFF54"/>
+    <GlyphID id="389" name="uniFF55"/>
+    <GlyphID id="390" name="uniFF56"/>
+    <GlyphID id="391" name="uniFF57"/>
+    <GlyphID id="392" name="uniFF58"/>
+    <GlyphID id="393" name="uniFF59"/>
+    <GlyphID id="394" name="uniFF5A"/>
+    <GlyphID id="395" name="uniFF5C"/>
+    <GlyphID id="396" name="uniFFE4"/>
+    <GlyphID id="397" name="uniFFE5"/>
+    <GlyphID id="398" name="uniFFED"/>
+    <GlyphID id="399" name="u1F4EF"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="1.00299"/>
-    <checkSumAdjustment value="0xc0393c6a"/>
+    <fontRevision value="1.004"/>
+    <checkSumAdjustment value="0x6045afdd"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00101011"/>
     <unitsPerEm value="860"/>
     <created value="Wed Feb  1 14:42:49 2017"/>
-    <modified value="Thu Mar  2 13:39:04 2017"/>
+    <modified value="Sat Mar  4 18:03:41 2017"/>
     <xMin value="0"/>
     <yMin value="-248"/>
     <xMax value="725"/>
@@ -436,7 +448,7 @@
 
   <maxp>
     <tableVersion value="0x5000"/>
-    <numGlyphs value="388"/>
+    <numGlyphs value="400"/>
   </maxp>
 
   <OS_2>
@@ -504,13 +516,13 @@
 
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      FontForge : Neude_beta : 2-3-2017
+      FontForge : Neude_beta : 4-3-2017
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Neude_beta
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 001.003 
+      Version 001.004 
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Neude_beta
@@ -625,13 +637,13 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      FontForge : Neude_beta : 2-3-2017
+      FontForge : Neude_beta : 4-3-2017
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Neude_beta
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 001.003 
+      Version 001.004 
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Neude_beta
@@ -806,6 +818,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
       <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
       <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
       <map code="0xa5" name="yen"/><!-- YEN SIGN -->
       <map code="0xa6" name="brokenbar"/><!-- BROKEN BAR -->
@@ -973,6 +986,17 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0x1ee5" name="uni1EE5"/><!-- LATIN SMALL LETTER U WITH DOT BELOW -->
       <map code="0x1ef4" name="uni1EF4"/><!-- LATIN CAPITAL LETTER Y WITH DOT BELOW -->
       <map code="0x1ef5" name="uni1EF5"/><!-- LATIN SMALL LETTER Y WITH DOT BELOW -->
+      <map code="0x2000" name="uni2000"/><!-- EN QUAD -->
+      <map code="0x2001" name="uni2001"/><!-- EM QUAD -->
+      <map code="0x2002" name="uni2002"/><!-- EN SPACE -->
+      <map code="0x2003" name="uni2003"/><!-- EM SPACE -->
+      <map code="0x2004" name="uni2004"/><!-- THREE-PER-EM SPACE -->
+      <map code="0x2005" name="uni2005"/><!-- FOUR-PER-EM SPACE -->
+      <map code="0x2006" name="uni2006"/><!-- SIX-PER-EM SPACE -->
+      <map code="0x2007" name="uni2007"/><!-- FIGURE SPACE -->
+      <map code="0x2008" name="uni2008"/><!-- PUNCTUATION SPACE -->
+      <map code="0x2009" name="uni2009"/><!-- THIN SPACE -->
+      <map code="0x200a" name="uni200A"/><!-- HAIR SPACE -->
       <map code="0x2016" name="uni2016"/><!-- DOUBLE VERTICAL LINE -->
       <map code="0x2017" name="underscoredbl"/><!-- DOUBLE LOW LINE -->
       <map code="0x2025" name="twodotenleader"/><!-- TWO DOT LEADER -->
@@ -1127,7 +1151,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0xffe5" name="uniFFE5"/><!-- FULLWIDTH YEN SIGN -->
       <map code="0xffed" name="uniFFED"/><!-- HALFWIDTH BLACK SQUARE -->
     </cmap_format_4>
-    <cmap_format_12 platformID="0" platEncID="10" format="12" reserved="0" length="1408" language="0" nGroups="116">
+    <cmap_format_12 platformID="0" platEncID="10" format="12" reserved="0" length="1420" language="0" nGroups="117">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
       <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
@@ -1194,6 +1218,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
       <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
       <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
       <map code="0xa5" name="yen"/><!-- YEN SIGN -->
       <map code="0xa6" name="brokenbar"/><!-- BROKEN BAR -->
@@ -1361,6 +1386,17 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0x1ee5" name="uni1EE5"/><!-- LATIN SMALL LETTER U WITH DOT BELOW -->
       <map code="0x1ef4" name="uni1EF4"/><!-- LATIN CAPITAL LETTER Y WITH DOT BELOW -->
       <map code="0x1ef5" name="uni1EF5"/><!-- LATIN SMALL LETTER Y WITH DOT BELOW -->
+      <map code="0x2000" name="uni2000"/><!-- EN QUAD -->
+      <map code="0x2001" name="uni2001"/><!-- EM QUAD -->
+      <map code="0x2002" name="uni2002"/><!-- EN SPACE -->
+      <map code="0x2003" name="uni2003"/><!-- EM SPACE -->
+      <map code="0x2004" name="uni2004"/><!-- THREE-PER-EM SPACE -->
+      <map code="0x2005" name="uni2005"/><!-- FOUR-PER-EM SPACE -->
+      <map code="0x2006" name="uni2006"/><!-- SIX-PER-EM SPACE -->
+      <map code="0x2007" name="uni2007"/><!-- FIGURE SPACE -->
+      <map code="0x2008" name="uni2008"/><!-- PUNCTUATION SPACE -->
+      <map code="0x2009" name="uni2009"/><!-- THIN SPACE -->
+      <map code="0x200a" name="uni200A"/><!-- HAIR SPACE -->
       <map code="0x2016" name="uni2016"/><!-- DOUBLE VERTICAL LINE -->
       <map code="0x2017" name="underscoredbl"/><!-- DOUBLE LOW LINE -->
       <map code="0x2025" name="twodotenleader"/><!-- TWO DOT LEADER -->
@@ -1597,6 +1633,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0xb4" name="yen"/>
       <map code="0xc1" name="exclamdown"/>
       <map code="0xc9" name="ellipsis"/>
+      <map code="0xca" name="uni00A0"/>
       <map code="0xd8" name="ydieresis"/>
       <map code="0xd9" name="Ydieresis"/>
       <map code="0xe8" name="Edieresis"/>
@@ -1670,6 +1707,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
       <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
       <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
       <map code="0xa5" name="yen"/><!-- YEN SIGN -->
       <map code="0xa6" name="brokenbar"/><!-- BROKEN BAR -->
@@ -1837,6 +1875,17 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0x1ee5" name="uni1EE5"/><!-- LATIN SMALL LETTER U WITH DOT BELOW -->
       <map code="0x1ef4" name="uni1EF4"/><!-- LATIN CAPITAL LETTER Y WITH DOT BELOW -->
       <map code="0x1ef5" name="uni1EF5"/><!-- LATIN SMALL LETTER Y WITH DOT BELOW -->
+      <map code="0x2000" name="uni2000"/><!-- EN QUAD -->
+      <map code="0x2001" name="uni2001"/><!-- EM QUAD -->
+      <map code="0x2002" name="uni2002"/><!-- EN SPACE -->
+      <map code="0x2003" name="uni2003"/><!-- EM SPACE -->
+      <map code="0x2004" name="uni2004"/><!-- THREE-PER-EM SPACE -->
+      <map code="0x2005" name="uni2005"/><!-- FOUR-PER-EM SPACE -->
+      <map code="0x2006" name="uni2006"/><!-- SIX-PER-EM SPACE -->
+      <map code="0x2007" name="uni2007"/><!-- FIGURE SPACE -->
+      <map code="0x2008" name="uni2008"/><!-- PUNCTUATION SPACE -->
+      <map code="0x2009" name="uni2009"/><!-- THIN SPACE -->
+      <map code="0x200a" name="uni200A"/><!-- HAIR SPACE -->
       <map code="0x2016" name="uni2016"/><!-- DOUBLE VERTICAL LINE -->
       <map code="0x2017" name="underscoredbl"/><!-- DOUBLE LOW LINE -->
       <map code="0x2025" name="twodotenleader"/><!-- TWO DOT LEADER -->
@@ -1991,7 +2040,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0xffe5" name="uniFFE5"/><!-- FULLWIDTH YEN SIGN -->
       <map code="0xffed" name="uniFFED"/><!-- HALFWIDTH BLACK SQUARE -->
     </cmap_format_4>
-    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="1408" language="0" nGroups="116">
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="1420" language="0" nGroups="117">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
       <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
@@ -2058,6 +2107,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0x79" name="y"/><!-- LATIN SMALL LETTER Y -->
       <map code="0x7a" name="z"/><!-- LATIN SMALL LETTER Z -->
       <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
       <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
       <map code="0xa5" name="yen"/><!-- YEN SIGN -->
       <map code="0xa6" name="brokenbar"/><!-- BROKEN BAR -->
@@ -2225,6 +2275,17 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <map code="0x1ee5" name="uni1EE5"/><!-- LATIN SMALL LETTER U WITH DOT BELOW -->
       <map code="0x1ef4" name="uni1EF4"/><!-- LATIN CAPITAL LETTER Y WITH DOT BELOW -->
       <map code="0x1ef5" name="uni1EF5"/><!-- LATIN SMALL LETTER Y WITH DOT BELOW -->
+      <map code="0x2000" name="uni2000"/><!-- EN QUAD -->
+      <map code="0x2001" name="uni2001"/><!-- EM QUAD -->
+      <map code="0x2002" name="uni2002"/><!-- EN SPACE -->
+      <map code="0x2003" name="uni2003"/><!-- EM SPACE -->
+      <map code="0x2004" name="uni2004"/><!-- THREE-PER-EM SPACE -->
+      <map code="0x2005" name="uni2005"/><!-- FOUR-PER-EM SPACE -->
+      <map code="0x2006" name="uni2006"/><!-- SIX-PER-EM SPACE -->
+      <map code="0x2007" name="uni2007"/><!-- FIGURE SPACE -->
+      <map code="0x2008" name="uni2008"/><!-- PUNCTUATION SPACE -->
+      <map code="0x2009" name="uni2009"/><!-- THIN SPACE -->
+      <map code="0x200a" name="uni200A"/><!-- HAIR SPACE -->
       <map code="0x2016" name="uni2016"/><!-- DOUBLE VERTICAL LINE -->
       <map code="0x2017" name="underscoredbl"/><!-- DOUBLE LOW LINE -->
       <map code="0x2025" name="twodotenleader"/><!-- TWO DOT LEADER -->
@@ -2398,7 +2459,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <major value="1"/>
     <minor value="0"/>
     <CFFFont name="Neude_beta">
-      <version value="001.003"/>
+      <version value="001.004"/>
       <Notice value="Copyright (c) 2017, Stichting z25.org"/>
       <FullName value="Neude_beta"/>
       <FamilyName value="Neude_beta"/>
@@ -4485,6 +4546,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
           -58 callsubr
           endchar
         </CharString>
+        <CharString name="uni00A0">
+          endchar
+        </CharString>
         <CharString name="uni0302">
           583.8457 136.1543 hstem
           240.7002 243.59961 vstem
@@ -5652,6 +5716,39 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
           hintmask 01110000
           -304.5 704.28613 rmoveto
           -61 callsubr
+          endchar
+        </CharString>
+        <CharString name="uni2000">
+          endchar
+        </CharString>
+        <CharString name="uni2001">
+          endchar
+        </CharString>
+        <CharString name="uni2002">
+          endchar
+        </CharString>
+        <CharString name="uni2003">
+          endchar
+        </CharString>
+        <CharString name="uni2004">
+          endchar
+        </CharString>
+        <CharString name="uni2005">
+          endchar
+        </CharString>
+        <CharString name="uni2006">
+          endchar
+        </CharString>
+        <CharString name="uni2007">
+          endchar
+        </CharString>
+        <CharString name="uni2008">
+          endchar
+        </CharString>
+        <CharString name="uni2009">
+          endchar
+        </CharString>
+        <CharString name="uni200A">
           endchar
         </CharString>
         <CharString name="uni2016">
@@ -6989,7 +7086,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <version value="1"/>
     <FFTimeStamp value="Sun Jan  8 17:07:46 2017"/>
     <sourceCreated value="Wed Feb  1 14:42:49 2017"/>
-    <sourceModified value="Thu Mar  2 13:39:04 2017"/>
+    <sourceModified value="Sat Mar  4 18:03:41 2017"/>
   </FFTM>
 
   <GDEF>
@@ -7131,6 +7228,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="umacron" width="725" lsb="58"/>
     <mtx name="underscore" width="725" lsb="0"/>
     <mtx name="underscoredbl" width="725" lsb="0"/>
+    <mtx name="uni00A0" width="725" lsb="0"/>
     <mtx name="uni0302" width="725" lsb="240"/>
     <mtx name="uni0304" width="725" lsb="240"/>
     <mtx name="uni0307" width="725" lsb="321"/>
@@ -7242,6 +7340,17 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="uni1EE5" width="725" lsb="58"/>
     <mtx name="uni1EF4" width="725" lsb="58"/>
     <mtx name="uni1EF5" width="725" lsb="58"/>
+    <mtx name="uni2000" width="725" lsb="0"/>
+    <mtx name="uni2001" width="725" lsb="0"/>
+    <mtx name="uni2002" width="725" lsb="0"/>
+    <mtx name="uni2003" width="725" lsb="0"/>
+    <mtx name="uni2004" width="725" lsb="0"/>
+    <mtx name="uni2005" width="725" lsb="0"/>
+    <mtx name="uni2006" width="725" lsb="0"/>
+    <mtx name="uni2007" width="725" lsb="0"/>
+    <mtx name="uni2008" width="725" lsb="0"/>
+    <mtx name="uni2009" width="725" lsb="0"/>
+    <mtx name="uni200A" width="725" lsb="0"/>
     <mtx name="uni2016" width="725" lsb="240"/>
     <mtx name="uni203E" width="725" lsb="0"/>
     <mtx name="uni2160" width="725" lsb="159"/>
@@ -7411,7 +7520,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <reserved3 value="0"/>
     <reserved4 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfVMetrics value="387"/>
+    <numberOfVMetrics value="399"/>
   </vhea>
 
   <vmtx>
@@ -7542,6 +7651,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="umacron" height="0" tsb="704"/>
     <mtx name="underscore" height="60" tsb="-57"/>
     <mtx name="underscoredbl" height="60" tsb="0"/>
+    <mtx name="uni00A0" height="0" tsb="0"/>
     <mtx name="uni0302" height="0" tsb="720"/>
     <mtx name="uni0304" height="0" tsb="704"/>
     <mtx name="uni0307" height="0" tsb="704"/>
@@ -7653,6 +7763,17 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="uni1EE5" height="0" tsb="580"/>
     <mtx name="uni1EF4" height="0" tsb="580"/>
     <mtx name="uni1EF5" height="0" tsb="580"/>
+    <mtx name="uni2000" height="0" tsb="0"/>
+    <mtx name="uni2001" height="0" tsb="0"/>
+    <mtx name="uni2002" height="0" tsb="0"/>
+    <mtx name="uni2003" height="0" tsb="0"/>
+    <mtx name="uni2004" height="0" tsb="0"/>
+    <mtx name="uni2005" height="0" tsb="0"/>
+    <mtx name="uni2006" height="0" tsb="0"/>
+    <mtx name="uni2007" height="0" tsb="0"/>
+    <mtx name="uni2008" height="0" tsb="0"/>
+    <mtx name="uni2009" height="0" tsb="0"/>
+    <mtx name="uni200A" height="0" tsb="0"/>
     <mtx name="uni2016" height="60" tsb="721"/>
     <mtx name="uni203E" height="60" tsb="720"/>
     <mtx name="uni2160" height="60" tsb="580"/>
