@@ -33,7 +33,25 @@ Download the WOFF file TODO
 Specimen
 --------
 
-TODO
+Specimins for OTF are:
+
+[![OTF fontimage PNG](specimens/Neude_beta-otf-fontimage.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-otf-fontimage.png?raw=true)
+
+Download and browse the OTF multi-page PDF specimen [Neude_beta-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude_beta-otf-fntsample.pdf?raw=true)
+
+[![OTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-otf-fntsample.pdf?raw=true)
+
+[![OTF fontsample PNG](specimens/Neude_beta-otf-fntsample-basic-latin.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-otf-fntsample-basic-latin.png?raw=true)
+
+Specimins for TTF are:
+
+[![TTF PNG fontimage](specimens/Neude_beta-ttf-fontimage.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-ttf-fontimage.png?raw=true)
+
+Download and browse the TTF multi-page PDF specimen [Neude_beta-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude_beta-ttf-fntsample.pdf?raw=true)
+
+[![TTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-ttf-fntsample.pdf?raw=true)
+
+[![TTF PNG fontsample](specimens/Neude_beta-ttf-fntsample-basic-latin.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-ttf-fntsample-basic-latin.png?raw=true)
 
 
 Building
