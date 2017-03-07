@@ -83,12 +83,14 @@ with open('/home/sander/workspace/neude/src/fonts/refs.tsv', 'r') as refs:
                                 glyph.clear()
                             if op == 'n':
                                 glyph.addReference(ref_gname)
-                            elif op == 'v': # vertical flip between baseline and cap line
-                                glyph.addReference(ref_gname, (1.0, 0.0, 0.0, -1.0, 0.0, 500.0 + 80.0))
                             elif op == 'V': # vertical flip between descender and ascender
                                 glyph.addReference(ref_gname, (1.0, 0.0, 0.0, -1.0, 0.0, 500.0))
+                            elif op == 'v': # vertical flip between baseline and cap line
+                                glyph.addReference(ref_gname, (1.0, 0.0, 0.0, -1.0, 0.0, 500.0 + 80.0))
                             elif op == 'h': # horizontal between glyph width
                                 glyph.addReference(ref_gname, (-1.0, 0.0, 0.0, 1.0, 725.0, 0.0))
+                            elif op == 'hv' or op == 'vh':
+                                glyph.addReference(ref_gname, (-1.0, 0.0, 0.0, -1.0, 725.0, 500.0 + 80.0))
                             else:
                                 print('ERROR: Unknown operation')
                             glyph.width = 725 #TODO how to set this globally?
