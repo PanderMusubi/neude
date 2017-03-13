@@ -110,6 +110,16 @@ Sponsor printed cotton bags: [Katoenfrabriek](http://katoenfabriek.nl)
 [![logo Katoenfabriek](images/logo-katoenfabriek.png?raw=true)](http://katoenfabriek.nl)
 
 
+Sponsored letters
+-----------------
+
+The following letters were individually sponsored:
+* **H** for Hans by Hans van de Camp http://hansvandecamp.nl
+* **Y** for Yppah by Sander Mulder http://www.yppah.com
+* **Z** for Zorgtaal by Arnoud van den Eerenbeemt http://zorgtaal.eu
+* (rest will be added soon)
+
+
 Thanks
 ------
 
