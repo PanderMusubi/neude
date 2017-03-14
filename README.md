@@ -114,6 +114,7 @@ Sponsored letters
 -----------------
 
 The following letters were individually sponsored:
+* **B** for Bibliotheek Utrecht http://bibliotheekutrecht.nl
 * **H** for Hans by Hans van de Camp http://hansvandecamp.nl
 * **Y** for Yppah by Sander Mulder http://www.yppah.com
 * **Z** for Zorgtaal by Arnoud van den Eerenbeemt http://zorgtaal.eu
