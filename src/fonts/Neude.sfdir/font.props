@@ -6,7 +6,7 @@ Weight:
 
 Copyright: Copyright (c) 2017, Stichting z25.org
 UComments: "2017-2-1: Created with FontForge (http://fontforge.org)"
-Version: 002.000
+Version: 001.010
 ItalicAngle: 0
 UnderlinePosition: -86
 UnderlineWidth: 43
@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485960169
-ModificationTime: 1492766514
+ModificationTime: 1492767628
 PfmFamily: 49
 TTFWeight: 900
 TTFWidth: 5

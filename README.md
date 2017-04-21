@@ -17,7 +17,7 @@ Introduction
 Download
 --------
 
-Version 2.0, 20170421.
+Version 1.010, 20170421.
 
 Download the OTF file [Neude.otf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true)
 
