@@ -11,25 +11,23 @@ Digitisation and design of Neude, a typeface in style of Amsterdame School
 Introduction
 ------------
 
-TODO
-
 [voordekunst](https://voordekunst.nl/projecten/4858-digitalisering-en-ontwerp-font-neude-1)
 
 
 Download
 --------
 
-**BETA VERSION!**
+Version 2.0, 20170421.
 
-Download the OTF file [Neude-beta.otf](https://github.com/z25/neude/blob/master/Neude_beta.otf?raw=true)
+Download the OTF file [Neude.otf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true)
 
-[![OTF](images/application-x-font-otf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude_beta.otf?raw=true)
+[![OTF](images/application-x-font-otf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.otf?raw=true)
 
-Download the TTF file [Neude-beta.ttf](https://github.com/z25/neude/blob/master/Neude_beta.otf?raw=true)
+Download the TTF file [Neude.ttf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true)
 
-[![TTF](images/application-x-font-ttf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude_beta.ttf?raw=true)
+[![TTF](images/application-x-font-ttf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.ttf?raw=true)
 
-Download the WOFF file TODO
+Download of the WOFF file will follow soon.
 
 
 Specimen
@@ -37,23 +35,23 @@ Specimen
 
 Specimins for OTF are:
 
-[![OTF fontimage PNG](specimens/Neude_beta-otf-fontimage.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-otf-fontimage.png?raw=true)
+[![OTF fontimage PNG](specimens/Neude-otf-fontimage.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fontimage.png?raw=true)
 
-Download and browse the OTF multi-page PDF specimen [Neude_beta-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude_beta-otf-fntsample.pdf?raw=true)
+Download and browse the OTF multi-page PDF specimen [Neude-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true)
 
-[![OTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-otf-fntsample.pdf?raw=true)
+[![OTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true)
 
-[![OTF fontsample PNG](specimens/Neude_beta-otf-fntsample-basic-latin.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-otf-fntsample-basic-latin.png?raw=true)
+[![OTF fontsample PNG](specimens/Neude-otf-fntsample-basic-latin.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample-basic-latin.png?raw=true)
 
 Specimins for TTF are:
 
-[![TTF PNG fontimage](specimens/Neude_beta-ttf-fontimage.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-ttf-fontimage.png?raw=true)
+[![TTF PNG fontimage](specimens/Neude-ttf-fontimage.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fontimage.png?raw=true)
 
-Download and browse the TTF multi-page PDF specimen [Neude_beta-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude_beta-ttf-fntsample.pdf?raw=true)
+Download and browse the TTF multi-page PDF specimen [Neude-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true)
 
-[![TTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-ttf-fntsample.pdf?raw=true)
+[![TTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true)
 
-[![TTF PNG fontsample](specimens/Neude_beta-ttf-fntsample-basic-latin.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude_beta-ttf-fntsample-basic-latin.png?raw=true)
+[![TTF PNG fontsample](specimens/Neude-ttf-fntsample-basic-latin.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample-basic-latin.png?raw=true)
 
 
 Building
