@@ -21,13 +21,9 @@ Download
 
 Version 1.010, 20170421.
 
-Download the OTF file [Neude.otf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true)
-
-[![OTF](images/application-x-font-otf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.otf?raw=true)
-
-Download the TTF file [Neude.ttf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true)
-
-[![TTF](images/application-x-font-ttf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.ttf?raw=true)
+| OpenType Font | TrueType Font |
+|---------------|---------------|
+| Download the OTF file <br> [Neude.otf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) (56 KB) <br> [![OTF](images/application-x-font-otf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) | Download the TTF file <br> [Neude.ttf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) (36 KB) <br> [![TTF](images/application-x-font-ttf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.ttf?raw=true) |
 
 Download of the WOFF file will follow soon.
 
@@ -35,25 +31,25 @@ Download of the WOFF file will follow soon.
 Specimen
 --------
 
-Specimins for OTF are:
+| OpenType Sample | TrueType Sample |
+|---------------|---------------|
+| Multi-page PDF specimen <br> [Neude-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true) (78 KB) <br> [![OTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true) | Multi-page PDF specimen <br> [Neude-ttf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true) (74 KB) <br> [![TTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true) |
+
+Support for all numerals will follow soon.
 
 [![OTF fontimage PNG](specimens/Neude-otf-fontimage.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fontimage.png?raw=true)
 
-Download and browse the OTF multi-page PDF specimen [Neude-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true)
 
-[![OTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true)
+License
+-------
 
-[![OTF fontsample PNG](specimens/Neude-otf-fntsample-basic-latin.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample-basic-latin.png?raw=true)
+The original design of the thirteen letters on the sculptures found in hall of the [former post office]() at the [Neude]() in [Utrecht]() in [the Netherlands]() was made by [Hendrik van den Eijnde](). The statues were made in the 1920s and their copyright expired after 2009, 70 years after teh death of the artist.
 
-Specimins for TTF are:
+This project, in terms of at least the font files and documentation, has an Open Font License (OFL). This license can be found in the file called [LICENSE](LICENSE) but also on the site of the authors of the license, [SIL International](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web).
 
-[![TTF PNG fontimage](specimens/Neude-ttf-fontimage.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fontimage.png?raw=true)
+[![logo OFL](images/logo-ofl.png?raw=true)](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web)
 
-Download and browse the TTF multi-page PDF specimen [Neude-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true)
-
-[![TTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true)
-
-[![TTF PNG fontsample](specimens/Neude-ttf-fntsample-basic-latin.png?raw=true)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample-basic-latin.png?raw=true)
+The font foundry for this font is Stichting z25.org.
 
 
 Building
@@ -74,18 +70,6 @@ The following software has been used in order to create this font.
 [![logo git](images/logo-git.png?raw=true)](http://git-scm.com)
 
 Thanks go out to the respective communities for creating and maintianing these.
-
-
-License
--------
-
-The original design of the thirteen letters on the sculptures found in hall of the [former post office]() at the [Neude]() in [Utrecht]() in [the Netherlands]() was made by [Hendrik van den Eijnde](). The statues were made in the 1920s and the copyright expired on ....
-
-This project, in terms of at least the font files and documentation, has an Open Font License (OFL). This license can be found in the file called [LICENSE](LICENSE) but also on the site of the authors of the license, [SIL International](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web).
-
-[![logo OFL](images/logo-ofl.png?raw=true)](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web)
-
-The font foundry for this font is Stichting z25.org.
 
 
 Sponsors
