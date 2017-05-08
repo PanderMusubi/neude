@@ -3,6 +3,8 @@ Neude
 
 Digitisation and design of Neude, a typeface in style of Amsterdame School
 
+![statue Neude](images/41-cropped-hd.jpg?raw=true)
+
 ![sample Neude](images/sample-neude.png?raw=true)
 
 ![logo Neude](images/logo-neude.png?raw=true)
