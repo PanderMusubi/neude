@@ -45,11 +45,19 @@ License
 
 The original design of the thirteen letters on the sculptures found in hall of the [former post office]() at the [Neude]() in [Utrecht]() in [the Netherlands]() was made by [Hendrik van den Eijnde](). The statues were made in the 1920s and their copyright expired after 2009, 70 years after teh death of the artist.
 
-This project, in terms of at least the font files and documentation, has an Open Font License (OFL). This license can be found in the file called [LICENSE](LICENSE) but also on the site of the authors of the license, [SIL International](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web).
+This project, in terms of at least the font files and documentation, has an [Open Font License (OFL)](https://en.wikipedia.org/wiki/SIL_Open_Font_License). This license can be found in the file called [LICENSE](LICENSE) but also on the site of the authors of the license, [SIL International](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web).
 
 [![logo OFL](images/logo-ofl.png?raw=true)](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web)
 
 The font foundry for this font is Stichting z25.org.
+
+
+Usage
+-----
+
+The font Neude has been used on the cover and on the inside of the collection of poetry (_dichtbundel_) named [Bokalen](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html) by [Nanne Nauta](https://nannenauta.blogspot.nl).
+
+[![2017, Nanne Nauta, Bokalen](images/2017_nanne-nauta_bokalen.jpg?raw=true)](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html)
 
 
 Building
