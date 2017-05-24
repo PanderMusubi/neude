@@ -55,7 +55,7 @@ The font foundry for this font is Stichting z25.org.
 Usage
 -----
 
-The font Neude has been used on the cover and on the inside of the collection of poetry (_dichtbundel_) named [Bokalen](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html) by [Nanne Nauta](https://nannenauta.blogspot.nl).
+The font Neude has been used on the cover and on the inside of the collection of poetry (_dichtbundel_) named [Bokalen](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html) by [Nanne Nauta](https://nannenauta.blogspot.nl), 2017.
 
 [![2017, Nanne Nauta, Bokalen](images/2017_nanne-nauta_bokalen.jpg?raw=true)](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html)
 
