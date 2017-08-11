@@ -143,305 +143,366 @@
     <GlyphID id="137" name="uni032C"/>
     <GlyphID id="138" name="uni032D"/>
     <GlyphID id="139" name="uni0331"/>
-    <GlyphID id="140" name="uni16C9"/>
-    <GlyphID id="141" name="uni16CA"/>
-    <GlyphID id="142" name="uni1E02"/>
-    <GlyphID id="143" name="uni1E03"/>
-    <GlyphID id="144" name="uni1E04"/>
-    <GlyphID id="145" name="uni1E05"/>
-    <GlyphID id="146" name="uni1E06"/>
-    <GlyphID id="147" name="uni1E07"/>
-    <GlyphID id="148" name="uni1E0A"/>
-    <GlyphID id="149" name="uni1E0B"/>
-    <GlyphID id="150" name="uni1E0C"/>
-    <GlyphID id="151" name="uni1E0D"/>
-    <GlyphID id="152" name="uni1E0E"/>
-    <GlyphID id="153" name="uni1E0F"/>
-    <GlyphID id="154" name="uni1E1E"/>
-    <GlyphID id="155" name="uni1E1F"/>
-    <GlyphID id="156" name="uni1E20"/>
-    <GlyphID id="157" name="uni1E21"/>
-    <GlyphID id="158" name="uni1E22"/>
-    <GlyphID id="159" name="uni1E23"/>
-    <GlyphID id="160" name="uni1E24"/>
-    <GlyphID id="161" name="uni1E25"/>
-    <GlyphID id="162" name="uni1E26"/>
-    <GlyphID id="163" name="uni1E27"/>
-    <GlyphID id="164" name="uni1E32"/>
-    <GlyphID id="165" name="uni1E33"/>
-    <GlyphID id="166" name="uni1E34"/>
-    <GlyphID id="167" name="uni1E35"/>
-    <GlyphID id="168" name="uni1E36"/>
-    <GlyphID id="169" name="uni1E37"/>
-    <GlyphID id="170" name="uni1E38"/>
-    <GlyphID id="171" name="uni1E39"/>
-    <GlyphID id="172" name="uni1E3A"/>
-    <GlyphID id="173" name="uni1E3B"/>
-    <GlyphID id="174" name="uni1E40"/>
-    <GlyphID id="175" name="uni1E41"/>
-    <GlyphID id="176" name="uni1E42"/>
-    <GlyphID id="177" name="uni1E43"/>
-    <GlyphID id="178" name="uni1E44"/>
-    <GlyphID id="179" name="uni1E45"/>
-    <GlyphID id="180" name="uni1E46"/>
-    <GlyphID id="181" name="uni1E47"/>
-    <GlyphID id="182" name="uni1E48"/>
-    <GlyphID id="183" name="uni1E49"/>
-    <GlyphID id="184" name="uni1E56"/>
-    <GlyphID id="185" name="uni1E57"/>
-    <GlyphID id="186" name="uni1E58"/>
-    <GlyphID id="187" name="uni1E59"/>
-    <GlyphID id="188" name="uni1E5A"/>
-    <GlyphID id="189" name="uni1E5B"/>
-    <GlyphID id="190" name="uni1E5C"/>
-    <GlyphID id="191" name="uni1E5D"/>
-    <GlyphID id="192" name="uni1E5E"/>
-    <GlyphID id="193" name="uni1E5F"/>
-    <GlyphID id="194" name="uni1E60"/>
-    <GlyphID id="195" name="uni1E61"/>
-    <GlyphID id="196" name="uni1E62"/>
-    <GlyphID id="197" name="uni1E63"/>
-    <GlyphID id="198" name="uni1E68"/>
-    <GlyphID id="199" name="uni1E69"/>
-    <GlyphID id="200" name="uni1E6A"/>
-    <GlyphID id="201" name="uni1E6B"/>
-    <GlyphID id="202" name="uni1E6C"/>
-    <GlyphID id="203" name="uni1E6D"/>
-    <GlyphID id="204" name="uni1E6E"/>
-    <GlyphID id="205" name="uni1E6F"/>
-    <GlyphID id="206" name="uni1E72"/>
-    <GlyphID id="207" name="uni1E73"/>
-    <GlyphID id="208" name="uni1E7E"/>
-    <GlyphID id="209" name="uni1E7F"/>
-    <GlyphID id="210" name="Wdieresis"/>
-    <GlyphID id="211" name="wdieresis"/>
-    <GlyphID id="212" name="uni1E86"/>
-    <GlyphID id="213" name="uni1E87"/>
-    <GlyphID id="214" name="uni1E88"/>
-    <GlyphID id="215" name="uni1E89"/>
-    <GlyphID id="216" name="uni1E8A"/>
-    <GlyphID id="217" name="uni1E8B"/>
-    <GlyphID id="218" name="uni1E8C"/>
-    <GlyphID id="219" name="uni1E8D"/>
-    <GlyphID id="220" name="uni1E8E"/>
-    <GlyphID id="221" name="uni1E8F"/>
-    <GlyphID id="222" name="uni1E92"/>
-    <GlyphID id="223" name="uni1E93"/>
-    <GlyphID id="224" name="uni1E94"/>
-    <GlyphID id="225" name="uni1E95"/>
-    <GlyphID id="226" name="uni1E96"/>
-    <GlyphID id="227" name="uni1E97"/>
-    <GlyphID id="228" name="uni1EA0"/>
-    <GlyphID id="229" name="uni1EA1"/>
-    <GlyphID id="230" name="uni1EB8"/>
-    <GlyphID id="231" name="uni1EB9"/>
-    <GlyphID id="232" name="uni1ECA"/>
-    <GlyphID id="233" name="uni1ECB"/>
-    <GlyphID id="234" name="uni1ECC"/>
-    <GlyphID id="235" name="uni1ECD"/>
-    <GlyphID id="236" name="uni1EE4"/>
-    <GlyphID id="237" name="uni1EE5"/>
-    <GlyphID id="238" name="uni1EF4"/>
-    <GlyphID id="239" name="uni1EF5"/>
-    <GlyphID id="240" name="uni2000"/>
-    <GlyphID id="241" name="uni2001"/>
-    <GlyphID id="242" name="uni2002"/>
-    <GlyphID id="243" name="uni2003"/>
-    <GlyphID id="244" name="uni2004"/>
-    <GlyphID id="245" name="uni2005"/>
-    <GlyphID id="246" name="uni2006"/>
-    <GlyphID id="247" name="uni2007"/>
-    <GlyphID id="248" name="uni2008"/>
-    <GlyphID id="249" name="uni2009"/>
-    <GlyphID id="250" name="uni200A"/>
-    <GlyphID id="251" name="uni2016"/>
-    <GlyphID id="252" name="underscoredbl"/>
-    <GlyphID id="253" name="twodotenleader"/>
-    <GlyphID id="254" name="ellipsis"/>
-    <GlyphID id="255" name="exclamdbl"/>
-    <GlyphID id="256" name="uni203E"/>
-    <GlyphID id="257" name="uni2160"/>
-    <GlyphID id="258" name="uni2161"/>
-    <GlyphID id="259" name="uni2162"/>
-    <GlyphID id="260" name="uni2164"/>
-    <GlyphID id="261" name="uni2169"/>
-    <GlyphID id="262" name="uni216C"/>
-    <GlyphID id="263" name="uni216D"/>
-    <GlyphID id="264" name="uni216E"/>
-    <GlyphID id="265" name="uni216F"/>
-    <GlyphID id="266" name="uni2170"/>
-    <GlyphID id="267" name="uni2171"/>
-    <GlyphID id="268" name="uni2172"/>
-    <GlyphID id="269" name="uni2174"/>
-    <GlyphID id="270" name="uni2179"/>
-    <GlyphID id="271" name="uni217C"/>
-    <GlyphID id="272" name="uni217D"/>
-    <GlyphID id="273" name="uni217E"/>
-    <GlyphID id="274" name="uni217F"/>
-    <GlyphID id="275" name="uni2183"/>
-    <GlyphID id="276" name="uni2184"/>
-    <GlyphID id="277" name="uni2423"/>
-    <GlyphID id="278" name="upblock"/>
-    <GlyphID id="279" name="uni2581"/>
-    <GlyphID id="280" name="uni2582"/>
-    <GlyphID id="281" name="uni2583"/>
-    <GlyphID id="282" name="dnblock"/>
-    <GlyphID id="283" name="uni2585"/>
-    <GlyphID id="284" name="uni2586"/>
-    <GlyphID id="285" name="uni2587"/>
-    <GlyphID id="286" name="block"/>
-    <GlyphID id="287" name="uni2589"/>
-    <GlyphID id="288" name="uni258A"/>
-    <GlyphID id="289" name="uni258B"/>
-    <GlyphID id="290" name="lfblock"/>
-    <GlyphID id="291" name="uni258D"/>
-    <GlyphID id="292" name="uni258E"/>
-    <GlyphID id="293" name="uni258F"/>
-    <GlyphID id="294" name="rtblock"/>
-    <GlyphID id="295" name="ltshade"/>
-    <GlyphID id="296" name="shade"/>
-    <GlyphID id="297" name="dkshade"/>
-    <GlyphID id="298" name="uni2594"/>
-    <GlyphID id="299" name="uni2595"/>
-    <GlyphID id="300" name="uni2596"/>
-    <GlyphID id="301" name="uni259A"/>
-    <GlyphID id="302" name="uni259B"/>
-    <GlyphID id="303" name="uni259C"/>
-    <GlyphID id="304" name="uni259D"/>
-    <GlyphID id="305" name="uni259E"/>
-    <GlyphID id="306" name="uni259F"/>
-    <GlyphID id="307" name="filledbox"/>
-    <GlyphID id="308" name="uni2610"/>
-    <GlyphID id="309" name="uni2616"/>
-    <GlyphID id="310" name="uni2617"/>
-    <GlyphID id="311" name="uni2630"/>
-    <GlyphID id="312" name="uni2631"/>
-    <GlyphID id="313" name="uni2632"/>
-    <GlyphID id="314" name="uni2633"/>
-    <GlyphID id="315" name="uni2634"/>
-    <GlyphID id="316" name="uni2635"/>
-    <GlyphID id="317" name="uni2636"/>
-    <GlyphID id="318" name="uni2637"/>
-    <GlyphID id="319" name="uni268C"/>
-    <GlyphID id="320" name="uni268D"/>
-    <GlyphID id="321" name="uni268E"/>
-    <GlyphID id="322" name="uni268F"/>
-    <GlyphID id="323" name="uni2690"/>
-    <GlyphID id="324" name="uni2691"/>
-    <GlyphID id="325" name="uni26EB"/>
-    <GlyphID id="326" name="uni26F0"/>
-    <GlyphID id="327" name="uni26F6"/>
-    <GlyphID id="328" name="uni26FF"/>
-    <GlyphID id="329" name="uni2719"/>
-    <GlyphID id="330" name="uni271A"/>
-    <GlyphID id="331" name="uni271B"/>
-    <GlyphID id="332" name="uni271C"/>
-    <GlyphID id="333" name="uni271D"/>
-    <GlyphID id="334" name="uni271F"/>
-    <GlyphID id="335" name="uni272A"/>
-    <GlyphID id="336" name="uni2779"/>
-    <GlyphID id="337" name="uni277C"/>
-    <GlyphID id="338" name="uni278D"/>
-    <GlyphID id="339" name="uni2790"/>
-    <GlyphID id="340" name="uni29E9"/>
-    <GlyphID id="341" name="uniA746"/>
-    <GlyphID id="342" name="uniA747"/>
-    <GlyphID id="343" name="uniA780"/>
-    <GlyphID id="344" name="uniA781"/>
-    <GlyphID id="345" name="uniA789"/>
-    <GlyphID id="346" name="uniA78A"/>
-    <GlyphID id="347" name="uniA78B"/>
-    <GlyphID id="348" name="uniA78C"/>
-    <GlyphID id="349" name="uniA7AE"/>
-    <GlyphID id="350" name="uniA7B1"/>
-    <GlyphID id="351" name="uniA7F7"/>
-    <GlyphID id="352" name="uniA7FB"/>
-    <GlyphID id="353" name="uniA7FC"/>
-    <GlyphID id="354" name="uniA7FD"/>
-    <GlyphID id="355" name="uniFF01"/>
-    <GlyphID id="356" name="uniFF02"/>
-    <GlyphID id="357" name="uniFF07"/>
-    <GlyphID id="358" name="uniFF0B"/>
-    <GlyphID id="359" name="uniFF0D"/>
-    <GlyphID id="360" name="uniFF0E"/>
-    <GlyphID id="361" name="uniFF10"/>
-    <GlyphID id="362" name="uniFF11"/>
-    <GlyphID id="363" name="uniFF14"/>
-    <GlyphID id="364" name="uniFF17"/>
-    <GlyphID id="365" name="uniFF1A"/>
-    <GlyphID id="366" name="uniFF1D"/>
-    <GlyphID id="367" name="uniFF21"/>
-    <GlyphID id="368" name="uniFF22"/>
-    <GlyphID id="369" name="uniFF23"/>
-    <GlyphID id="370" name="uniFF24"/>
-    <GlyphID id="371" name="uniFF25"/>
-    <GlyphID id="372" name="uniFF26"/>
-    <GlyphID id="373" name="uniFF27"/>
-    <GlyphID id="374" name="uniFF28"/>
-    <GlyphID id="375" name="uniFF29"/>
-    <GlyphID id="376" name="uniFF2A"/>
-    <GlyphID id="377" name="uniFF2B"/>
-    <GlyphID id="378" name="uniFF2C"/>
-    <GlyphID id="379" name="uniFF2D"/>
-    <GlyphID id="380" name="uniFF2E"/>
-    <GlyphID id="381" name="uniFF2F"/>
-    <GlyphID id="382" name="uniFF30"/>
-    <GlyphID id="383" name="uniFF31"/>
-    <GlyphID id="384" name="uniFF32"/>
-    <GlyphID id="385" name="uniFF33"/>
-    <GlyphID id="386" name="uniFF34"/>
-    <GlyphID id="387" name="uniFF35"/>
-    <GlyphID id="388" name="uniFF36"/>
-    <GlyphID id="389" name="uniFF37"/>
-    <GlyphID id="390" name="uniFF38"/>
-    <GlyphID id="391" name="uniFF39"/>
-    <GlyphID id="392" name="uniFF3A"/>
-    <GlyphID id="393" name="uniFF3E"/>
-    <GlyphID id="394" name="uniFF3F"/>
-    <GlyphID id="395" name="uniFF40"/>
-    <GlyphID id="396" name="uniFF41"/>
-    <GlyphID id="397" name="uniFF42"/>
-    <GlyphID id="398" name="uniFF43"/>
-    <GlyphID id="399" name="uniFF44"/>
-    <GlyphID id="400" name="uniFF45"/>
-    <GlyphID id="401" name="uniFF46"/>
-    <GlyphID id="402" name="uniFF47"/>
-    <GlyphID id="403" name="uniFF48"/>
-    <GlyphID id="404" name="uniFF49"/>
-    <GlyphID id="405" name="uniFF4A"/>
-    <GlyphID id="406" name="uniFF4B"/>
-    <GlyphID id="407" name="uniFF4C"/>
-    <GlyphID id="408" name="uniFF4D"/>
-    <GlyphID id="409" name="uniFF4E"/>
-    <GlyphID id="410" name="uniFF4F"/>
-    <GlyphID id="411" name="uniFF50"/>
-    <GlyphID id="412" name="uniFF51"/>
-    <GlyphID id="413" name="uniFF52"/>
-    <GlyphID id="414" name="uniFF53"/>
-    <GlyphID id="415" name="uniFF54"/>
-    <GlyphID id="416" name="uniFF55"/>
-    <GlyphID id="417" name="uniFF56"/>
-    <GlyphID id="418" name="uniFF57"/>
-    <GlyphID id="419" name="uniFF58"/>
-    <GlyphID id="420" name="uniFF59"/>
-    <GlyphID id="421" name="uniFF5A"/>
-    <GlyphID id="422" name="uniFF5C"/>
-    <GlyphID id="423" name="uniFFE4"/>
-    <GlyphID id="424" name="uniFFE5"/>
-    <GlyphID id="425" name="uniFFED"/>
-    <GlyphID id="426" name="u1F4EF"/>
+    <GlyphID id="140" name="uni0372"/>
+    <GlyphID id="141" name="uni0373"/>
+    <GlyphID id="142" name="uni037F"/>
+    <GlyphID id="143" name="Alpha"/>
+    <GlyphID id="144" name="Beta"/>
+    <GlyphID id="145" name="Epsilon"/>
+    <GlyphID id="146" name="Zeta"/>
+    <GlyphID id="147" name="Eta"/>
+    <GlyphID id="148" name="Iota"/>
+    <GlyphID id="149" name="Kappa"/>
+    <GlyphID id="150" name="Mu"/>
+    <GlyphID id="151" name="Nu"/>
+    <GlyphID id="152" name="Omicron"/>
+    <GlyphID id="153" name="Rho"/>
+    <GlyphID id="154" name="Tau"/>
+    <GlyphID id="155" name="Upsilon"/>
+    <GlyphID id="156" name="uni03DC"/>
+    <GlyphID id="157" name="uni03DD"/>
+    <GlyphID id="158" name="uni03F9"/>
+    <GlyphID id="159" name="uni03FA"/>
+    <GlyphID id="160" name="uni03FD"/>
+    <GlyphID id="161" name="uni0401"/>
+    <GlyphID id="162" name="uni0405"/>
+    <GlyphID id="163" name="uni0406"/>
+    <GlyphID id="164" name="uni0407"/>
+    <GlyphID id="165" name="uni0410"/>
+    <GlyphID id="166" name="uni0412"/>
+    <GlyphID id="167" name="uni0413"/>
+    <GlyphID id="168" name="uni0415"/>
+    <GlyphID id="169" name="uni041A"/>
+    <GlyphID id="170" name="uni041C"/>
+    <GlyphID id="171" name="uni041D"/>
+    <GlyphID id="172" name="uni041E"/>
+    <GlyphID id="173" name="uni0420"/>
+    <GlyphID id="174" name="uni0421"/>
+    <GlyphID id="175" name="uni0422"/>
+    <GlyphID id="176" name="uni042F"/>
+    <GlyphID id="177" name="uni0430"/>
+    <GlyphID id="178" name="uni0432"/>
+    <GlyphID id="179" name="uni0433"/>
+    <GlyphID id="180" name="uni0435"/>
+    <GlyphID id="181" name="uni043E"/>
+    <GlyphID id="182" name="uni0451"/>
+    <GlyphID id="183" name="uni0457"/>
+    <GlyphID id="184" name="uni0466"/>
+    <GlyphID id="185" name="uni0467"/>
+    <GlyphID id="186" name="uni04AE"/>
+    <GlyphID id="187" name="uni04AF"/>
+    <GlyphID id="188" name="uni04C0"/>
+    <GlyphID id="189" name="uni04CF"/>
+    <GlyphID id="190" name="uni04D2"/>
+    <GlyphID id="191" name="uni04D3"/>
+    <GlyphID id="192" name="uni04D8"/>
+    <GlyphID id="193" name="uni04D9"/>
+    <GlyphID id="194" name="uni04DA"/>
+    <GlyphID id="195" name="uni04DB"/>
+    <GlyphID id="196" name="uni04E6"/>
+    <GlyphID id="197" name="uni04E7"/>
+    <GlyphID id="198" name="uni04F0"/>
+    <GlyphID id="199" name="uni04F1"/>
+    <GlyphID id="200" name="uni16C9"/>
+    <GlyphID id="201" name="uni16CA"/>
+    <GlyphID id="202" name="uni1E02"/>
+    <GlyphID id="203" name="uni1E03"/>
+    <GlyphID id="204" name="uni1E04"/>
+    <GlyphID id="205" name="uni1E05"/>
+    <GlyphID id="206" name="uni1E06"/>
+    <GlyphID id="207" name="uni1E07"/>
+    <GlyphID id="208" name="uni1E0A"/>
+    <GlyphID id="209" name="uni1E0B"/>
+    <GlyphID id="210" name="uni1E0C"/>
+    <GlyphID id="211" name="uni1E0D"/>
+    <GlyphID id="212" name="uni1E0E"/>
+    <GlyphID id="213" name="uni1E0F"/>
+    <GlyphID id="214" name="uni1E1E"/>
+    <GlyphID id="215" name="uni1E1F"/>
+    <GlyphID id="216" name="uni1E20"/>
+    <GlyphID id="217" name="uni1E21"/>
+    <GlyphID id="218" name="uni1E22"/>
+    <GlyphID id="219" name="uni1E23"/>
+    <GlyphID id="220" name="uni1E24"/>
+    <GlyphID id="221" name="uni1E25"/>
+    <GlyphID id="222" name="uni1E26"/>
+    <GlyphID id="223" name="uni1E27"/>
+    <GlyphID id="224" name="uni1E32"/>
+    <GlyphID id="225" name="uni1E33"/>
+    <GlyphID id="226" name="uni1E34"/>
+    <GlyphID id="227" name="uni1E35"/>
+    <GlyphID id="228" name="uni1E36"/>
+    <GlyphID id="229" name="uni1E37"/>
+    <GlyphID id="230" name="uni1E38"/>
+    <GlyphID id="231" name="uni1E39"/>
+    <GlyphID id="232" name="uni1E3A"/>
+    <GlyphID id="233" name="uni1E3B"/>
+    <GlyphID id="234" name="uni1E40"/>
+    <GlyphID id="235" name="uni1E41"/>
+    <GlyphID id="236" name="uni1E42"/>
+    <GlyphID id="237" name="uni1E43"/>
+    <GlyphID id="238" name="uni1E44"/>
+    <GlyphID id="239" name="uni1E45"/>
+    <GlyphID id="240" name="uni1E46"/>
+    <GlyphID id="241" name="uni1E47"/>
+    <GlyphID id="242" name="uni1E48"/>
+    <GlyphID id="243" name="uni1E49"/>
+    <GlyphID id="244" name="uni1E56"/>
+    <GlyphID id="245" name="uni1E57"/>
+    <GlyphID id="246" name="uni1E58"/>
+    <GlyphID id="247" name="uni1E59"/>
+    <GlyphID id="248" name="uni1E5A"/>
+    <GlyphID id="249" name="uni1E5B"/>
+    <GlyphID id="250" name="uni1E5C"/>
+    <GlyphID id="251" name="uni1E5D"/>
+    <GlyphID id="252" name="uni1E5E"/>
+    <GlyphID id="253" name="uni1E5F"/>
+    <GlyphID id="254" name="uni1E60"/>
+    <GlyphID id="255" name="uni1E61"/>
+    <GlyphID id="256" name="uni1E62"/>
+    <GlyphID id="257" name="uni1E63"/>
+    <GlyphID id="258" name="uni1E68"/>
+    <GlyphID id="259" name="uni1E69"/>
+    <GlyphID id="260" name="uni1E6A"/>
+    <GlyphID id="261" name="uni1E6B"/>
+    <GlyphID id="262" name="uni1E6C"/>
+    <GlyphID id="263" name="uni1E6D"/>
+    <GlyphID id="264" name="uni1E6E"/>
+    <GlyphID id="265" name="uni1E6F"/>
+    <GlyphID id="266" name="uni1E72"/>
+    <GlyphID id="267" name="uni1E73"/>
+    <GlyphID id="268" name="uni1E7E"/>
+    <GlyphID id="269" name="uni1E7F"/>
+    <GlyphID id="270" name="Wdieresis"/>
+    <GlyphID id="271" name="wdieresis"/>
+    <GlyphID id="272" name="uni1E86"/>
+    <GlyphID id="273" name="uni1E87"/>
+    <GlyphID id="274" name="uni1E88"/>
+    <GlyphID id="275" name="uni1E89"/>
+    <GlyphID id="276" name="uni1E8A"/>
+    <GlyphID id="277" name="uni1E8B"/>
+    <GlyphID id="278" name="uni1E8C"/>
+    <GlyphID id="279" name="uni1E8D"/>
+    <GlyphID id="280" name="uni1E8E"/>
+    <GlyphID id="281" name="uni1E8F"/>
+    <GlyphID id="282" name="uni1E92"/>
+    <GlyphID id="283" name="uni1E93"/>
+    <GlyphID id="284" name="uni1E94"/>
+    <GlyphID id="285" name="uni1E95"/>
+    <GlyphID id="286" name="uni1E96"/>
+    <GlyphID id="287" name="uni1E97"/>
+    <GlyphID id="288" name="uni1EA0"/>
+    <GlyphID id="289" name="uni1EA1"/>
+    <GlyphID id="290" name="uni1EB8"/>
+    <GlyphID id="291" name="uni1EB9"/>
+    <GlyphID id="292" name="uni1ECA"/>
+    <GlyphID id="293" name="uni1ECB"/>
+    <GlyphID id="294" name="uni1ECC"/>
+    <GlyphID id="295" name="uni1ECD"/>
+    <GlyphID id="296" name="uni1EE4"/>
+    <GlyphID id="297" name="uni1EE5"/>
+    <GlyphID id="298" name="uni1EF4"/>
+    <GlyphID id="299" name="uni1EF5"/>
+    <GlyphID id="300" name="uni2000"/>
+    <GlyphID id="301" name="uni2001"/>
+    <GlyphID id="302" name="uni2002"/>
+    <GlyphID id="303" name="uni2003"/>
+    <GlyphID id="304" name="uni2004"/>
+    <GlyphID id="305" name="uni2005"/>
+    <GlyphID id="306" name="uni2006"/>
+    <GlyphID id="307" name="uni2007"/>
+    <GlyphID id="308" name="uni2008"/>
+    <GlyphID id="309" name="uni2009"/>
+    <GlyphID id="310" name="uni200A"/>
+    <GlyphID id="311" name="uni2016"/>
+    <GlyphID id="312" name="underscoredbl"/>
+    <GlyphID id="313" name="twodotenleader"/>
+    <GlyphID id="314" name="ellipsis"/>
+    <GlyphID id="315" name="exclamdbl"/>
+    <GlyphID id="316" name="uni203E"/>
+    <GlyphID id="317" name="uni2160"/>
+    <GlyphID id="318" name="uni2161"/>
+    <GlyphID id="319" name="uni2162"/>
+    <GlyphID id="320" name="uni2164"/>
+    <GlyphID id="321" name="uni2169"/>
+    <GlyphID id="322" name="uni216C"/>
+    <GlyphID id="323" name="uni216D"/>
+    <GlyphID id="324" name="uni216E"/>
+    <GlyphID id="325" name="uni216F"/>
+    <GlyphID id="326" name="uni2170"/>
+    <GlyphID id="327" name="uni2171"/>
+    <GlyphID id="328" name="uni2172"/>
+    <GlyphID id="329" name="uni2174"/>
+    <GlyphID id="330" name="uni2179"/>
+    <GlyphID id="331" name="uni217C"/>
+    <GlyphID id="332" name="uni217D"/>
+    <GlyphID id="333" name="uni217E"/>
+    <GlyphID id="334" name="uni217F"/>
+    <GlyphID id="335" name="uni2183"/>
+    <GlyphID id="336" name="uni2184"/>
+    <GlyphID id="337" name="uni2423"/>
+    <GlyphID id="338" name="uni24FF"/>
+    <GlyphID id="339" name="upblock"/>
+    <GlyphID id="340" name="uni2581"/>
+    <GlyphID id="341" name="uni2582"/>
+    <GlyphID id="342" name="uni2583"/>
+    <GlyphID id="343" name="dnblock"/>
+    <GlyphID id="344" name="uni2585"/>
+    <GlyphID id="345" name="uni2586"/>
+    <GlyphID id="346" name="uni2587"/>
+    <GlyphID id="347" name="block"/>
+    <GlyphID id="348" name="uni2589"/>
+    <GlyphID id="349" name="uni258A"/>
+    <GlyphID id="350" name="uni258B"/>
+    <GlyphID id="351" name="lfblock"/>
+    <GlyphID id="352" name="uni258D"/>
+    <GlyphID id="353" name="uni258E"/>
+    <GlyphID id="354" name="uni258F"/>
+    <GlyphID id="355" name="rtblock"/>
+    <GlyphID id="356" name="ltshade"/>
+    <GlyphID id="357" name="shade"/>
+    <GlyphID id="358" name="dkshade"/>
+    <GlyphID id="359" name="uni2594"/>
+    <GlyphID id="360" name="uni2595"/>
+    <GlyphID id="361" name="uni2596"/>
+    <GlyphID id="362" name="uni259A"/>
+    <GlyphID id="363" name="uni259B"/>
+    <GlyphID id="364" name="uni259C"/>
+    <GlyphID id="365" name="uni259D"/>
+    <GlyphID id="366" name="uni259E"/>
+    <GlyphID id="367" name="uni259F"/>
+    <GlyphID id="368" name="filledbox"/>
+    <GlyphID id="369" name="uni2610"/>
+    <GlyphID id="370" name="uni2616"/>
+    <GlyphID id="371" name="uni2617"/>
+    <GlyphID id="372" name="uni2630"/>
+    <GlyphID id="373" name="uni2631"/>
+    <GlyphID id="374" name="uni2632"/>
+    <GlyphID id="375" name="uni2633"/>
+    <GlyphID id="376" name="uni2634"/>
+    <GlyphID id="377" name="uni2635"/>
+    <GlyphID id="378" name="uni2636"/>
+    <GlyphID id="379" name="uni2637"/>
+    <GlyphID id="380" name="uni268C"/>
+    <GlyphID id="381" name="uni268D"/>
+    <GlyphID id="382" name="uni268E"/>
+    <GlyphID id="383" name="uni268F"/>
+    <GlyphID id="384" name="uni2690"/>
+    <GlyphID id="385" name="uni2691"/>
+    <GlyphID id="386" name="uni26EB"/>
+    <GlyphID id="387" name="uni26F0"/>
+    <GlyphID id="388" name="uni26F6"/>
+    <GlyphID id="389" name="uni26FF"/>
+    <GlyphID id="390" name="uni2719"/>
+    <GlyphID id="391" name="uni271A"/>
+    <GlyphID id="392" name="uni271B"/>
+    <GlyphID id="393" name="uni271C"/>
+    <GlyphID id="394" name="uni271D"/>
+    <GlyphID id="395" name="uni271F"/>
+    <GlyphID id="396" name="uni272A"/>
+    <GlyphID id="397" name="uni2779"/>
+    <GlyphID id="398" name="uni277C"/>
+    <GlyphID id="399" name="uni278D"/>
+    <GlyphID id="400" name="uni2790"/>
+    <GlyphID id="401" name="uni29E9"/>
+    <GlyphID id="402" name="uniA746"/>
+    <GlyphID id="403" name="uniA747"/>
+    <GlyphID id="404" name="uniA780"/>
+    <GlyphID id="405" name="uniA781"/>
+    <GlyphID id="406" name="uniA789"/>
+    <GlyphID id="407" name="uniA78A"/>
+    <GlyphID id="408" name="uniA78B"/>
+    <GlyphID id="409" name="uniA78C"/>
+    <GlyphID id="410" name="uniA7AE"/>
+    <GlyphID id="411" name="uniA7B1"/>
+    <GlyphID id="412" name="uniA7F7"/>
+    <GlyphID id="413" name="uniA7FB"/>
+    <GlyphID id="414" name="uniA7FC"/>
+    <GlyphID id="415" name="uniA7FD"/>
+    <GlyphID id="416" name="uniFF01"/>
+    <GlyphID id="417" name="uniFF02"/>
+    <GlyphID id="418" name="uniFF07"/>
+    <GlyphID id="419" name="uniFF0B"/>
+    <GlyphID id="420" name="uniFF0D"/>
+    <GlyphID id="421" name="uniFF0E"/>
+    <GlyphID id="422" name="uniFF10"/>
+    <GlyphID id="423" name="uniFF11"/>
+    <GlyphID id="424" name="uniFF14"/>
+    <GlyphID id="425" name="uniFF17"/>
+    <GlyphID id="426" name="uniFF1A"/>
+    <GlyphID id="427" name="uniFF1D"/>
+    <GlyphID id="428" name="uniFF21"/>
+    <GlyphID id="429" name="uniFF22"/>
+    <GlyphID id="430" name="uniFF23"/>
+    <GlyphID id="431" name="uniFF24"/>
+    <GlyphID id="432" name="uniFF25"/>
+    <GlyphID id="433" name="uniFF26"/>
+    <GlyphID id="434" name="uniFF27"/>
+    <GlyphID id="435" name="uniFF28"/>
+    <GlyphID id="436" name="uniFF29"/>
+    <GlyphID id="437" name="uniFF2A"/>
+    <GlyphID id="438" name="uniFF2B"/>
+    <GlyphID id="439" name="uniFF2C"/>
+    <GlyphID id="440" name="uniFF2D"/>
+    <GlyphID id="441" name="uniFF2E"/>
+    <GlyphID id="442" name="uniFF2F"/>
+    <GlyphID id="443" name="uniFF30"/>
+    <GlyphID id="444" name="uniFF31"/>
+    <GlyphID id="445" name="uniFF32"/>
+    <GlyphID id="446" name="uniFF33"/>
+    <GlyphID id="447" name="uniFF34"/>
+    <GlyphID id="448" name="uniFF35"/>
+    <GlyphID id="449" name="uniFF36"/>
+    <GlyphID id="450" name="uniFF37"/>
+    <GlyphID id="451" name="uniFF38"/>
+    <GlyphID id="452" name="uniFF39"/>
+    <GlyphID id="453" name="uniFF3A"/>
+    <GlyphID id="454" name="uniFF3E"/>
+    <GlyphID id="455" name="uniFF3F"/>
+    <GlyphID id="456" name="uniFF40"/>
+    <GlyphID id="457" name="uniFF41"/>
+    <GlyphID id="458" name="uniFF42"/>
+    <GlyphID id="459" name="uniFF43"/>
+    <GlyphID id="460" name="uniFF44"/>
+    <GlyphID id="461" name="uniFF45"/>
+    <GlyphID id="462" name="uniFF46"/>
+    <GlyphID id="463" name="uniFF47"/>
+    <GlyphID id="464" name="uniFF48"/>
+    <GlyphID id="465" name="uniFF49"/>
+    <GlyphID id="466" name="uniFF4A"/>
+    <GlyphID id="467" name="uniFF4B"/>
+    <GlyphID id="468" name="uniFF4C"/>
+    <GlyphID id="469" name="uniFF4D"/>
+    <GlyphID id="470" name="uniFF4E"/>
+    <GlyphID id="471" name="uniFF4F"/>
+    <GlyphID id="472" name="uniFF50"/>
+    <GlyphID id="473" name="uniFF51"/>
+    <GlyphID id="474" name="uniFF52"/>
+    <GlyphID id="475" name="uniFF53"/>
+    <GlyphID id="476" name="uniFF54"/>
+    <GlyphID id="477" name="uniFF55"/>
+    <GlyphID id="478" name="uniFF56"/>
+    <GlyphID id="479" name="uniFF57"/>
+    <GlyphID id="480" name="uniFF58"/>
+    <GlyphID id="481" name="uniFF59"/>
+    <GlyphID id="482" name="uniFF5A"/>
+    <GlyphID id="483" name="uniFF5C"/>
+    <GlyphID id="484" name="uniFFE4"/>
+    <GlyphID id="485" name="uniFFE5"/>
+    <GlyphID id="486" name="uniFFED"/>
+    <GlyphID id="487" name="u1F4EF"/>
   </GlyphOrder>
 
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="1.01"/>
-    <checkSumAdjustment value="0x4ebd7d4a"/>
+    <fontRevision value="1.01099"/>
+    <checkSumAdjustment value="0x5b27f507"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00101011"/>
     <unitsPerEm value="860"/>
     <created value="Wed Feb  1 14:42:49 2017"/>
-    <modified value="Fri Apr 21 09:40:28 2017"/>
+    <modified value="Fri Aug 11 09:54:15 2017"/>
     <xMin value="0"/>
     <yMin value="-249"/>
     <xMax value="725"/>
@@ -476,10 +537,10 @@
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="427"/>
+    <numGlyphs value="488"/>
     <maxPoints value="200"/>
     <maxContours value="50"/>
-    <maxCompositePoints value="47"/>
+    <maxCompositePoints value="57"/>
     <maxCompositeContours value="5"/>
     <maxZones value="2"/>
     <maxTwilightPoints value="0"/>
@@ -523,8 +584,8 @@
       <bMidline value="6"/>
       <bXHeight value="4"/>
     </panose>
-    <ulUnicodeRange1 value="10100000 00000000 00000000 01000111"/>
-    <ulUnicodeRange2 value="00000010 00000000 11110001 01010000"/>
+    <ulUnicodeRange1 value="10100000 00000000 00000010 11000111"/>
+    <ulUnicodeRange2 value="00000010 00000000 11110101 01010000"/>
     <ulUnicodeRange3 value="00000000 00000000 10000000 00010000"/>
     <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
     <achVendID value="PfEd"/>
@@ -550,8 +611,10 @@
     <mtx name=".null" width="0" lsb="0"/>
     <mtx name="A" width="725" lsb="58"/>
     <mtx name="Adieresis" width="725" lsb="58"/>
+    <mtx name="Alpha" width="725" lsb="58"/>
     <mtx name="Amacron" width="725" lsb="58"/>
     <mtx name="B" width="725" lsb="58"/>
+    <mtx name="Beta" width="725" lsb="58"/>
     <mtx name="C" width="725" lsb="58"/>
     <mtx name="Cacute" width="725" lsb="58"/>
     <mtx name="Ccaron" width="725" lsb="58"/>
@@ -564,6 +627,8 @@
     <mtx name="Edieresis" width="725" lsb="58"/>
     <mtx name="Edotaccent" width="725" lsb="58"/>
     <mtx name="Emacron" width="725" lsb="58"/>
+    <mtx name="Epsilon" width="725" lsb="58"/>
+    <mtx name="Eta" width="725" lsb="58"/>
     <mtx name="F" width="725" lsb="58"/>
     <mtx name="G" width="725" lsb="58"/>
     <mtx name="Gcircumflex" width="725" lsb="58"/>
@@ -574,22 +639,30 @@
     <mtx name="Idieresis" width="725" lsb="159"/>
     <mtx name="Idotaccent" width="725" lsb="159"/>
     <mtx name="Imacron" width="725" lsb="159"/>
+    <mtx name="Iota" width="725" lsb="159"/>
     <mtx name="J" width="725" lsb="58"/>
     <mtx name="K" width="725" lsb="58"/>
+    <mtx name="Kappa" width="725" lsb="58"/>
     <mtx name="L" width="725" lsb="58"/>
     <mtx name="M" width="725" lsb="58"/>
+    <mtx name="Mu" width="725" lsb="58"/>
     <mtx name="N" width="725" lsb="58"/>
+    <mtx name="Nu" width="725" lsb="58"/>
     <mtx name="O" width="725" lsb="58"/>
     <mtx name="Odieresis" width="725" lsb="58"/>
     <mtx name="Omacron" width="725" lsb="58"/>
+    <mtx name="Omicron" width="725" lsb="58"/>
     <mtx name="P" width="725" lsb="58"/>
     <mtx name="Q" width="725" lsb="58"/>
     <mtx name="R" width="725" lsb="58"/>
+    <mtx name="Rho" width="725" lsb="58"/>
     <mtx name="S" width="725" lsb="58"/>
     <mtx name="T" width="725" lsb="58"/>
+    <mtx name="Tau" width="725" lsb="58"/>
     <mtx name="U" width="725" lsb="58"/>
     <mtx name="Udieresis" width="725" lsb="58"/>
     <mtx name="Umacron" width="725" lsb="58"/>
+    <mtx name="Upsilon" width="725" lsb="58"/>
     <mtx name="V" width="725" lsb="58"/>
     <mtx name="W" width="725" lsb="0"/>
     <mtx name="Wdieresis" width="725" lsb="0"/>
@@ -598,6 +671,7 @@
     <mtx name="Ydieresis" width="725" lsb="58"/>
     <mtx name="Z" width="725" lsb="58"/>
     <mtx name="Zdotaccent" width="725" lsb="58"/>
+    <mtx name="Zeta" width="725" lsb="58"/>
     <mtx name="a" width="725" lsb="58"/>
     <mtx name="acute" width="725" lsb="301"/>
     <mtx name="acutecomb" width="725" lsb="301"/>
@@ -691,6 +765,53 @@
     <mtx name="uni032C" width="725" lsb="240"/>
     <mtx name="uni032D" width="725" lsb="240"/>
     <mtx name="uni0331" width="725" lsb="240"/>
+    <mtx name="uni0372" width="725" lsb="58"/>
+    <mtx name="uni0373" width="725" lsb="58"/>
+    <mtx name="uni037F" width="725" lsb="58"/>
+    <mtx name="uni03DC" width="725" lsb="58"/>
+    <mtx name="uni03DD" width="725" lsb="58"/>
+    <mtx name="uni03F9" width="725" lsb="58"/>
+    <mtx name="uni03FA" width="725" lsb="58"/>
+    <mtx name="uni03FD" width="725" lsb="59"/>
+    <mtx name="uni0401" width="725" lsb="58"/>
+    <mtx name="uni0405" width="725" lsb="58"/>
+    <mtx name="uni0406" width="725" lsb="58"/>
+    <mtx name="uni0407" width="725" lsb="159"/>
+    <mtx name="uni0410" width="725" lsb="58"/>
+    <mtx name="uni0412" width="725" lsb="58"/>
+    <mtx name="uni0413" width="725" lsb="58"/>
+    <mtx name="uni0415" width="725" lsb="58"/>
+    <mtx name="uni041A" width="725" lsb="58"/>
+    <mtx name="uni041C" width="725" lsb="58"/>
+    <mtx name="uni041D" width="725" lsb="58"/>
+    <mtx name="uni041E" width="725" lsb="58"/>
+    <mtx name="uni0420" width="725" lsb="58"/>
+    <mtx name="uni0421" width="725" lsb="58"/>
+    <mtx name="uni0422" width="725" lsb="58"/>
+    <mtx name="uni042F" width="725" lsb="58"/>
+    <mtx name="uni0430" width="725" lsb="58"/>
+    <mtx name="uni0432" width="725" lsb="58"/>
+    <mtx name="uni0433" width="725" lsb="58"/>
+    <mtx name="uni0435" width="725" lsb="58"/>
+    <mtx name="uni043E" width="725" lsb="58"/>
+    <mtx name="uni0451" width="725" lsb="58"/>
+    <mtx name="uni0457" width="725" lsb="159"/>
+    <mtx name="uni0466" width="725" lsb="58"/>
+    <mtx name="uni0467" width="725" lsb="58"/>
+    <mtx name="uni04AE" width="725" lsb="58"/>
+    <mtx name="uni04AF" width="725" lsb="58"/>
+    <mtx name="uni04C0" width="725" lsb="159"/>
+    <mtx name="uni04CF" width="725" lsb="159"/>
+    <mtx name="uni04D2" width="725" lsb="58"/>
+    <mtx name="uni04D3" width="725" lsb="58"/>
+    <mtx name="uni04D8" width="725" lsb="58"/>
+    <mtx name="uni04D9" width="725" lsb="58"/>
+    <mtx name="uni04DA" width="725" lsb="58"/>
+    <mtx name="uni04DB" width="725" lsb="58"/>
+    <mtx name="uni04E6" width="725" lsb="58"/>
+    <mtx name="uni04E7" width="725" lsb="58"/>
+    <mtx name="uni04F0" width="725" lsb="58"/>
+    <mtx name="uni04F1" width="725" lsb="58"/>
     <mtx name="uni16C9" width="725" lsb="58"/>
     <mtx name="uni16CA" width="725" lsb="58"/>
     <mtx name="uni1E02" width="725" lsb="58"/>
@@ -823,6 +944,7 @@
     <mtx name="uni2183" width="725" lsb="59"/>
     <mtx name="uni2184" width="725" lsb="59"/>
     <mtx name="uni2423" width="725" lsb="58"/>
+    <mtx name="uni24FF" width="725" lsb="57"/>
     <mtx name="uni2581" width="725" lsb="0"/>
     <mtx name="uni2582" width="725" lsb="0"/>
     <mtx name="uni2583" width="725" lsb="0"/>
@@ -1115,6 +1237,66 @@
       <map code="0x32c" name="uni032C"/><!-- COMBINING CARON BELOW -->
       <map code="0x32d" name="uni032D"/><!-- COMBINING CIRCUMFLEX ACCENT BELOW -->
       <map code="0x331" name="uni0331"/><!-- COMBINING MACRON BELOW -->
+      <map code="0x372" name="uni0372"/><!-- GREEK CAPITAL LETTER ARCHAIC SAMPI -->
+      <map code="0x373" name="uni0373"/><!-- GREEK SMALL LETTER ARCHAIC SAMPI -->
+      <map code="0x37f" name="uni037F"/><!-- GREEK CAPITAL LETTER YOT -->
+      <map code="0x391" name="Alpha"/><!-- GREEK CAPITAL LETTER ALPHA -->
+      <map code="0x392" name="Beta"/><!-- GREEK CAPITAL LETTER BETA -->
+      <map code="0x395" name="Epsilon"/><!-- GREEK CAPITAL LETTER EPSILON -->
+      <map code="0x396" name="Zeta"/><!-- GREEK CAPITAL LETTER ZETA -->
+      <map code="0x397" name="Eta"/><!-- GREEK CAPITAL LETTER ETA -->
+      <map code="0x399" name="Iota"/><!-- GREEK CAPITAL LETTER IOTA -->
+      <map code="0x39a" name="Kappa"/><!-- GREEK CAPITAL LETTER KAPPA -->
+      <map code="0x39c" name="Mu"/><!-- GREEK CAPITAL LETTER MU -->
+      <map code="0x39d" name="Nu"/><!-- GREEK CAPITAL LETTER NU -->
+      <map code="0x39f" name="Omicron"/><!-- GREEK CAPITAL LETTER OMICRON -->
+      <map code="0x3a1" name="Rho"/><!-- GREEK CAPITAL LETTER RHO -->
+      <map code="0x3a4" name="Tau"/><!-- GREEK CAPITAL LETTER TAU -->
+      <map code="0x3a5" name="Upsilon"/><!-- GREEK CAPITAL LETTER UPSILON -->
+      <map code="0x3dc" name="uni03DC"/><!-- GREEK LETTER DIGAMMA -->
+      <map code="0x3dd" name="uni03DD"/><!-- GREEK SMALL LETTER DIGAMMA -->
+      <map code="0x3f9" name="uni03F9"/><!-- GREEK CAPITAL LUNATE SIGMA SYMBOL -->
+      <map code="0x3fa" name="uni03FA"/><!-- GREEK CAPITAL LETTER SAN -->
+      <map code="0x3fd" name="uni03FD"/><!-- GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL -->
+      <map code="0x401" name="uni0401"/><!-- CYRILLIC CAPITAL LETTER IO -->
+      <map code="0x405" name="uni0405"/><!-- CYRILLIC CAPITAL LETTER DZE -->
+      <map code="0x406" name="uni0406"/><!-- CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I -->
+      <map code="0x407" name="uni0407"/><!-- CYRILLIC CAPITAL LETTER YI -->
+      <map code="0x410" name="uni0410"/><!-- CYRILLIC CAPITAL LETTER A -->
+      <map code="0x412" name="uni0412"/><!-- CYRILLIC CAPITAL LETTER VE -->
+      <map code="0x413" name="uni0413"/><!-- CYRILLIC CAPITAL LETTER GHE -->
+      <map code="0x415" name="uni0415"/><!-- CYRILLIC CAPITAL LETTER IE -->
+      <map code="0x41a" name="uni041A"/><!-- CYRILLIC CAPITAL LETTER KA -->
+      <map code="0x41c" name="uni041C"/><!-- CYRILLIC CAPITAL LETTER EM -->
+      <map code="0x41d" name="uni041D"/><!-- CYRILLIC CAPITAL LETTER EN -->
+      <map code="0x41e" name="uni041E"/><!-- CYRILLIC CAPITAL LETTER O -->
+      <map code="0x420" name="uni0420"/><!-- CYRILLIC CAPITAL LETTER ER -->
+      <map code="0x421" name="uni0421"/><!-- CYRILLIC CAPITAL LETTER ES -->
+      <map code="0x422" name="uni0422"/><!-- CYRILLIC CAPITAL LETTER TE -->
+      <map code="0x42f" name="uni042F"/><!-- CYRILLIC CAPITAL LETTER YA -->
+      <map code="0x430" name="uni0430"/><!-- CYRILLIC SMALL LETTER A -->
+      <map code="0x432" name="uni0432"/><!-- CYRILLIC SMALL LETTER VE -->
+      <map code="0x433" name="uni0433"/><!-- CYRILLIC SMALL LETTER GHE -->
+      <map code="0x435" name="uni0435"/><!-- CYRILLIC SMALL LETTER IE -->
+      <map code="0x43e" name="uni043E"/><!-- CYRILLIC SMALL LETTER O -->
+      <map code="0x451" name="uni0451"/><!-- CYRILLIC SMALL LETTER IO -->
+      <map code="0x457" name="uni0457"/><!-- CYRILLIC SMALL LETTER YI -->
+      <map code="0x466" name="uni0466"/><!-- CYRILLIC CAPITAL LETTER LITTLE YUS -->
+      <map code="0x467" name="uni0467"/><!-- CYRILLIC SMALL LETTER LITTLE YUS -->
+      <map code="0x4ae" name="uni04AE"/><!-- CYRILLIC CAPITAL LETTER STRAIGHT U -->
+      <map code="0x4af" name="uni04AF"/><!-- CYRILLIC SMALL LETTER STRAIGHT U -->
+      <map code="0x4c0" name="uni04C0"/><!-- CYRILLIC LETTER PALOCHKA -->
+      <map code="0x4cf" name="uni04CF"/><!-- CYRILLIC SMALL LETTER PALOCHKA -->
+      <map code="0x4d2" name="uni04D2"/><!-- CYRILLIC CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0x4d3" name="uni04D3"/><!-- CYRILLIC SMALL LETTER A WITH DIAERESIS -->
+      <map code="0x4d8" name="uni04D8"/><!-- CYRILLIC CAPITAL LETTER SCHWA -->
+      <map code="0x4d9" name="uni04D9"/><!-- CYRILLIC SMALL LETTER SCHWA -->
+      <map code="0x4da" name="uni04DA"/><!-- CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS -->
+      <map code="0x4db" name="uni04DB"/><!-- CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS -->
+      <map code="0x4e6" name="uni04E6"/><!-- CYRILLIC CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0x4e7" name="uni04E7"/><!-- CYRILLIC SMALL LETTER O WITH DIAERESIS -->
+      <map code="0x4f0" name="uni04F0"/><!-- CYRILLIC CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0x4f1" name="uni04F1"/><!-- CYRILLIC SMALL LETTER U WITH DIAERESIS -->
       <map code="0x16c9" name="uni16C9"/><!-- RUNIC LETTER ALGIZ EOLHX -->
       <map code="0x16ca" name="uni16CA"/><!-- RUNIC LETTER SOWILO S -->
       <map code="0x1e02" name="uni1E02"/><!-- LATIN CAPITAL LETTER B WITH DOT ABOVE -->
@@ -1253,6 +1435,7 @@
       <map code="0x2183" name="uni2183"/><!-- ROMAN NUMERAL REVERSED ONE HUNDRED -->
       <map code="0x2184" name="uni2184"/><!-- LATIN SMALL LETTER REVERSED C -->
       <map code="0x2423" name="uni2423"/><!-- OPEN BOX -->
+      <map code="0x24ff" name="uni24FF"/><!-- NEGATIVE CIRCLED DIGIT ZERO -->
       <map code="0x2580" name="upblock"/><!-- UPPER HALF BLOCK -->
       <map code="0x2581" name="uni2581"/><!-- LOWER ONE EIGHTH BLOCK -->
       <map code="0x2582" name="uni2582"/><!-- LOWER ONE QUARTER BLOCK -->
@@ -1402,7 +1585,7 @@
       <map code="0xffe5" name="uniFFE5"/><!-- FULLWIDTH YEN SIGN -->
       <map code="0xffed" name="uniFFED"/><!-- HALFWIDTH BLACK SQUARE -->
     </cmap_format_4>
-    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="1468" language="0" nGroups="121">
+    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="1888" language="0" nGroups="156">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
       <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
@@ -1540,6 +1723,66 @@
       <map code="0x32c" name="uni032C"/><!-- COMBINING CARON BELOW -->
       <map code="0x32d" name="uni032D"/><!-- COMBINING CIRCUMFLEX ACCENT BELOW -->
       <map code="0x331" name="uni0331"/><!-- COMBINING MACRON BELOW -->
+      <map code="0x372" name="uni0372"/><!-- GREEK CAPITAL LETTER ARCHAIC SAMPI -->
+      <map code="0x373" name="uni0373"/><!-- GREEK SMALL LETTER ARCHAIC SAMPI -->
+      <map code="0x37f" name="uni037F"/><!-- GREEK CAPITAL LETTER YOT -->
+      <map code="0x391" name="Alpha"/><!-- GREEK CAPITAL LETTER ALPHA -->
+      <map code="0x392" name="Beta"/><!-- GREEK CAPITAL LETTER BETA -->
+      <map code="0x395" name="Epsilon"/><!-- GREEK CAPITAL LETTER EPSILON -->
+      <map code="0x396" name="Zeta"/><!-- GREEK CAPITAL LETTER ZETA -->
+      <map code="0x397" name="Eta"/><!-- GREEK CAPITAL LETTER ETA -->
+      <map code="0x399" name="Iota"/><!-- GREEK CAPITAL LETTER IOTA -->
+      <map code="0x39a" name="Kappa"/><!-- GREEK CAPITAL LETTER KAPPA -->
+      <map code="0x39c" name="Mu"/><!-- GREEK CAPITAL LETTER MU -->
+      <map code="0x39d" name="Nu"/><!-- GREEK CAPITAL LETTER NU -->
+      <map code="0x39f" name="Omicron"/><!-- GREEK CAPITAL LETTER OMICRON -->
+      <map code="0x3a1" name="Rho"/><!-- GREEK CAPITAL LETTER RHO -->
+      <map code="0x3a4" name="Tau"/><!-- GREEK CAPITAL LETTER TAU -->
+      <map code="0x3a5" name="Upsilon"/><!-- GREEK CAPITAL LETTER UPSILON -->
+      <map code="0x3dc" name="uni03DC"/><!-- GREEK LETTER DIGAMMA -->
+      <map code="0x3dd" name="uni03DD"/><!-- GREEK SMALL LETTER DIGAMMA -->
+      <map code="0x3f9" name="uni03F9"/><!-- GREEK CAPITAL LUNATE SIGMA SYMBOL -->
+      <map code="0x3fa" name="uni03FA"/><!-- GREEK CAPITAL LETTER SAN -->
+      <map code="0x3fd" name="uni03FD"/><!-- GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL -->
+      <map code="0x401" name="uni0401"/><!-- CYRILLIC CAPITAL LETTER IO -->
+      <map code="0x405" name="uni0405"/><!-- CYRILLIC CAPITAL LETTER DZE -->
+      <map code="0x406" name="uni0406"/><!-- CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I -->
+      <map code="0x407" name="uni0407"/><!-- CYRILLIC CAPITAL LETTER YI -->
+      <map code="0x410" name="uni0410"/><!-- CYRILLIC CAPITAL LETTER A -->
+      <map code="0x412" name="uni0412"/><!-- CYRILLIC CAPITAL LETTER VE -->
+      <map code="0x413" name="uni0413"/><!-- CYRILLIC CAPITAL LETTER GHE -->
+      <map code="0x415" name="uni0415"/><!-- CYRILLIC CAPITAL LETTER IE -->
+      <map code="0x41a" name="uni041A"/><!-- CYRILLIC CAPITAL LETTER KA -->
+      <map code="0x41c" name="uni041C"/><!-- CYRILLIC CAPITAL LETTER EM -->
+      <map code="0x41d" name="uni041D"/><!-- CYRILLIC CAPITAL LETTER EN -->
+      <map code="0x41e" name="uni041E"/><!-- CYRILLIC CAPITAL LETTER O -->
+      <map code="0x420" name="uni0420"/><!-- CYRILLIC CAPITAL LETTER ER -->
+      <map code="0x421" name="uni0421"/><!-- CYRILLIC CAPITAL LETTER ES -->
+      <map code="0x422" name="uni0422"/><!-- CYRILLIC CAPITAL LETTER TE -->
+      <map code="0x42f" name="uni042F"/><!-- CYRILLIC CAPITAL LETTER YA -->
+      <map code="0x430" name="uni0430"/><!-- CYRILLIC SMALL LETTER A -->
+      <map code="0x432" name="uni0432"/><!-- CYRILLIC SMALL LETTER VE -->
+      <map code="0x433" name="uni0433"/><!-- CYRILLIC SMALL LETTER GHE -->
+      <map code="0x435" name="uni0435"/><!-- CYRILLIC SMALL LETTER IE -->
+      <map code="0x43e" name="uni043E"/><!-- CYRILLIC SMALL LETTER O -->
+      <map code="0x451" name="uni0451"/><!-- CYRILLIC SMALL LETTER IO -->
+      <map code="0x457" name="uni0457"/><!-- CYRILLIC SMALL LETTER YI -->
+      <map code="0x466" name="uni0466"/><!-- CYRILLIC CAPITAL LETTER LITTLE YUS -->
+      <map code="0x467" name="uni0467"/><!-- CYRILLIC SMALL LETTER LITTLE YUS -->
+      <map code="0x4ae" name="uni04AE"/><!-- CYRILLIC CAPITAL LETTER STRAIGHT U -->
+      <map code="0x4af" name="uni04AF"/><!-- CYRILLIC SMALL LETTER STRAIGHT U -->
+      <map code="0x4c0" name="uni04C0"/><!-- CYRILLIC LETTER PALOCHKA -->
+      <map code="0x4cf" name="uni04CF"/><!-- CYRILLIC SMALL LETTER PALOCHKA -->
+      <map code="0x4d2" name="uni04D2"/><!-- CYRILLIC CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0x4d3" name="uni04D3"/><!-- CYRILLIC SMALL LETTER A WITH DIAERESIS -->
+      <map code="0x4d8" name="uni04D8"/><!-- CYRILLIC CAPITAL LETTER SCHWA -->
+      <map code="0x4d9" name="uni04D9"/><!-- CYRILLIC SMALL LETTER SCHWA -->
+      <map code="0x4da" name="uni04DA"/><!-- CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS -->
+      <map code="0x4db" name="uni04DB"/><!-- CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS -->
+      <map code="0x4e6" name="uni04E6"/><!-- CYRILLIC CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0x4e7" name="uni04E7"/><!-- CYRILLIC SMALL LETTER O WITH DIAERESIS -->
+      <map code="0x4f0" name="uni04F0"/><!-- CYRILLIC CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0x4f1" name="uni04F1"/><!-- CYRILLIC SMALL LETTER U WITH DIAERESIS -->
       <map code="0x16c9" name="uni16C9"/><!-- RUNIC LETTER ALGIZ EOLHX -->
       <map code="0x16ca" name="uni16CA"/><!-- RUNIC LETTER SOWILO S -->
       <map code="0x1e02" name="uni1E02"/><!-- LATIN CAPITAL LETTER B WITH DOT ABOVE -->
@@ -1678,6 +1921,7 @@
       <map code="0x2183" name="uni2183"/><!-- ROMAN NUMERAL REVERSED ONE HUNDRED -->
       <map code="0x2184" name="uni2184"/><!-- LATIN SMALL LETTER REVERSED C -->
       <map code="0x2423" name="uni2423"/><!-- OPEN BOX -->
+      <map code="0x24ff" name="uni24FF"/><!-- NEGATIVE CIRCLED DIGIT ZERO -->
       <map code="0x2580" name="upblock"/><!-- UPPER HALF BLOCK -->
       <map code="0x2581" name="uni2581"/><!-- LOWER ONE EIGHTH BLOCK -->
       <map code="0x2582" name="uni2582"/><!-- LOWER ONE QUARTER BLOCK -->
@@ -1828,7 +2072,7 @@
       <map code="0xffed" name="uniFFED"/><!-- HALFWIDTH BLACK SQUARE -->
       <map code="0x1f4ef" name="u1F4EF"/><!-- POSTAL HORN -->
     </cmap_format_12>
-    <cmap_format_0 platformID="1" platEncID="0" language="0">
+    <cmap_format_6 platformID="1" platEncID="0" language="0">
       <map code="0x0" name=".null"/>
       <map code="0x8" name=".null"/>
       <map code="0x9" name="nonmarkingreturn"/>
@@ -1922,7 +2166,7 @@
       <map code="0xe8" name="Edieresis"/>
       <map code="0xec" name="Idieresis"/>
       <map code="0xf8" name="macron"/>
-    </cmap_format_0>
+    </cmap_format_6>
     <cmap_format_4 platformID="3" platEncID="1" language="0">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
@@ -2061,6 +2305,66 @@
       <map code="0x32c" name="uni032C"/><!-- COMBINING CARON BELOW -->
       <map code="0x32d" name="uni032D"/><!-- COMBINING CIRCUMFLEX ACCENT BELOW -->
       <map code="0x331" name="uni0331"/><!-- COMBINING MACRON BELOW -->
+      <map code="0x372" name="uni0372"/><!-- GREEK CAPITAL LETTER ARCHAIC SAMPI -->
+      <map code="0x373" name="uni0373"/><!-- GREEK SMALL LETTER ARCHAIC SAMPI -->
+      <map code="0x37f" name="uni037F"/><!-- GREEK CAPITAL LETTER YOT -->
+      <map code="0x391" name="Alpha"/><!-- GREEK CAPITAL LETTER ALPHA -->
+      <map code="0x392" name="Beta"/><!-- GREEK CAPITAL LETTER BETA -->
+      <map code="0x395" name="Epsilon"/><!-- GREEK CAPITAL LETTER EPSILON -->
+      <map code="0x396" name="Zeta"/><!-- GREEK CAPITAL LETTER ZETA -->
+      <map code="0x397" name="Eta"/><!-- GREEK CAPITAL LETTER ETA -->
+      <map code="0x399" name="Iota"/><!-- GREEK CAPITAL LETTER IOTA -->
+      <map code="0x39a" name="Kappa"/><!-- GREEK CAPITAL LETTER KAPPA -->
+      <map code="0x39c" name="Mu"/><!-- GREEK CAPITAL LETTER MU -->
+      <map code="0x39d" name="Nu"/><!-- GREEK CAPITAL LETTER NU -->
+      <map code="0x39f" name="Omicron"/><!-- GREEK CAPITAL LETTER OMICRON -->
+      <map code="0x3a1" name="Rho"/><!-- GREEK CAPITAL LETTER RHO -->
+      <map code="0x3a4" name="Tau"/><!-- GREEK CAPITAL LETTER TAU -->
+      <map code="0x3a5" name="Upsilon"/><!-- GREEK CAPITAL LETTER UPSILON -->
+      <map code="0x3dc" name="uni03DC"/><!-- GREEK LETTER DIGAMMA -->
+      <map code="0x3dd" name="uni03DD"/><!-- GREEK SMALL LETTER DIGAMMA -->
+      <map code="0x3f9" name="uni03F9"/><!-- GREEK CAPITAL LUNATE SIGMA SYMBOL -->
+      <map code="0x3fa" name="uni03FA"/><!-- GREEK CAPITAL LETTER SAN -->
+      <map code="0x3fd" name="uni03FD"/><!-- GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL -->
+      <map code="0x401" name="uni0401"/><!-- CYRILLIC CAPITAL LETTER IO -->
+      <map code="0x405" name="uni0405"/><!-- CYRILLIC CAPITAL LETTER DZE -->
+      <map code="0x406" name="uni0406"/><!-- CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I -->
+      <map code="0x407" name="uni0407"/><!-- CYRILLIC CAPITAL LETTER YI -->
+      <map code="0x410" name="uni0410"/><!-- CYRILLIC CAPITAL LETTER A -->
+      <map code="0x412" name="uni0412"/><!-- CYRILLIC CAPITAL LETTER VE -->
+      <map code="0x413" name="uni0413"/><!-- CYRILLIC CAPITAL LETTER GHE -->
+      <map code="0x415" name="uni0415"/><!-- CYRILLIC CAPITAL LETTER IE -->
+      <map code="0x41a" name="uni041A"/><!-- CYRILLIC CAPITAL LETTER KA -->
+      <map code="0x41c" name="uni041C"/><!-- CYRILLIC CAPITAL LETTER EM -->
+      <map code="0x41d" name="uni041D"/><!-- CYRILLIC CAPITAL LETTER EN -->
+      <map code="0x41e" name="uni041E"/><!-- CYRILLIC CAPITAL LETTER O -->
+      <map code="0x420" name="uni0420"/><!-- CYRILLIC CAPITAL LETTER ER -->
+      <map code="0x421" name="uni0421"/><!-- CYRILLIC CAPITAL LETTER ES -->
+      <map code="0x422" name="uni0422"/><!-- CYRILLIC CAPITAL LETTER TE -->
+      <map code="0x42f" name="uni042F"/><!-- CYRILLIC CAPITAL LETTER YA -->
+      <map code="0x430" name="uni0430"/><!-- CYRILLIC SMALL LETTER A -->
+      <map code="0x432" name="uni0432"/><!-- CYRILLIC SMALL LETTER VE -->
+      <map code="0x433" name="uni0433"/><!-- CYRILLIC SMALL LETTER GHE -->
+      <map code="0x435" name="uni0435"/><!-- CYRILLIC SMALL LETTER IE -->
+      <map code="0x43e" name="uni043E"/><!-- CYRILLIC SMALL LETTER O -->
+      <map code="0x451" name="uni0451"/><!-- CYRILLIC SMALL LETTER IO -->
+      <map code="0x457" name="uni0457"/><!-- CYRILLIC SMALL LETTER YI -->
+      <map code="0x466" name="uni0466"/><!-- CYRILLIC CAPITAL LETTER LITTLE YUS -->
+      <map code="0x467" name="uni0467"/><!-- CYRILLIC SMALL LETTER LITTLE YUS -->
+      <map code="0x4ae" name="uni04AE"/><!-- CYRILLIC CAPITAL LETTER STRAIGHT U -->
+      <map code="0x4af" name="uni04AF"/><!-- CYRILLIC SMALL LETTER STRAIGHT U -->
+      <map code="0x4c0" name="uni04C0"/><!-- CYRILLIC LETTER PALOCHKA -->
+      <map code="0x4cf" name="uni04CF"/><!-- CYRILLIC SMALL LETTER PALOCHKA -->
+      <map code="0x4d2" name="uni04D2"/><!-- CYRILLIC CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0x4d3" name="uni04D3"/><!-- CYRILLIC SMALL LETTER A WITH DIAERESIS -->
+      <map code="0x4d8" name="uni04D8"/><!-- CYRILLIC CAPITAL LETTER SCHWA -->
+      <map code="0x4d9" name="uni04D9"/><!-- CYRILLIC SMALL LETTER SCHWA -->
+      <map code="0x4da" name="uni04DA"/><!-- CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS -->
+      <map code="0x4db" name="uni04DB"/><!-- CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS -->
+      <map code="0x4e6" name="uni04E6"/><!-- CYRILLIC CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0x4e7" name="uni04E7"/><!-- CYRILLIC SMALL LETTER O WITH DIAERESIS -->
+      <map code="0x4f0" name="uni04F0"/><!-- CYRILLIC CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0x4f1" name="uni04F1"/><!-- CYRILLIC SMALL LETTER U WITH DIAERESIS -->
       <map code="0x16c9" name="uni16C9"/><!-- RUNIC LETTER ALGIZ EOLHX -->
       <map code="0x16ca" name="uni16CA"/><!-- RUNIC LETTER SOWILO S -->
       <map code="0x1e02" name="uni1E02"/><!-- LATIN CAPITAL LETTER B WITH DOT ABOVE -->
@@ -2199,6 +2503,7 @@
       <map code="0x2183" name="uni2183"/><!-- ROMAN NUMERAL REVERSED ONE HUNDRED -->
       <map code="0x2184" name="uni2184"/><!-- LATIN SMALL LETTER REVERSED C -->
       <map code="0x2423" name="uni2423"/><!-- OPEN BOX -->
+      <map code="0x24ff" name="uni24FF"/><!-- NEGATIVE CIRCLED DIGIT ZERO -->
       <map code="0x2580" name="upblock"/><!-- UPPER HALF BLOCK -->
       <map code="0x2581" name="uni2581"/><!-- LOWER ONE EIGHTH BLOCK -->
       <map code="0x2582" name="uni2582"/><!-- LOWER ONE QUARTER BLOCK -->
@@ -2348,7 +2653,7 @@
       <map code="0xffe5" name="uniFFE5"/><!-- FULLWIDTH YEN SIGN -->
       <map code="0xffed" name="uniFFED"/><!-- HALFWIDTH BLACK SQUARE -->
     </cmap_format_4>
-    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="1468" language="0" nGroups="121">
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="1888" language="0" nGroups="156">
       <map code="0x20" name="space"/><!-- SPACE -->
       <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
       <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
@@ -2486,6 +2791,66 @@
       <map code="0x32c" name="uni032C"/><!-- COMBINING CARON BELOW -->
       <map code="0x32d" name="uni032D"/><!-- COMBINING CIRCUMFLEX ACCENT BELOW -->
       <map code="0x331" name="uni0331"/><!-- COMBINING MACRON BELOW -->
+      <map code="0x372" name="uni0372"/><!-- GREEK CAPITAL LETTER ARCHAIC SAMPI -->
+      <map code="0x373" name="uni0373"/><!-- GREEK SMALL LETTER ARCHAIC SAMPI -->
+      <map code="0x37f" name="uni037F"/><!-- GREEK CAPITAL LETTER YOT -->
+      <map code="0x391" name="Alpha"/><!-- GREEK CAPITAL LETTER ALPHA -->
+      <map code="0x392" name="Beta"/><!-- GREEK CAPITAL LETTER BETA -->
+      <map code="0x395" name="Epsilon"/><!-- GREEK CAPITAL LETTER EPSILON -->
+      <map code="0x396" name="Zeta"/><!-- GREEK CAPITAL LETTER ZETA -->
+      <map code="0x397" name="Eta"/><!-- GREEK CAPITAL LETTER ETA -->
+      <map code="0x399" name="Iota"/><!-- GREEK CAPITAL LETTER IOTA -->
+      <map code="0x39a" name="Kappa"/><!-- GREEK CAPITAL LETTER KAPPA -->
+      <map code="0x39c" name="Mu"/><!-- GREEK CAPITAL LETTER MU -->
+      <map code="0x39d" name="Nu"/><!-- GREEK CAPITAL LETTER NU -->
+      <map code="0x39f" name="Omicron"/><!-- GREEK CAPITAL LETTER OMICRON -->
+      <map code="0x3a1" name="Rho"/><!-- GREEK CAPITAL LETTER RHO -->
+      <map code="0x3a4" name="Tau"/><!-- GREEK CAPITAL LETTER TAU -->
+      <map code="0x3a5" name="Upsilon"/><!-- GREEK CAPITAL LETTER UPSILON -->
+      <map code="0x3dc" name="uni03DC"/><!-- GREEK LETTER DIGAMMA -->
+      <map code="0x3dd" name="uni03DD"/><!-- GREEK SMALL LETTER DIGAMMA -->
+      <map code="0x3f9" name="uni03F9"/><!-- GREEK CAPITAL LUNATE SIGMA SYMBOL -->
+      <map code="0x3fa" name="uni03FA"/><!-- GREEK CAPITAL LETTER SAN -->
+      <map code="0x3fd" name="uni03FD"/><!-- GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL -->
+      <map code="0x401" name="uni0401"/><!-- CYRILLIC CAPITAL LETTER IO -->
+      <map code="0x405" name="uni0405"/><!-- CYRILLIC CAPITAL LETTER DZE -->
+      <map code="0x406" name="uni0406"/><!-- CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I -->
+      <map code="0x407" name="uni0407"/><!-- CYRILLIC CAPITAL LETTER YI -->
+      <map code="0x410" name="uni0410"/><!-- CYRILLIC CAPITAL LETTER A -->
+      <map code="0x412" name="uni0412"/><!-- CYRILLIC CAPITAL LETTER VE -->
+      <map code="0x413" name="uni0413"/><!-- CYRILLIC CAPITAL LETTER GHE -->
+      <map code="0x415" name="uni0415"/><!-- CYRILLIC CAPITAL LETTER IE -->
+      <map code="0x41a" name="uni041A"/><!-- CYRILLIC CAPITAL LETTER KA -->
+      <map code="0x41c" name="uni041C"/><!-- CYRILLIC CAPITAL LETTER EM -->
+      <map code="0x41d" name="uni041D"/><!-- CYRILLIC CAPITAL LETTER EN -->
+      <map code="0x41e" name="uni041E"/><!-- CYRILLIC CAPITAL LETTER O -->
+      <map code="0x420" name="uni0420"/><!-- CYRILLIC CAPITAL LETTER ER -->
+      <map code="0x421" name="uni0421"/><!-- CYRILLIC CAPITAL LETTER ES -->
+      <map code="0x422" name="uni0422"/><!-- CYRILLIC CAPITAL LETTER TE -->
+      <map code="0x42f" name="uni042F"/><!-- CYRILLIC CAPITAL LETTER YA -->
+      <map code="0x430" name="uni0430"/><!-- CYRILLIC SMALL LETTER A -->
+      <map code="0x432" name="uni0432"/><!-- CYRILLIC SMALL LETTER VE -->
+      <map code="0x433" name="uni0433"/><!-- CYRILLIC SMALL LETTER GHE -->
+      <map code="0x435" name="uni0435"/><!-- CYRILLIC SMALL LETTER IE -->
+      <map code="0x43e" name="uni043E"/><!-- CYRILLIC SMALL LETTER O -->
+      <map code="0x451" name="uni0451"/><!-- CYRILLIC SMALL LETTER IO -->
+      <map code="0x457" name="uni0457"/><!-- CYRILLIC SMALL LETTER YI -->
+      <map code="0x466" name="uni0466"/><!-- CYRILLIC CAPITAL LETTER LITTLE YUS -->
+      <map code="0x467" name="uni0467"/><!-- CYRILLIC SMALL LETTER LITTLE YUS -->
+      <map code="0x4ae" name="uni04AE"/><!-- CYRILLIC CAPITAL LETTER STRAIGHT U -->
+      <map code="0x4af" name="uni04AF"/><!-- CYRILLIC SMALL LETTER STRAIGHT U -->
+      <map code="0x4c0" name="uni04C0"/><!-- CYRILLIC LETTER PALOCHKA -->
+      <map code="0x4cf" name="uni04CF"/><!-- CYRILLIC SMALL LETTER PALOCHKA -->
+      <map code="0x4d2" name="uni04D2"/><!-- CYRILLIC CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0x4d3" name="uni04D3"/><!-- CYRILLIC SMALL LETTER A WITH DIAERESIS -->
+      <map code="0x4d8" name="uni04D8"/><!-- CYRILLIC CAPITAL LETTER SCHWA -->
+      <map code="0x4d9" name="uni04D9"/><!-- CYRILLIC SMALL LETTER SCHWA -->
+      <map code="0x4da" name="uni04DA"/><!-- CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS -->
+      <map code="0x4db" name="uni04DB"/><!-- CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS -->
+      <map code="0x4e6" name="uni04E6"/><!-- CYRILLIC CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0x4e7" name="uni04E7"/><!-- CYRILLIC SMALL LETTER O WITH DIAERESIS -->
+      <map code="0x4f0" name="uni04F0"/><!-- CYRILLIC CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0x4f1" name="uni04F1"/><!-- CYRILLIC SMALL LETTER U WITH DIAERESIS -->
       <map code="0x16c9" name="uni16C9"/><!-- RUNIC LETTER ALGIZ EOLHX -->
       <map code="0x16ca" name="uni16CA"/><!-- RUNIC LETTER SOWILO S -->
       <map code="0x1e02" name="uni1E02"/><!-- LATIN CAPITAL LETTER B WITH DOT ABOVE -->
@@ -2624,6 +2989,7 @@
       <map code="0x2183" name="uni2183"/><!-- ROMAN NUMERAL REVERSED ONE HUNDRED -->
       <map code="0x2184" name="uni2184"/><!-- LATIN SMALL LETTER REVERSED C -->
       <map code="0x2423" name="uni2423"/><!-- OPEN BOX -->
+      <map code="0x24ff" name="uni24FF"/><!-- NEGATIVE CIRCLED DIGIT ZERO -->
       <map code="0x2580" name="upblock"/><!-- UPPER HALF BLOCK -->
       <map code="0x2581" name="uni2581"/><!-- LOWER ONE EIGHTH BLOCK -->
       <map code="0x2582" name="uni2582"/><!-- LOWER ONE QUARTER BLOCK -->
@@ -2868,6 +3234,10 @@
       <component glyphName="A" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
+    <TTGlyph name="Alpha" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="A" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
     <TTGlyph name="Amacron" xMin="58" yMin="0" xMax="667" yMax="705">
       <component glyphName="uni0304" x="0" y="0" flags="0x1004"/>
       <component glyphName="A" x="0" y="0" flags="0x1004"/>
@@ -2903,13 +3273,14 @@
         <pt x="464" y="103" on="1"/>
         <pt x="498" y="103" on="0"/>
         <pt x="545" y="152" on="0"/>
-        <pt x="545" y="186" on="1"/>
-        <pt x="545" y="203" on="0"/>
-        <pt x="532" y="233" on="0"/>
-        <pt x="511" y="256" on="0"/>
-        <pt x="481" y="269" on="0"/>
+        <pt x="545" y="220" on="0"/>
+        <pt x="498" y="269" on="0"/>
       </contour>
       <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="Beta" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="B" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
     <TTGlyph name="C" xMin="58" yMin="0" xMax="666" yMax="580">
@@ -2930,14 +3301,12 @@
         <pt x="542" y="0" on="0"/>
         <pt x="464" y="0" on="1"/>
         <pt x="261" y="0" on="1"/>
-        <pt x="206" y="0" on="0"/>
-        <pt x="112" y="67" on="0"/>
-        <pt x="58" y="181" on="0"/>
+        <pt x="177" y="0" on="0"/>
+        <pt x="58" y="146" on="0"/>
         <pt x="58" y="249" on="1"/>
         <pt x="58" y="331" on="1"/>
-        <pt x="58" y="399" on="0"/>
-        <pt x="101" y="513" on="0"/>
-        <pt x="176" y="580" on="0"/>
+        <pt x="58" y="434" on="0"/>
+        <pt x="153" y="580" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -2978,12 +3347,10 @@
       <contour>
         <pt x="464" y="497" on="1"/>
         <pt x="464" y="193" on="1"/>
-        <pt x="486" y="193" on="0"/>
-        <pt x="523" y="234" on="0"/>
-        <pt x="545" y="304" on="0"/>
-        <pt x="545" y="387" on="0"/>
-        <pt x="523" y="456" on="0"/>
-        <pt x="486" y="497" on="0"/>
+        <pt x="498" y="193" on="0"/>
+        <pt x="545" y="282" on="0"/>
+        <pt x="545" y="408" on="0"/>
+        <pt x="498" y="497" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -3031,6 +3398,14 @@
       <component glyphName="E" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
+    <TTGlyph name="Epsilon" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="E" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="Eta" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="H" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
     <TTGlyph name="F" xMin="58" yMin="0" xMax="667" yMax="580">
       <contour>
         <pt x="58" y="580" on="1"/>
@@ -3064,14 +3439,12 @@
         <pt x="667" y="304" on="1"/>
         <pt x="667" y="0" on="1"/>
         <pt x="261" y="0" on="1"/>
-        <pt x="206" y="0" on="0"/>
-        <pt x="112" y="67" on="0"/>
-        <pt x="58" y="181" on="0"/>
+        <pt x="177" y="0" on="0"/>
+        <pt x="58" y="146" on="0"/>
         <pt x="58" y="249" on="1"/>
         <pt x="58" y="331" on="1"/>
-        <pt x="58" y="399" on="0"/>
-        <pt x="101" y="513" on="0"/>
-        <pt x="176" y="580" on="0"/>
+        <pt x="58" y="434" on="0"/>
+        <pt x="153" y="580" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -3156,6 +3529,10 @@
       <component glyphName="I" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
+    <TTGlyph name="Iota" xMin="159" yMin="0" xMax="566" yMax="580">
+      <component glyphName="I" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
     <TTGlyph name="J" xMin="58" yMin="0" xMax="668" yMax="580">
       <contour>
         <pt x="261" y="580" on="1"/>
@@ -3195,6 +3572,10 @@
       <instructions/>
     </TTGlyph>
 
+    <TTGlyph name="Kappa" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="K" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
     <TTGlyph name="L" xMin="58" yMin="0" xMax="667" yMax="580">
       <contour>
         <pt x="58" y="580" on="1"/>
@@ -3202,6 +3583,7 @@
         <pt x="464" y="83" on="1"/>
         <pt x="667" y="83" on="1"/>
         <pt x="667" y="0" on="1"/>
+        <pt x="667" y="0" on="0"/>
         <pt x="58" y="0" on="1"/>
       </contour>
       <instructions/>
@@ -3225,6 +3607,10 @@
       <instructions/>
     </TTGlyph>
 
+    <TTGlyph name="Mu" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="M" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
     <TTGlyph name="N" xMin="58" yMin="0" xMax="667" yMax="580">
       <contour>
         <pt x="58" y="580" on="1"/>
@@ -3242,6 +3628,10 @@
       <instructions/>
     </TTGlyph>
 
+    <TTGlyph name="Nu" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="N" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
     <TTGlyph name="O" xMin="58" yMin="0" xMax="667" yMax="580">
       <contour>
         <pt x="220" y="580" on="1"/>
@@ -3254,24 +3644,20 @@
         <pt x="548" y="0" on="0"/>
         <pt x="464" y="0" on="1"/>
         <pt x="261" y="0" on="1"/>
-        <pt x="206" y="0" on="0"/>
-        <pt x="112" y="67" on="0"/>
-        <pt x="58" y="181" on="0"/>
+        <pt x="177" y="0" on="0"/>
+        <pt x="58" y="146" on="0"/>
         <pt x="58" y="249" on="1"/>
         <pt x="58" y="331" on="1"/>
-        <pt x="58" y="399" on="0"/>
-        <pt x="101" y="513" on="0"/>
-        <pt x="176" y="580" on="0"/>
+        <pt x="58" y="434" on="0"/>
+        <pt x="153" y="580" on="0"/>
       </contour>
       <contour>
         <pt x="464" y="497" on="1"/>
         <pt x="464" y="193" on="1"/>
-        <pt x="486" y="193" on="0"/>
-        <pt x="523" y="234" on="0"/>
-        <pt x="545" y="304" on="0"/>
-        <pt x="545" y="387" on="0"/>
-        <pt x="523" y="456" on="0"/>
-        <pt x="486" y="497" on="0"/>
+        <pt x="498" y="193" on="0"/>
+        <pt x="545" y="282" on="0"/>
+        <pt x="545" y="408" on="0"/>
+        <pt x="498" y="497" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -3283,6 +3669,10 @@
 
     <TTGlyph name="Omacron" xMin="58" yMin="0" xMax="667" yMax="705">
       <component glyphName="uni0304" x="0" y="0" flags="0x1004"/>
+      <component glyphName="O" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="Omicron" xMin="58" yMin="0" xMax="667" yMax="580">
       <component glyphName="O" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
@@ -3301,9 +3691,10 @@
       <contour>
         <pt x="464" y="497" on="1"/>
         <pt x="464" y="331" on="1"/>
-        <pt x="486" y="331" on="0"/>
-        <pt x="523" y="354" on="0"/>
-        <pt x="545" y="392" on="0"/>
+        <pt x="481" y="331" on="0"/>
+        <pt x="511" y="345" on="0"/>
+        <pt x="532" y="367" on="0"/>
+        <pt x="545" y="397" on="0"/>
         <pt x="545" y="414" on="1"/>
         <pt x="545" y="449" on="0"/>
         <pt x="498" y="497" on="0"/>
@@ -3336,11 +3727,8 @@
         <pt x="548" y="0" on="0"/>
         <pt x="464" y="0" on="1"/>
         <pt x="464" y="193" on="1"/>
-        <pt x="481" y="193" on="0"/>
-        <pt x="511" y="217" on="0"/>
-        <pt x="532" y="258" on="0"/>
-        <pt x="545" y="314" on="0"/>
-        <pt x="545" y="345" on="1"/>
+        <pt x="498" y="193" on="0"/>
+        <pt x="545" y="282" on="0"/>
         <pt x="545" y="408" on="0"/>
         <pt x="498" y="497" on="0"/>
         <pt x="464" y="497" on="1"/>
@@ -3379,13 +3767,14 @@
         <pt x="464" y="331" on="1"/>
         <pt x="498" y="331" on="0"/>
         <pt x="545" y="380" on="0"/>
-        <pt x="545" y="414" on="1"/>
-        <pt x="545" y="431" on="0"/>
-        <pt x="532" y="462" on="0"/>
-        <pt x="511" y="484" on="0"/>
-        <pt x="481" y="497" on="0"/>
+        <pt x="545" y="449" on="0"/>
+        <pt x="498" y="497" on="0"/>
       </contour>
       <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="Rho" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="P" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
     <TTGlyph name="S" xMin="58" yMin="0" xMax="667" yMax="580">
@@ -3439,14 +3828,19 @@
       <instructions/>
     </TTGlyph>
 
+    <TTGlyph name="Tau" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="T" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
     <TTGlyph name="U" xMin="58" yMin="0" xMax="667" yMax="580">
       <contour>
         <pt x="58" y="580" on="1"/>
         <pt x="464" y="580" on="1"/>
         <pt x="464" y="207" on="1"/>
-        <pt x="486" y="207" on="0"/>
-        <pt x="523" y="229" on="0"/>
-        <pt x="545" y="267" on="0"/>
+        <pt x="481" y="207" on="0"/>
+        <pt x="511" y="220" on="0"/>
+        <pt x="532" y="242" on="0"/>
+        <pt x="545" y="273" on="0"/>
         <pt x="545" y="290" on="1"/>
         <pt x="545" y="580" on="1"/>
         <pt x="667" y="580" on="1"/>
@@ -3470,6 +3864,10 @@
     <TTGlyph name="Umacron" xMin="58" yMin="0" xMax="667" yMax="705">
       <component glyphName="uni0304" x="0" y="0" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="Upsilon" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="Y" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
     <TTGlyph name="V" xMin="58" yMin="0" xMax="667" yMax="580">
@@ -3568,6 +3966,10 @@
       <component glyphName="Z" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
+    <TTGlyph name="Zeta" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="Z" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
     <TTGlyph name="a" xMin="58" yMin="0" xMax="667" yMax="580">
       <component glyphName="A" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -3654,28 +4056,21 @@
 
     <TTGlyph name="colon" xMin="321" yMin="0" xMax="404" yMax="415">
       <contour>
-        <pt x="362" y="83" on="1"/>
+        <pt x="346" y="83" on="0"/>
         <pt x="379" y="83" on="0"/>
         <pt x="403" y="59" on="0"/>
         <pt x="403" y="24" on="0"/>
         <pt x="379" y="0" on="0"/>
         <pt x="346" y="0" on="0"/>
         <pt x="322" y="24" on="0"/>
-        <pt x="322" y="41" on="1"/>
-        <pt x="322" y="53" on="0"/>
-        <pt x="333" y="72" on="0"/>
-        <pt x="351" y="83" on="0"/>
+        <pt x="322" y="59" on="0"/>
       </contour>
       <contour>
         <pt x="362" y="414" on="1"/>
         <pt x="379" y="414" on="0"/>
         <pt x="403" y="390" on="0"/>
-        <pt x="403" y="373" on="1"/>
-        <pt x="403" y="364" on="0"/>
-        <pt x="397" y="349" on="0"/>
-        <pt x="386" y="338" on="0"/>
-        <pt x="371" y="331" on="0"/>
-        <pt x="362" y="331" on="1"/>
+        <pt x="403" y="356" on="0"/>
+        <pt x="379" y="331" on="0"/>
         <pt x="346" y="331" on="0"/>
         <pt x="322" y="356" on="0"/>
         <pt x="322" y="373" on="1"/>
@@ -3863,27 +4258,21 @@
         <pt x="508" y="83" on="0"/>
         <pt x="542" y="83" on="0"/>
         <pt x="566" y="59" on="0"/>
-        <pt x="566" y="41" on="1"/>
-        <pt x="565" y="30" on="0"/>
-        <pt x="555" y="11" on="0"/>
-        <pt x="536" y="0" on="0"/>
-        <pt x="525" y="0" on="1"/>
+        <pt x="565" y="24" on="0"/>
+        <pt x="542" y="0" on="0"/>
         <pt x="508" y="0" on="0"/>
         <pt x="484" y="24" on="0"/>
         <pt x="484" y="59" on="0"/>
       </contour>
       <contour>
-        <pt x="362" y="83" on="1"/>
+        <pt x="346" y="83" on="0"/>
         <pt x="379" y="83" on="0"/>
         <pt x="403" y="59" on="0"/>
         <pt x="403" y="24" on="0"/>
         <pt x="379" y="0" on="0"/>
         <pt x="346" y="0" on="0"/>
         <pt x="322" y="24" on="0"/>
-        <pt x="322" y="41" on="1"/>
-        <pt x="322" y="53" on="0"/>
-        <pt x="333" y="72" on="0"/>
-        <pt x="351" y="83" on="0"/>
+        <pt x="322" y="59" on="0"/>
       </contour>
       <contour>
         <pt x="183" y="83" on="0"/>
@@ -3920,17 +4309,14 @@
 
     <TTGlyph name="exclam" xMin="321" yMin="0" xMax="404" yMax="580">
       <contour>
-        <pt x="362" y="83" on="1"/>
+        <pt x="346" y="83" on="0"/>
         <pt x="379" y="83" on="0"/>
         <pt x="403" y="59" on="0"/>
         <pt x="403" y="24" on="0"/>
         <pt x="379" y="0" on="0"/>
         <pt x="346" y="0" on="0"/>
         <pt x="322" y="24" on="0"/>
-        <pt x="322" y="41" on="1"/>
-        <pt x="322" y="53" on="0"/>
-        <pt x="333" y="72" on="0"/>
-        <pt x="351" y="83" on="0"/>
+        <pt x="322" y="59" on="0"/>
       </contour>
       <contour>
         <pt x="322" y="580" on="1"/>
@@ -3943,31 +4329,24 @@
 
     <TTGlyph name="exclamdbl" xMin="240" yMin="0" xMax="485" yMax="580">
       <contour>
-        <pt x="281" y="83" on="1"/>
+        <pt x="264" y="83" on="0"/>
         <pt x="298" y="83" on="0"/>
         <pt x="322" y="59" on="0"/>
         <pt x="322" y="24" on="0"/>
         <pt x="298" y="0" on="0"/>
         <pt x="264" y="0" on="0"/>
         <pt x="241" y="24" on="0"/>
-        <pt x="241" y="41" on="1"/>
-        <pt x="241" y="53" on="0"/>
-        <pt x="252" y="72" on="0"/>
-        <pt x="270" y="83" on="0"/>
+        <pt x="241" y="59" on="0"/>
       </contour>
       <contour>
-        <pt x="444" y="83" on="1"/>
+        <pt x="427" y="83" on="0"/>
         <pt x="461" y="83" on="0"/>
         <pt x="484" y="59" on="0"/>
         <pt x="484" y="24" on="0"/>
         <pt x="461" y="0" on="0"/>
-        <pt x="444" y="0" on="1"/>
-        <pt x="433" y="0" on="0"/>
-        <pt x="414" y="11" on="0"/>
-        <pt x="403" y="30" on="0"/>
-        <pt x="403" y="53" on="0"/>
-        <pt x="414" y="72" on="0"/>
-        <pt x="433" y="83" on="0"/>
+        <pt x="427" y="0" on="0"/>
+        <pt x="403" y="24" on="0"/>
+        <pt x="403" y="59" on="0"/>
       </contour>
       <contour>
         <pt x="403" y="580" on="1"/>
@@ -4695,31 +5074,24 @@
 
     <TTGlyph name="twodotenleader" xMin="240" yMin="0" xMax="485" yMax="83">
       <contour>
-        <pt x="444" y="83" on="1"/>
+        <pt x="427" y="83" on="0"/>
         <pt x="461" y="83" on="0"/>
         <pt x="484" y="59" on="0"/>
         <pt x="484" y="24" on="0"/>
         <pt x="461" y="0" on="0"/>
-        <pt x="444" y="0" on="1"/>
-        <pt x="433" y="0" on="0"/>
-        <pt x="414" y="11" on="0"/>
-        <pt x="403" y="30" on="0"/>
-        <pt x="403" y="53" on="0"/>
-        <pt x="414" y="72" on="0"/>
-        <pt x="433" y="83" on="0"/>
+        <pt x="427" y="0" on="0"/>
+        <pt x="403" y="24" on="0"/>
+        <pt x="403" y="59" on="0"/>
       </contour>
       <contour>
-        <pt x="281" y="83" on="1"/>
+        <pt x="264" y="83" on="0"/>
         <pt x="298" y="83" on="0"/>
         <pt x="322" y="59" on="0"/>
         <pt x="322" y="24" on="0"/>
         <pt x="298" y="0" on="0"/>
         <pt x="264" y="0" on="0"/>
         <pt x="241" y="24" on="0"/>
-        <pt x="241" y="41" on="1"/>
-        <pt x="241" y="53" on="0"/>
-        <pt x="252" y="72" on="0"/>
-        <pt x="270" y="83" on="0"/>
+        <pt x="241" y="59" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -4743,9 +5115,8 @@
         <pt x="485" y="249" on="1"/>
         <pt x="485" y="220" on="0"/>
         <pt x="473" y="194" on="1"/>
-        <pt x="503" y="214" on="0"/>
-        <pt x="555" y="287" on="0"/>
-        <pt x="586" y="374" on="0"/>
+        <pt x="519" y="224" on="0"/>
+        <pt x="586" y="353" on="0"/>
         <pt x="586" y="414" on="1"/>
         <pt x="667" y="414" on="1"/>
         <pt x="667" y="321" on="0"/>
@@ -4782,7 +5153,7 @@
         <pt x="58" y="378" on="0"/>
       </contour>
       <contour>
-        <pt x="361" y="307" on="1"/>
+        <pt x="385" y="307" on="0"/>
         <pt x="337" y="307" on="0"/>
         <pt x="303" y="273" on="0"/>
         <pt x="303" y="224" on="0"/>
@@ -4791,10 +5162,7 @@
         <pt x="361" y="190" on="1"/>
         <pt x="385" y="190" on="0"/>
         <pt x="420" y="224" on="0"/>
-        <pt x="420" y="249" on="1"/>
-        <pt x="420" y="264" on="0"/>
-        <pt x="404" y="291" on="0"/>
-        <pt x="377" y="307" on="0"/>
+        <pt x="420" y="273" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
@@ -4861,31 +5229,36 @@
 
     <TTGlyph name="uni0307" xMin="321" yMin="621" xMax="404" yMax="705">
       <contour>
-        <pt x="346" y="704" on="0"/>
-        <pt x="379" y="704" on="0"/>
-        <pt x="403" y="680" on="0"/>
-        <pt x="403" y="646" on="0"/>
-        <pt x="379" y="621" on="0"/>
-        <pt x="346" y="621" on="0"/>
-        <pt x="322" y="646" on="0"/>
+        <pt x="362" y="704" on="1"/>
+        <pt x="374" y="704" on="0"/>
+        <pt x="392" y="693" on="0"/>
+        <pt x="403" y="674" on="0"/>
+        <pt x="403" y="652" on="0"/>
+        <pt x="392" y="633" on="0"/>
+        <pt x="374" y="621" on="0"/>
+        <pt x="351" y="621" on="0"/>
+        <pt x="333" y="633" on="0"/>
+        <pt x="322" y="652" on="0"/>
+        <pt x="322" y="663" on="1"/>
         <pt x="322" y="680" on="0"/>
+        <pt x="346" y="704" on="0"/>
       </contour>
       <instructions/>
     </TTGlyph>
 
     <TTGlyph name="uni0308" xMin="240" yMin="621" xMax="485" yMax="705">
       <contour>
-        <pt x="281" y="704" on="1"/>
-        <pt x="292" y="704" on="0"/>
-        <pt x="311" y="693" on="0"/>
-        <pt x="322" y="674" on="0"/>
-        <pt x="322" y="663" on="1"/>
+        <pt x="264" y="704" on="0"/>
+        <pt x="298" y="704" on="0"/>
+        <pt x="322" y="680" on="0"/>
         <pt x="322" y="646" on="0"/>
         <pt x="298" y="621" on="0"/>
-        <pt x="264" y="621" on="0"/>
-        <pt x="241" y="646" on="0"/>
+        <pt x="281" y="621" on="1"/>
+        <pt x="270" y="621" on="0"/>
+        <pt x="252" y="633" on="0"/>
+        <pt x="241" y="652" on="0"/>
+        <pt x="241" y="663" on="1"/>
         <pt x="241" y="680" on="0"/>
-        <pt x="264" y="704" on="0"/>
       </contour>
       <contour>
         <pt x="427" y="704" on="0"/>
@@ -4954,6 +5327,223 @@
 
     <TTGlyph name="uni0331" xMin="240" yMin="-125" xMax="485" yMax="-41">
       <component glyphName="uni0304" x="0" y="580" scalex="1.0" scaley="-1.0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0372" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="T" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0373" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="T" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni037F" xMin="58" yMin="0" xMax="668" yMax="580">
+      <component glyphName="J" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni03DC" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="F" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni03DD" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="f" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni03F9" xMin="58" yMin="0" xMax="666" yMax="580">
+      <component glyphName="C" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni03FA" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="M" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni03FD" xMin="59" yMin="0" xMax="667" yMax="580">
+      <component glyphName="C" x="725" y="0" scalex="-1.0" scaley="1.0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0401" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="Edieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0405" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="S" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0406" xMin="58" yMin="0" xMax="668" yMax="580">
+      <component glyphName="J" x="0" y="0" flags="0x1004"/>
+      <component glyphName="I" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0407" xMin="159" yMin="0" xMax="566" yMax="705">
+      <component glyphName="Idieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0410" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="A" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0412" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="B" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0413" xMin="58" yMin="0" xMax="667" yMax="580">
+      <contour>
+        <pt x="58" y="580" on="1"/>
+        <pt x="667" y="580" on="1"/>
+        <pt x="667" y="497" on="1"/>
+        <pt x="464" y="497" on="1"/>
+        <pt x="464" y="0" on="1"/>
+        <pt x="58" y="0" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0415" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="E" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni041A" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="K" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni041C" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="M" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni041D" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="H" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni041E" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="O" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0420" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="P" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0421" xMin="58" yMin="0" xMax="666" yMax="580">
+      <component glyphName="C" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0422" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="T" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni042F" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="R" x="725" y="0" scalex="-1.0" scaley="1.0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0430" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="a" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0432" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="B" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0433" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="uni0413" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0435" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="e" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni043E" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="o" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0451" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="edieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0457" xMin="159" yMin="0" xMax="566" yMax="705">
+      <component glyphName="idieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0466" xMin="58" yMin="0" xMax="667" yMax="580">
+      <contour>
+        <pt x="160" y="580" on="1"/>
+        <pt x="566" y="580" on="1"/>
+        <pt x="667" y="0" on="1"/>
+        <pt x="261" y="0" on="1"/>
+        <pt x="256" y="30" on="1"/>
+        <pt x="240" y="30" on="1"/>
+        <pt x="240" y="0" on="1"/>
+        <pt x="159" y="0" on="1"/>
+        <pt x="159" y="30" on="1"/>
+        <pt x="145" y="30" on="1"/>
+        <pt x="139" y="0" on="1"/>
+        <pt x="58" y="0" on="1"/>
+      </contour>
+      <contour>
+        <pt x="200" y="348" on="1"/>
+        <pt x="159" y="113" on="1"/>
+        <pt x="241" y="113" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
+    <TTGlyph name="uni0467" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="uni0466" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04AE" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="Y" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04AF" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="y" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04C0" xMin="159" yMin="0" xMax="566" yMax="580">
+      <component glyphName="I" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04CF" xMin="159" yMin="0" xMax="566" yMax="580">
+      <component glyphName="I" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04D2" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="Adieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04D3" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="adieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04D8" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="E" x="725" y="580" scale="-1.0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04D9" xMin="58" yMin="0" xMax="667" yMax="580">
+      <component glyphName="e" x="725" y="580" scale="-1.0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04DA" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="uni0308" x="0" y="0" flags="0x1004"/>
+      <component glyphName="uni04D8" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04DB" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="uni04DA" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04E6" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="Odieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04E7" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="odieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04F0" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="Ydieresis" x="0" y="0" flags="0x1004"/>
+    </TTGlyph>
+
+    <TTGlyph name="uni04F1" xMin="58" yMin="0" xMax="667" yMax="705">
+      <component glyphName="ydieresis" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
     <TTGlyph name="uni16C9" xMin="58" yMin="0" xMax="667" yMax="580">
@@ -5620,6 +6210,55 @@
       <instructions/>
     </TTGlyph>
 
+    <TTGlyph name="uni24FF" xMin="57" yMin="-1" xMax="668" yMax="581">
+      <contour>
+        <pt x="236" y="580" on="0"/>
+        <pt x="489" y="580" on="0"/>
+        <pt x="667" y="410" on="0"/>
+        <pt x="667" y="170" on="0"/>
+        <pt x="489" y="0" on="0"/>
+        <pt x="236" y="0" on="0"/>
+        <pt x="58" y="170" on="0"/>
+        <pt x="58" y="410" on="0"/>
+      </contour>
+      <contour>
+        <pt x="268" y="483" on="1"/>
+        <pt x="223" y="483" on="0"/>
+        <pt x="160" y="386" on="0"/>
+        <pt x="160" y="318" on="1"/>
+        <pt x="160" y="262" on="1"/>
+        <pt x="160" y="194" on="0"/>
+        <pt x="239" y="97" on="0"/>
+        <pt x="295" y="97" on="1"/>
+        <pt x="430" y="97" on="1"/>
+        <pt x="467" y="97" on="0"/>
+        <pt x="529" y="141" on="0"/>
+        <pt x="566" y="217" on="0"/>
+        <pt x="566" y="262" on="1"/>
+        <pt x="566" y="318" on="1"/>
+        <pt x="566" y="386" on="0"/>
+        <pt x="502" y="483" on="0"/>
+        <pt x="457" y="483" on="1"/>
+      </contour>
+      <contour>
+        <pt x="295" y="428" on="1"/>
+        <pt x="430" y="428" on="1"/>
+        <pt x="453" y="428" on="0"/>
+        <pt x="484" y="369" on="0"/>
+        <pt x="484" y="327" on="1"/>
+        <pt x="484" y="299" on="0"/>
+        <pt x="470" y="253" on="0"/>
+        <pt x="445" y="226" on="0"/>
+        <pt x="430" y="226" on="1"/>
+        <pt x="295" y="226" on="1"/>
+        <pt x="272" y="226" on="0"/>
+        <pt x="241" y="285" on="0"/>
+        <pt x="241" y="369" on="0"/>
+        <pt x="272" y="428" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+
     <TTGlyph name="uni2581" xMin="0" yMin="-140" xMax="725" yMax="-32">
       <contour>
         <pt x="725" y="-32" on="1"/>
@@ -6224,8 +6863,9 @@
       <contour>
         <pt x="464" y="580" on="1"/>
         <pt x="626" y="580" on="1"/>
-        <pt x="643" y="580" on="0"/>
-        <pt x="667" y="556" on="0"/>
+        <pt x="637" y="580" on="0"/>
+        <pt x="656" y="569" on="0"/>
+        <pt x="667" y="550" on="0"/>
         <pt x="667" y="539" on="1"/>
         <pt x="667" y="497" on="1"/>
         <pt x="667" y="388" on="1"/>
@@ -6242,12 +6882,8 @@
         <pt x="58" y="388" on="1"/>
         <pt x="58" y="497" on="1"/>
         <pt x="58" y="539" on="1"/>
-        <pt x="58" y="544" on="0"/>
-        <pt x="61" y="555" on="0"/>
-        <pt x="66" y="564" on="0"/>
-        <pt x="74" y="572" on="0"/>
-        <pt x="83" y="577" on="0"/>
-        <pt x="93" y="580" on="0"/>
+        <pt x="58" y="556" on="0"/>
+        <pt x="82" y="580" on="0"/>
       </contour>
       <contour>
         <pt x="58" y="192" on="1"/>
@@ -7063,29 +7699,27 @@
         <pt x="548" y="0" on="0"/>
         <pt x="464" y="0" on="1"/>
         <pt x="261" y="0" on="1"/>
-        <pt x="206" y="0" on="0"/>
-        <pt x="112" y="67" on="0"/>
-        <pt x="58" y="181" on="0"/>
+        <pt x="177" y="0" on="0"/>
+        <pt x="58" y="146" on="0"/>
         <pt x="58" y="249" on="1"/>
         <pt x="58" y="331" on="1"/>
-        <pt x="58" y="399" on="0"/>
-        <pt x="101" y="513" on="0"/>
-        <pt x="176" y="580" on="0"/>
+        <pt x="58" y="434" on="0"/>
+        <pt x="153" y="580" on="0"/>
       </contour>
       <contour>
         <pt x="261" y="497" on="1"/>
         <pt x="227" y="497" on="0"/>
         <pt x="180" y="408" on="0"/>
-        <pt x="180" y="282" on="0"/>
-        <pt x="227" y="193" on="0"/>
+        <pt x="180" y="345" on="1"/>
+        <pt x="180" y="304" on="0"/>
+        <pt x="202" y="234" on="0"/>
+        <pt x="239" y="193" on="0"/>
         <pt x="261" y="193" on="1"/>
         <pt x="464" y="193" on="1"/>
-        <pt x="486" y="193" on="0"/>
-        <pt x="523" y="234" on="0"/>
-        <pt x="545" y="304" on="0"/>
-        <pt x="545" y="387" on="0"/>
-        <pt x="523" y="456" on="0"/>
-        <pt x="486" y="497" on="0"/>
+        <pt x="498" y="193" on="0"/>
+        <pt x="545" y="282" on="0"/>
+        <pt x="545" y="408" on="0"/>
+        <pt x="498" y="497" on="0"/>
         <pt x="464" y="497" on="1"/>
       </contour>
       <instructions/>
@@ -7105,13 +7739,13 @@
 
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      FontForge : Neude : 21-4-2017
+      FontForge : Neude : 11-8-2017
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Neude
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 001.010 
+      Version 001.011 
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Neude
@@ -7226,13 +7860,13 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      FontForge : Neude : 21-4-2017
+      FontForge : Neude : 11-8-2017
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Neude
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 001.010 
+      Version 001.011 
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Neude
@@ -7404,6 +8038,66 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <psName name="uni032C"/>
       <psName name="uni032D"/>
       <psName name="uni0331"/>
+      <psName name="uni0372"/>
+      <psName name="uni0373"/>
+      <psName name="uni037F"/>
+      <psName name="Alpha"/>
+      <psName name="Beta"/>
+      <psName name="Epsilon"/>
+      <psName name="Zeta"/>
+      <psName name="Eta"/>
+      <psName name="Iota"/>
+      <psName name="Kappa"/>
+      <psName name="Mu"/>
+      <psName name="Nu"/>
+      <psName name="Omicron"/>
+      <psName name="Rho"/>
+      <psName name="Tau"/>
+      <psName name="Upsilon"/>
+      <psName name="uni03DC"/>
+      <psName name="uni03DD"/>
+      <psName name="uni03F9"/>
+      <psName name="uni03FA"/>
+      <psName name="uni03FD"/>
+      <psName name="uni0401"/>
+      <psName name="uni0405"/>
+      <psName name="uni0406"/>
+      <psName name="uni0407"/>
+      <psName name="uni0410"/>
+      <psName name="uni0412"/>
+      <psName name="uni0413"/>
+      <psName name="uni0415"/>
+      <psName name="uni041A"/>
+      <psName name="uni041C"/>
+      <psName name="uni041D"/>
+      <psName name="uni041E"/>
+      <psName name="uni0420"/>
+      <psName name="uni0421"/>
+      <psName name="uni0422"/>
+      <psName name="uni042F"/>
+      <psName name="uni0430"/>
+      <psName name="uni0432"/>
+      <psName name="uni0433"/>
+      <psName name="uni0435"/>
+      <psName name="uni043E"/>
+      <psName name="uni0451"/>
+      <psName name="uni0457"/>
+      <psName name="uni0466"/>
+      <psName name="uni0467"/>
+      <psName name="uni04AE"/>
+      <psName name="uni04AF"/>
+      <psName name="uni04C0"/>
+      <psName name="uni04CF"/>
+      <psName name="uni04D2"/>
+      <psName name="uni04D3"/>
+      <psName name="uni04D8"/>
+      <psName name="uni04D9"/>
+      <psName name="uni04DA"/>
+      <psName name="uni04DB"/>
+      <psName name="uni04E6"/>
+      <psName name="uni04E7"/>
+      <psName name="uni04F0"/>
+      <psName name="uni04F1"/>
       <psName name="uni16C9"/>
       <psName name="uni16CA"/>
       <psName name="uni1E02"/>
@@ -7541,6 +8235,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       <psName name="uni2183"/>
       <psName name="uni2184"/>
       <psName name="uni2423"/>
+      <psName name="uni24FF"/>
       <psName name="upblock"/>
       <psName name="uni2581"/>
       <psName name="uni2582"/>
@@ -7700,9 +8395,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <FFTM>
     <!-- FontForge's timestamp, font source creation and modification dates -->
     <version value="1"/>
-    <FFTimeStamp value="Fri Apr 21 08:26:02 2017"/>
+    <FFTimeStamp value="Fri Aug 11 09:28:21 2017"/>
     <sourceCreated value="Wed Feb  1 14:42:49 2017"/>
-    <sourceModified value="Fri Apr 21 09:40:28 2017"/>
+    <sourceModified value="Fri Aug 11 09:54:15 2017"/>
   </FFTM>
 
   <GDEF>
@@ -7733,7 +8428,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <reserved3 value="0"/>
     <reserved4 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfVMetrics value="426"/>
+    <numberOfVMetrics value="487"/>
   </vhea>
 
   <vmtx>
@@ -7741,8 +8436,10 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name=".null" height="0" tsb="0"/>
     <mtx name="A" height="60" tsb="140"/>
     <mtx name="Adieresis" height="0" tsb="15"/>
+    <mtx name="Alpha" height="0" tsb="140"/>
     <mtx name="Amacron" height="0" tsb="15"/>
     <mtx name="B" height="60" tsb="140"/>
+    <mtx name="Beta" height="0" tsb="140"/>
     <mtx name="C" height="0" tsb="140"/>
     <mtx name="Cacute" height="0" tsb="0"/>
     <mtx name="Ccaron" height="0" tsb="0"/>
@@ -7755,6 +8452,8 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="Edieresis" height="0" tsb="15"/>
     <mtx name="Edotaccent" height="0" tsb="15"/>
     <mtx name="Emacron" height="0" tsb="15"/>
+    <mtx name="Epsilon" height="0" tsb="140"/>
+    <mtx name="Eta" height="0" tsb="140"/>
     <mtx name="F" height="60" tsb="140"/>
     <mtx name="G" height="0" tsb="140"/>
     <mtx name="Gcircumflex" height="0" tsb="0"/>
@@ -7765,22 +8464,30 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="Idieresis" height="0" tsb="15"/>
     <mtx name="Idotaccent" height="0" tsb="15"/>
     <mtx name="Imacron" height="0" tsb="15"/>
+    <mtx name="Iota" height="0" tsb="140"/>
     <mtx name="J" height="60" tsb="140"/>
     <mtx name="K" height="60" tsb="140"/>
+    <mtx name="Kappa" height="0" tsb="140"/>
     <mtx name="L" height="60" tsb="140"/>
     <mtx name="M" height="60" tsb="140"/>
+    <mtx name="Mu" height="0" tsb="140"/>
     <mtx name="N" height="60" tsb="140"/>
+    <mtx name="Nu" height="0" tsb="140"/>
     <mtx name="O" height="60" tsb="140"/>
     <mtx name="Odieresis" height="0" tsb="15"/>
     <mtx name="Omacron" height="0" tsb="15"/>
+    <mtx name="Omicron" height="0" tsb="140"/>
     <mtx name="P" height="60" tsb="140"/>
     <mtx name="Q" height="0" tsb="140"/>
     <mtx name="R" height="60" tsb="140"/>
+    <mtx name="Rho" height="0" tsb="140"/>
     <mtx name="S" height="0" tsb="140"/>
     <mtx name="T" height="60" tsb="140"/>
+    <mtx name="Tau" height="0" tsb="140"/>
     <mtx name="U" height="60" tsb="140"/>
     <mtx name="Udieresis" height="0" tsb="15"/>
     <mtx name="Umacron" height="0" tsb="15"/>
+    <mtx name="Upsilon" height="0" tsb="140"/>
     <mtx name="V" height="60" tsb="140"/>
     <mtx name="W" height="60" tsb="140"/>
     <mtx name="Wdieresis" height="0" tsb="15"/>
@@ -7789,6 +8496,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="Ydieresis" height="0" tsb="15"/>
     <mtx name="Z" height="60" tsb="140"/>
     <mtx name="Zdotaccent" height="0" tsb="15"/>
+    <mtx name="Zeta" height="0" tsb="140"/>
     <mtx name="a" height="0" tsb="140"/>
     <mtx name="acute" height="0" tsb="0"/>
     <mtx name="acutecomb" height="0" tsb="0"/>
@@ -7882,6 +8590,53 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="uni032C" height="0" tsb="723"/>
     <mtx name="uni032D" height="0" tsb="723"/>
     <mtx name="uni0331" height="0" tsb="761"/>
+    <mtx name="uni0372" height="0" tsb="140"/>
+    <mtx name="uni0373" height="0" tsb="140"/>
+    <mtx name="uni037F" height="0" tsb="140"/>
+    <mtx name="uni03DC" height="0" tsb="140"/>
+    <mtx name="uni03DD" height="0" tsb="140"/>
+    <mtx name="uni03F9" height="0" tsb="140"/>
+    <mtx name="uni03FA" height="0" tsb="140"/>
+    <mtx name="uni03FD" height="0" tsb="140"/>
+    <mtx name="uni0401" height="0" tsb="15"/>
+    <mtx name="uni0405" height="0" tsb="140"/>
+    <mtx name="uni0406" height="0" tsb="140"/>
+    <mtx name="uni0407" height="0" tsb="15"/>
+    <mtx name="uni0410" height="0" tsb="140"/>
+    <mtx name="uni0412" height="0" tsb="140"/>
+    <mtx name="uni0413" height="0" tsb="140"/>
+    <mtx name="uni0415" height="0" tsb="140"/>
+    <mtx name="uni041A" height="0" tsb="140"/>
+    <mtx name="uni041C" height="0" tsb="140"/>
+    <mtx name="uni041D" height="0" tsb="140"/>
+    <mtx name="uni041E" height="0" tsb="140"/>
+    <mtx name="uni0420" height="0" tsb="140"/>
+    <mtx name="uni0421" height="0" tsb="140"/>
+    <mtx name="uni0422" height="0" tsb="140"/>
+    <mtx name="uni042F" height="0" tsb="140"/>
+    <mtx name="uni0430" height="0" tsb="140"/>
+    <mtx name="uni0432" height="0" tsb="140"/>
+    <mtx name="uni0433" height="0" tsb="140"/>
+    <mtx name="uni0435" height="0" tsb="140"/>
+    <mtx name="uni043E" height="0" tsb="140"/>
+    <mtx name="uni0451" height="0" tsb="15"/>
+    <mtx name="uni0457" height="0" tsb="15"/>
+    <mtx name="uni0466" height="0" tsb="140"/>
+    <mtx name="uni0467" height="0" tsb="140"/>
+    <mtx name="uni04AE" height="0" tsb="140"/>
+    <mtx name="uni04AF" height="0" tsb="140"/>
+    <mtx name="uni04C0" height="0" tsb="140"/>
+    <mtx name="uni04CF" height="0" tsb="140"/>
+    <mtx name="uni04D2" height="0" tsb="15"/>
+    <mtx name="uni04D3" height="0" tsb="15"/>
+    <mtx name="uni04D8" height="0" tsb="140"/>
+    <mtx name="uni04D9" height="0" tsb="140"/>
+    <mtx name="uni04DA" height="0" tsb="15"/>
+    <mtx name="uni04DB" height="0" tsb="15"/>
+    <mtx name="uni04E6" height="0" tsb="15"/>
+    <mtx name="uni04E7" height="0" tsb="15"/>
+    <mtx name="uni04F0" height="0" tsb="15"/>
+    <mtx name="uni04F1" height="0" tsb="15"/>
     <mtx name="uni16C9" height="60" tsb="140"/>
     <mtx name="uni16CA" height="60" tsb="140"/>
     <mtx name="uni1E02" height="0" tsb="15"/>
@@ -8014,6 +8769,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <mtx name="uni2183" height="0" tsb="140"/>
     <mtx name="uni2184" height="0" tsb="140"/>
     <mtx name="uni2423" height="60" tsb="637"/>
+    <mtx name="uni24FF" height="0" tsb="139"/>
     <mtx name="uni2581" height="60" tsb="752"/>
     <mtx name="uni2582" height="60" tsb="645"/>
     <mtx name="uni2583" height="60" tsb="537"/>

@@ -19,11 +19,11 @@ Introduction
 Download
 --------
 
-Version 1.010, 20170421.
+Version 1.011, 20170811, 485 glyphs.
 
 | OpenType Font | TrueType Font |
 |---------------|---------------|
-| Download the OTF file <br> [Neude.otf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) (56 KB) <br> [![OTF](images/application-x-font-otf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) | Download the TTF file <br> [Neude.ttf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) (36 KB) <br> [![TTF](images/application-x-font-ttf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.ttf?raw=true) |
+| Download the OTF file <br> [Neude.otf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) (61 KB) <br> [![OTF](images/application-x-font-otf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) | Download the TTF file <br> [Neude.ttf](https://github.com/z25/neude/blob/master/Neude.otf?raw=true) (39 KB) <br> [![TTF](images/application-x-font-ttf.png?raw=true)](https://github.com/z25/neude/blob/master/Neude.ttf?raw=true) |
 
 Download of the WOFF file will follow soon.
 
@@ -33,7 +33,7 @@ Specimen
 
 | OpenType Sample | TrueType Sample |
 |---------------|---------------|
-| Multi-page PDF specimen <br> [Neude-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true) (78 KB) <br> [![OTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true) | Multi-page PDF specimen <br> [Neude-ttf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true) (74 KB) <br> [![TTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true) |
+| Multi-page PDF specimen <br> [Neude-otf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true) (87 KB) <br> [![OTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-otf-fntsample.pdf?raw=true) | Multi-page PDF specimen <br> [Neude-ttf-fntsample.pdf](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true) (82 KB) <br> [![TTF fontsample multi-page PDF](images/application-pdf.png)](https://github.com/z25/neude/blob/master/specimens/Neude-ttf-fntsample.pdf?raw=true) |
 
 Support for all numerals will follow soon.
 
