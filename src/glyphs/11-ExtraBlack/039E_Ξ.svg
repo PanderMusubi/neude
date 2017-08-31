@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="004E_N.svg">
+   sodipodi:docname="039E_Ξ.svg">
   <defs
      id="defs8" />
   <sodipodi:namedview
@@ -36,9 +36,9 @@
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.0255814"
-     inkscape:cx="362.5"
-     inkscape:cy="430"
+     inkscape:zoom="0.791"
+     inkscape:cx="285.71429"
+     inkscape:cy="500"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -108,12 +108,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 58 140 L 58 720 L 464 720 L 464 222.85742 L 545.19922 256.1875 L 545.19922 720 L 667 720 L 667 140 L 545.19922 140 L 545.19922 173.33008 L 464 140 L 58 140 z "
-     id="rect3171-367" />
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.85640621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 58 140 L 58 222.85742 L 667 222.85742 L 667 140 L 58 140 z M 179.80078 388.57227 L 179.80078 471.42773 L 545.19922 471.42773 L 545.19922 388.57227 L 179.80078 388.57227 z M 58 637.14258 L 58 720 L 667 720 L 667 637.14258 L 58 637.14258 z "
+     id="rect3171-3" />
 </svg>

@@ -58,14 +58,14 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true">
     <sodipodi:guide
-       position="1000,140"
+       position="725,140"
        orientation="0,1"
        id="guide3140"
        inkscape:label="baseline"
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1000,720"
+       position="725,720"
        orientation="0,1"
        id="guide3142"
        inkscape:label="cap line"
@@ -93,7 +93,7 @@
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1000,860"
+       position="725,860"
        orientation="0,1"
        id="guide3169"
        inkscape:label="height"
