@@ -55,6 +55,10 @@ The font foundry for this font is Stichting z25.org.
 Usage
 -----
 
+The font Neude has been used on the cover and on the inside of the photo book named [Neude 11](https://www.facebook.com/arjandenboer?hc_ref=ARRaCM_-EzutsElgoimdCYDplYEzzImclEtvNCukq0-6nYcQ6u3spPHdqw_scz3AGw0&fref=nf) by [Arjan den Boer](http://www.arjandenboer.nl), 2018.
+
+[![2018, Arjan den Boer, Neude 11](images/2018_arjen-den-boer_neude-11.jpg?raw=true)](https://www.facebook.com/arjandenboer?hc_ref=ARRaCM_-EzutsElgoimdCYDplYEzzImclEtvNCukq0-6nYcQ6u3spPHdqw_scz3AGw0&fref=nf)
+
 The font Neude has been used on the cover and on the inside of the collection of poetry (_dichtbundel_) named [Bokalen](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html) by [Nanne Nauta](https://nannenauta.blogspot.nl), 2017.
 
 [![2017, Nanne Nauta, Bokalen](images/2017_nanne-nauta_bokalen.jpg?raw=true)](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html)
