@@ -1,3 +1,11 @@
+#!/bin/bash
+set -e
+
+if [ $(flatpak list|grep org.inkscape.Inkscape|wc -l) -gt 0 ]; then
+    EXE=$(echo flatpak run org.inkscape.Inkscape)
+else
+    EXE=$(echo inkscape)
+fi
 
 cp -f ../src/fonts/Neude.?tf ..
 
@@ -23,8 +31,8 @@ fntsample -f ../Neude.ttf -o Neude-ttf-fntsample.pdf
 fntsample -g -i 0x0000-0x007F -f ../Neude.otf -o Neude-otf-fntsample-basic-latin.svg
 fntsample -g -i 0x0000-0x007F -f ../Neude.ttf -o Neude-ttf-fntsample-basic-latin.svg
 
-inkscape -z -e Neude-otf-fntsample-basic-latin.png Neude-otf-fntsample-basic-latin.svg
-inkscape -z -e Neude-ttf-fntsample-basic-latin.png Neude-ttf-fntsample-basic-latin.svg
+$EXE Neude-otf-fntsample-basic-latin.svg -TCo Neude-otf-fntsample-basic-latin.png
+$EXE Neude-ttf-fntsample-basic-latin.svg -TCo Neude-ttf-fntsample-basic-latin.png
 
 convert -flatten Neude-otf-fntsample-basic-latin.png Neude-otf-fntsample-basic-latin.png
 convert -flatten Neude-ttf-fntsample-basic-latin.png Neude-ttf-fntsample-basic-latin.png
