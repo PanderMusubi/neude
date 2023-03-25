@@ -2,7 +2,8 @@
 
 Digitisation and design of Neude, a typeface in style of Amsterdame School
 
-> <em>Art is born of the observation and investigation of nature.</em> — Cicero (106 – 43 BC) Roman statesman, lawyer, political theorist, and philosopher
+> <em>Art is born of the observation and investigation of nature.</em> — Cicero
+(106 – 43 BC) Roman statesman, lawyer, political theorist, and philosopher
 
 ![statue Neude](images/41-cropped-hd.jpg?raw=true)
 
@@ -13,20 +14,28 @@ Digitisation and design of Neude, a typeface in style of Amsterdame School
 
 ## Introduction
 
-An introduction to this font is found at the campaing page at [voordekunst](https://voordekunst.nl/projecten/4858-digitalisering-en-ontwerp-font-neude-1).
+An introduction to this font is found at the campaing page at
+[voordekunst](https://voordekunst.nl/projecten/4858-digitalisering-en-ontwerp-font-neude-1).
 
 
 ## Usage
 
-The font Neude has been used on the cover and on the inside of the photo book named [Neude 11](https://www.facebook.com/arjandenboer?hc_ref=ARRaCM_-EzutsElgoimdCYDplYEzzImclEtvNCukq0-6nYcQ6u3spPHdqw_scz3AGw0&fref=nf) by [Arjan den Boer](http://www.arjandenboer.nl), 2018.
+The font Neude has been used on the cover and on the inside of the photo book
+named
+[Neude 11](https://www.facebook.com/arjandenboer?hc_ref=ARRaCM_-EzutsElgoimdCYDplYEzzImclEtvNCukq0-6nYcQ6u3spPHdqw_scz3AGw0&fref=nf)
+by [Arjan den Boer](http://www.arjandenboer.nl), 2018.
 
 [![2018, Arjan den Boer, Neude 11](images/2018_arjen-den-boer_neude-11.jpg?raw=true)](https://www.facebook.com/arjandenboer?hc_ref=ARRaCM_-EzutsElgoimdCYDplYEzzImclEtvNCukq0-6nYcQ6u3spPHdqw_scz3AGw0&fref=nf)
 
-The font Neude has been used on the cover and on the inside of the collection of poetry (_dichtbundel_) named [Bokalen](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html) by [Nanne Nauta](https://nannenauta.blogspot.nl), 2017.
+The font Neude has been used on the cover and on the inside of the collection of
+poetry (_dichtbundel_) named
+[Bokalen](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html) by
+[Nanne Nauta](https://nannenauta.blogspot.nl), 2017.
 
 [![2017, Nanne Nauta, Bokalen](images/2017_nanne-nauta_bokalen.jpg?raw=true)](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html)
 
-Artwork for sponsors for individuals letters during the crowd funding campaign, 2016.
+Artwork for sponsors for individuals letters during the crowd funding campaign,
+2016.
 
 [![2016, Neude, Artwork](images/2016_neude_artwork.jpg?raw=true)](https://github.com/PanderMusubi/neude)
 
