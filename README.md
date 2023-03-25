@@ -2,6 +2,8 @@
 
 Digitisation and design of Neude, a typeface in style of Amsterdame School
 
+> <em>Art is born of the observation and investigation of nature.</em> — Cicero (106 – 43 BC) Roman statesman, lawyer, political theorist, and philosopher
+
 ![statue Neude](images/41-cropped-hd.jpg?raw=true)
 
 ![sample Neude](images/sample-neude.png?raw=true)
