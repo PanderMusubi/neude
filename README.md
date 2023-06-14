@@ -1,9 +1,10 @@
+_🇳🇱 Voor Nederlands, zie [README-nl.md](README-nl.md)_
+
 # Neude
 
-Digitisation and design of Neude, a typeface in style of Amsterdame School
+Digitisation and design of Neude, a typeface in style of Amsterdamse School
 
-> <em>Art is born of the observation and investigation of nature.</em> — Cicero
-(106 – 43 BC) Roman statesman, lawyer, political theorist, and philosopher
+> <em>Art is born of the observation and investigation of nature.</em> — Cicero (106 – 43 BC) Roman statesman, lawyer, political theorist, and philosopher
 
 ![statue Neude](images/41-cropped-hd.jpg?raw=true)
 
@@ -14,32 +15,24 @@ Digitisation and design of Neude, a typeface in style of Amsterdame School
 
 ## Introduction
 
-An introduction to this font is found at the campaing page at
-[voordekunst](https://voordekunst.nl/projecten/4858-digitalisering-en-ontwerp-font-neude-1).
+An introduction to this font is found at the campaing page at [voordekunst](https://voordekunst.nl/projecten/4858-digitalisering-en-ontwerp-font-neude-1).
 
 
 ## Usage
 
-The font Neude has been used on the cover and on the inside of the photo book
-named
-[Neude 11](https://www.facebook.com/arjandenboer?hc_ref=ARRaCM_-EzutsElgoimdCYDplYEzzImclEtvNCukq0-6nYcQ6u3spPHdqw_scz3AGw0&fref=nf)
-by [Arjan den Boer](http://www.arjandenboer.nl), 2018.
+The font Neude has been used on the cover and on the inside of the photo book named [Neude 11](https://www.facebook.com/arjandenboer?hc_ref=ARRaCM_-EzutsElgoimdCYDplYEzzImclEtvNCukq0-6nYcQ6u3spPHdqw_scz3AGw0&fref=nf) by [Arjan den Boer](http://www.arjandenboer.nl), 2018.
 
 [![2018, Arjan den Boer, Neude 11](images/2018_arjen-den-boer_neude-11.jpg?raw=true)](https://www.facebook.com/arjandenboer?hc_ref=ARRaCM_-EzutsElgoimdCYDplYEzzImclEtvNCukq0-6nYcQ6u3spPHdqw_scz3AGw0&fref=nf)
 
-The font Neude has been used on the cover and on the inside of the collection of
-poetry (_dichtbundel_) named
-[Bokalen](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html) by
-[Nanne Nauta](https://nannenauta.blogspot.nl), 2017.
+The font Neude has been used on the cover and on the inside of the collection of poetry (_dichtbundel_) named [Bokalen](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html) by [Nanne Nauta](https://nannenauta.blogspot.nl), 2017.
 
 [![2017, Nanne Nauta, Bokalen](images/2017_nanne-nauta_bokalen.jpg?raw=true)](https://uitgeverijcru.blogspot.nl/2017/02/bokalen.html)
 
-Artwork for sponsors for individuals letters during the crowd funding campaign,
-2016.
+Artwork for sponsors for individuals letters during the crowd funding campaign, 2016.
 
 [![2016, Neude, Artwork](images/2016_neude_artwork.jpg?raw=true)](https://github.com/PanderMusubi/neude)
 
-Tote bag for sponsors during the crowd funding campaign, 2016.
+Cotton tote bag for sponsors during the crowd funding campaign, 2016.
 
 [![2016, Neude, Artwork](images/2016-totebag.jpg?raw=true)](https://github.com/PanderMusubi/neude)
 
@@ -72,7 +65,7 @@ Support for all numerals will follow soon.
 
 ## License
 
-The original design of the thirteen letters on the sculptures found in hall of the [former post office]() at the [Neude]() in [Utrecht]() in [the Netherlands]() was made by [Hendrik van den Eijnde](). The statues were made in the 1920s and their copyright expired after 2009, 70 years after the death of the artist.
+The original design of the thirteen letters on the sculptures found in hall of the [former post office]() at the [Neude]() in [Utrecht]() in [the Netherlands]() was made by [Hendrik van den Eijnde](). The statues were created in the 1920s and their copyright expired after 2009, 70 years after the death of the artist.
 
 This project, in terms of at least the font files and documentation, has an [Open Font License (OFL)](https://en.wikipedia.org/wiki/SIL_Open_Font_License). This license can be found in the file called [LICENSE](LICENSE) but also on the site of the authors of the license, [SIL International](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web).
 
@@ -101,7 +94,7 @@ Main sponsor: [a.s.r. vastgoed vermogensbeheer](http://asrvastgoedvermogensbehee
 |   |   |
 |---|---|
 Co-funing: [Gemeente Utrecht](http://utrecht.nl)<br>[![logo Gemeente Utrecht](images/logo-gemeenteutrecht.png?raw=true)](http://utrecht.nl) | Sponsor als partner van voordekunst: [Prins Bernhard Cultuurfonds](http://cultuurfonds.nl)<br>[![logo Prins Bernhard Cultuurfonds](images/logo-cultuurfonds.png?raw=true)](http://cultuurfonds.nl)
-Sponsor: [Museum Het Schip](http://hetschip.nl)<br>[![logo Het Schip](images/logo-hetschip.png?raw=true)](http://hetschip.nl) | Sponsor printed cotton bags: [Katoenfrabriek](http://katoenfabriek.nl)<br>[![logo Katoenfabriek](images/logo-katoenfabriek.png?raw=true)](http://katoenfabriek.nl)
+Sponsor: [Museum Het Schip](http://hetschip.nl)<br>[![logo Het Schip](images/logo-hetschip.png?raw=true)](http://hetschip.nl) | Sponsor printed cotton tote bags: [Katoenfrabriek](http://katoenfabriek.nl)<br>[![logo Katoenfabriek](images/logo-katoenfabriek.png?raw=true)](http://katoenfabriek.nl)
 
 
 ## Sponsored letters
@@ -133,8 +126,7 @@ Guest presentation with 3D models of letters in shopping window in city centre o
 
 ## Distribution
 
-Neude is also available on the following font site, but note that the latest
-version is available first here on GitHub:
+Neude is also available on the following font sites, but note that the latest version is available first here on GitHub:
 
 |   |   |
 |---|---|
