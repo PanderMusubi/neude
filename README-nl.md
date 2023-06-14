@@ -65,7 +65,7 @@ Ondersteuning van alle cijfers zal binnenkort volgen.
 
 ## Licentie
 
-Het originele ontwerp van dertien letters op de standbeelden die te vinden zijn in de hal van het [voormalige postkantoor]() aan het [Neude]() in [Utrecht]() zijn gemaakt door [Hendrik van den Eijnde](). Deze standbeelden zijn in de jaren '20 gemaakt en het auteursrecht erop is in 2009 verlopen, 70 jaar na de dood van de artiest.
+Het originele ontwerp van dertien letters op de standbeelden die te vinden zijn in de hal van het [voormalige postkantoor](https://nl.wikipedia.org/wiki/Hoofdpostkantoor_(Utrecht)) aan de [Neude](https://nl.wikipedia.org/wiki/Neude) in [Utrecht](https://nl.wikipedia.org/wiki/Utrecht_(stad)) zijn gemaakt door [Hendrik van den Eijnde](https://nl.wikipedia.org/wiki/Hendrik_van_den_Eijnde). Deze standbeelden zijn in de jaren '20 gemaakt en het auteursrecht erop is in 2009 verlopen, 70 jaar na de dood van de artiest.
 
 Dit project, betreft de lettertypebestanden en documentatie, heeft een [Open Font License (OFL)](https://en.wikipedia.org/wiki/SIL_Open_Font_License). Deze licentie is te vindne in het bestand genaamd [LICENSE](LICENSE) maar ook op de website van de auteurs van de licentie, [SIL International](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web).
 

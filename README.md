@@ -65,7 +65,7 @@ Support for all numerals will follow soon.
 
 ## License
 
-The original design of the thirteen letters on the sculptures found in hall of the [former post office]() at the [Neude]() in [Utrecht]() in [the Netherlands]() was made by [Hendrik van den Eijnde](). The statues were created in the 1920s and their copyright expired after 2009, 70 years after the death of the artist.
+The original design of the thirteen letters on the sculptures found in hall of the [former post office](https://nl.wikipedia.org/wiki/Hoofdpostkantoor_(Utrecht)) at the [Neude](https://nl.wikipedia.org/wiki/Neude) in [Utrecht](https://en.wikipedia.org/wiki/Utrecht) in [the Netherlands](https://en.wikipedia.org/wiki/Netherlands) was made by [Hendrik van den Eijnde](https://nl.wikipedia.org/wiki/Hendrik_van_den_Eijnde). The statues were created in the 1920s and their copyright expired after 2009, 70 years after the death of the artist.
 
 This project, in terms of at least the font files and documentation, has an [Open Font License (OFL)](https://en.wikipedia.org/wiki/SIL_Open_Font_License). This license can be found in the file called [LICENSE](LICENSE) but also on the site of the authors of the license, [SIL International](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL-FAQ_web).
 
