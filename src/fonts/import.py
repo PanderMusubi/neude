@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Imports glyphs into FontForge'''
+"""Import glyphs into FontForge."""
 
 __author__ = "Stichting z25.org <info@z25.org>"
 __license__ = "MIT"
@@ -7,9 +7,10 @@ __license__ = "MIT"
 from os import listdir, path
 import sys
 from fontforge import activeFont, nameFromUnicode
-#from psMat import translate
+# from psMat import translate
 
 WIDTH = 725
+
 
 def get_src_unis(cwd, font):
     '''get TODO'''
@@ -30,7 +31,7 @@ def get_src_unis(cwd, font):
             sys.exit(1)
         gname = nameFromUnicode(uni)
         if uni in src_unis: # one design per glyph
-            print(f'ERROR: Duplicate glyph name %{svgfile}\t%06d\t{gname}'%uni)
+            print(f'ERROR: Duplicate glyph name %{svgfile}\t%06d\t{gname}' % uni)
             sys.exit(1)
         else:
             src_unis.add(uni)
@@ -42,13 +43,13 @@ def get_src_unis(cwd, font):
             glyph.width = WIDTH
         else:
             # Test run from outside of Fontforge
-            print(f'INFO: found {svgfile}\t%06d\t{gname}'%uni)
+            print(f'INFO: found {svgfile}\t%06d\t{gname}' % uni)
 
     return src_unis
 
-def main():
-    '''Imports glyphs into FontForge'''
 
+def main():
+    """Import glyphs into FontForge."""
     # Following is needed for Unicode characters in file names
 #    reload(sys)
 #    sys.setdefaultencoding('utf8')
@@ -71,19 +72,19 @@ def main():
             try:
                 dst_uni = int(dst, 16)
             except ValueError as verr:
-                print('ERROR: Invalid destination glyph unicode value' \
+                print('ERROR: Invalid destination glyph unicode value'
                       f'in reference {dst} ~ {ref}, {verr}')
                 continue
             try:
                 ref_uni = int(ref, 16)
             except ValueError as verr:
-                print('ERROR: Invalid reference glyph unicode value' \
+                print('ERROR: Invalid reference glyph unicode value'
                       f' in reference {dst} ~ {ref}, {verr}')
                 continue
             dst_gname = nameFromUnicode(dst_uni)
             ref_gname = nameFromUnicode(ref_uni)
             if dst_uni in src_unis:
-                print(f'ERROR: Reference destination {dst_uni} (U{dst})' \
+                print(f'ERROR: Reference destination {dst_uni} (U{dst})'
                       ' exists as source glyph')
                 continue
             else:
@@ -119,11 +120,12 @@ def main():
                             print('ERROR: Unknown operation')
                         glyph.width = WIDTH
                 else:
-                    print(f'WARNING: Destination {dst_uni} (U%s)' \
-                          f' {dst_gname} has unavailable reference ' \
-                          f'{ref_uni} (U%s) {ref_gname},' \
-                          ' skipping, please reorder reference' \
-                          ' file or add SVG sources'%(dst, ref))
+                    print(f'WARNING: Destination {dst_uni} (U%s)'
+                          f' {dst_gname} has unavailable reference '
+                          f'{ref_uni} (U%s) {ref_gname},'
+                          ' skipping, please reorder reference'
+                          ' file or add SVG sources' % (dst, ref))
 
-if __name__ == "__main__":
+
+if __name__ == '__main__':
     main()
